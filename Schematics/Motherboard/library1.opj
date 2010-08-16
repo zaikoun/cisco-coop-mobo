@@ -17,5 +17,6 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -4 -30 1 208 348 648"))
-      (Tab 0))))
+        (Placement "44 0 1 -1 -1 -4 -30 274 481 126 426"))
+      (Tab 0)))
+  (MPSSessionName "Sam Skalicky"))
