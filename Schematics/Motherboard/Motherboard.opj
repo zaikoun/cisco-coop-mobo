@@ -3,6 +3,29 @@
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
-    (NoModify))
+    (NoModify)
+    (File ".\motherboard.dsn"
+      (Type "Schematic Design")))
   (Folder "Outputs")
-  (Folder "Referenced Projects"))
+  (Folder "Referenced Projects")
+  (MPSSessionName "Sam Skalicky")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\motherboard.dsn")
+      (Path "Design Resources" ".\motherboard.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\motherboard.dsn" "Design Cache"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 211 0 348"))
+      (Tab 0)))
+  (PartMRUSelector
+    ("Socket 775"
+      (FullPartName "Socket 775H.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
+      (DeviceIndex "7")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Documents and Settings\Sam Skalicky\My Documents\Motherboard\cisco-coop-mobo\Schematics\Motherboard"))
