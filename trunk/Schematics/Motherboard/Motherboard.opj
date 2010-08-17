@@ -21,9 +21,14 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -4 -30 0 265 0 456"))
+        (Placement "44 0 1 -1 -1 -4 -30 183 448 25 481"))
       (Tab 0)))
   (PartMRUSelector
+    ("DDR3 Socket"
+      (FullPartName "DDR3 SocketG.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
+      (DeviceIndex "6"))
     (OFFPAGELEFT-L
       (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
