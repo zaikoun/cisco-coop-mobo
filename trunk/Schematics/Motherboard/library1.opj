@@ -13,7 +13,7 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\library1.olb")
-      (Select "Design Resources" ".\library1.olb"))
+      (Select "Design Resources" ".\library1.olb" "X48 Express Northbridge"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
