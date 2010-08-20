@@ -9,37 +9,27 @@
     (Board_sim_option "VHDL_flow"))
   (Folder "Outputs")
   (Folder "Referenced Projects")
-  (MPSSessionName "Sam")
+  (MPSSessionName "Sam Skalicky")
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\motherboard.dsn")
-      (Path "Design Resources" ".\motherboard.dsn" "SCHEMATIC1"))
+      (Path "Design Resources" ".\motherboard.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\motherboard.dsn" "SCHEMATIC1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 0 369 -4 -30 3 317 -1 519"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -4 -30 44 944 58 342")
-        (Scroll "734 722")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\DOCUMENTS AND SETTINGS\SAM\MY DOCUMENTS\ICH9\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\MOTHERBOARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "15 DDR3 Channel 1 Slot 0")))
+      (Tab 0)))
   (PartMRUSelector
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
     ("Clock 2"
       (FullPartName "Clock 2A.Normal")
       (LibraryName
          "C:\DOCUMENTS AND SETTINGS\SAM\MY DOCUMENTS\ICH9\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
-      (DeviceIndex "0"))
-    (VCC
-      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (GND
       (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
