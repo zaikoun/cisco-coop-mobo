@@ -15,7 +15,8 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\motherboard.dsn")
       (Path "Design Resources" ".\motherboard.dsn" "SCHEMATIC1")
-      (Select "Design Resources" ".\motherboard.dsn" "SCHEMATIC1"))
+      (Path "Design Resources" ".\motherboard.dsn" "Design Cache")
+      (Select "Design Resources" ".\motherboard.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -23,6 +24,13 @@
         (Placement "44 2 3 0 369 -4 -30 3 317 -1 519"))
       (Tab 0)))
   (PartMRUSelector
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
     (VCC
       (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -30,9 +38,6 @@
       (FullPartName "Clock 2A.Normal")
       (LibraryName
          "C:\DOCUMENTS AND SETTINGS\SAM\MY DOCUMENTS\ICH9\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
-      (DeviceIndex "0"))
-    (GND
-      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     ("Clock CK505"
       (FullPartName "Clock CK505C.Normal")
@@ -65,5 +70,4 @@
       (LibraryName
          "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
       (DeviceIndex "7")))
-  (LastUsedLibraryBrowseDirectory
-     "C:\Documents and Settings\Sam\My Documents\ICH9\cisco-coop-mobo\Schematics\Motherboard"))
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.3\tools\capture\library"))
