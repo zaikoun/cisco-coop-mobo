@@ -6,7 +6,8 @@
       (Type "Schematic Library"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
-    (NoModify))
+    (NoModify)
+    (Board_sim_option "VHDL_flow"))
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (GlobalState
@@ -19,4 +20,5 @@
       (Frame
         (Placement "44 0 1 160 395 -4 -30 8 292 2 348"))
       (Tab 0)))
-  (MPSSessionName "Sam Skalicky"))
+  (MPSSessionName "Sam Skalicky")
+  (ISPCBBASICLICENSE "false"))

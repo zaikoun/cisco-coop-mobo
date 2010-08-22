@@ -1,0 +1,1125 @@
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING:  [DRC0007]  Net has no driving source OFFPAGERIGHT-R
+                    SCHEMATIC1, 13 DDR3 Channel 0 Slot 0  (4.10, 6.10) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source DP2#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (14.60, 3.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source DP3#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (14.60, 3.40) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source DP1#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (14.60, 3.20) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_A[3:35]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.50, 4.30) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source FSB_D[0:63]#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.20, 4.00) 
+WARNING:  [DRC0007]  Net has no driving source DP0#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (14.60, 3.10) 
+WARNING:  [DRC0007]  Net has no driving source DDR_B_DQ_[0:63]
+                    SCHEMATIC1, 09 X48 DDR3 Channel 1  (15.00, 2.70) 
+
+Checking For Single Node Nets
+WARNING:  [DRC0006]  Net has fewer than two connections OFFPAGERIGHT-R
+                    SCHEMATIC1, 13 DDR3 Channel 0 Slot 0  (4.10, 6.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A27
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A10
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A3
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D50
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D37
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D16
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D62#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 4.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A21#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 3.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A31#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 4.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A28#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A3#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 2.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A13#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 3.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_MSID1
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.00, 8.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D3#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 2.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A20#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 3.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A23
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A6
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D46
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D33
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D12
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D6
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D23#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 4.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_FERR#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (2.40, 7.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D32#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 5.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_LINT1
+                    SCHEMATIC1, 01 CPU Front Side Bus  (2.40, 8.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D61#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 4.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A10#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 2.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A32
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A19
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D59
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D42
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D25
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D8
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D2
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D40#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 6.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_INIT#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (2.40, 8.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D31#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 5.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections CPU_ITP_CLK1
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.00, 10.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A34#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 5.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A15
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D55
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D27
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D21
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections DP2#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (14.60, 3.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_BINIT#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (2.40, 5.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D52#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 5.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_RSP#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.00, 7.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_STPCLK#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.00, 7.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A4#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 2.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A14#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 3.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D26#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 4.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D4#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 2.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A28
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A11
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D51
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D43
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D38
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D30
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D17
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D20#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 4.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D22#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 4.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D11#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 3.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D44#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 6.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A8#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 2.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_AP0#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (2.20, 4.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A29#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 4.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D49#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 5.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D24#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 4.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D60#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 4.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D30#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 5.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A24
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A7
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D62
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D47
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D34
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D13
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D7
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A23#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 4.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D18#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 3.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A6#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 2.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D37#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 5.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D27#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D42#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 6.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A33
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A21
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A20
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A4
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D60
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D26
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D9
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D3
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D21#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 4.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A22#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 4.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D17#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 3.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A26#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 4.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A12#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 3.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections CPU_BCLK1
+                    SCHEMATIC1, 01 CPU Front Side Bus  (2.40, 10.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A30#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A16
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D56
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D22
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections DP3#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (14.60, 3.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_IGNNE#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (2.40, 8.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D48#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 5.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_AP01
+                    SCHEMATIC1, 01 CPU Front Side Bus  (2.20, 4.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A24#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 4.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A29
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A12
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D52
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D39
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D18
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A18#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 3.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D45#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 5.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D9#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 3.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D50#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 5.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_MSID0
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.00, 8.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A25
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A8
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D48
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D35
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D28
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D14
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D41#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 6.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D46#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 5.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A5#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 2.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A25#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 4.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A33#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 5.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_DBR#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (2.40, 7.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D19#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 4.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A34
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D61
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D44
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D31
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D10
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D4
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A17#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 3.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D0#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 2.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D47#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 5.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D34#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 5.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D25#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D56#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A30
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A17
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D63
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D57
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D23
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D0
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A16#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 3.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_LL_ID0
+                    SCHEMATIC1, 01 CPU Front Side Bus  (2.40, 9.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D6#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 2.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections CPU_ITP_CLK0
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.00, 9.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections CPU_BCLK0
+                    SCHEMATIC1, 01 CPU Front Side Bus  (2.40, 9.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_LL_ID1
+                    SCHEMATIC1, 01 CPU Front Side Bus  (2.40, 9.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D2#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 2.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D58#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D29#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 5.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A22
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A13
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A5
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D53
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D40
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D19
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections DP1#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (14.60, 3.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D63#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 4.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D39#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 6.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D12#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 3.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A20M#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (2.20, 3.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A7#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 2.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D38#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 5.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A35#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 5.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A32#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 5.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A9#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 2.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A26
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A9
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D49
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D36
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D15
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A15#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 3.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D35#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 5.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D5#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 2.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D7#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 2.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D36#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 5.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D1#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 2.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A35
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D45
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D32
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D11
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D5
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_LINT0
+                    SCHEMATIC1, 01 CPU Front Side Bus  (2.40, 8.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D54#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 5.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D53#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 5.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D10#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 3.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D51#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 5.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D59#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 4.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A31
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A18
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D58
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D41
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D29
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D24
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D1
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D13#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 3.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_MCERR#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.00, 8.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D43#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 6.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A27#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 4.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_SMI#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.00, 7.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D8#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 2.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D28#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 4.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A19#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 3.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D55#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 4.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A14
+                    SCHEMATIC1, 06 X48 Front Side Bus  (1.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D54
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D20
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.50, 4.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections DP0#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (14.60, 3.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_IERR#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (2.40, 8.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D16#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 3.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D33#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 5.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_TRST#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.00, 6.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D14#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 3.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A11#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (6.40, 2.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D57#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (15.20, 4.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D15#
+                    SCHEMATIC1, 01 CPU Front Side Bus  (10.90, 3.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections VTT_PWR_GOOD
+                    SCHEMATIC1, 04 CPU VTT  (6.40, 6.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_A_A_14
+                    SCHEMATIC1, 08 X48 DDR3 Channel 0  (2.90, 3.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_A_DQS_8
+                    SCHEMATIC1, 08 X48 DDR3 Channel 0  (6.50, 2.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_A_DQSB_8
+                    SCHEMATIC1, 08 X48 DDR3 Channel 0  (7.30, 3.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_B_DQSB_8
+                    SCHEMATIC1, 09 X48 DDR3 Channel 1  (7.20, 4.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_B_A_14
+                    SCHEMATIC1, 09 X48 DDR3 Channel 1  (2.80, 4.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_B_DQ_48
+                    SCHEMATIC1, 16 DDR3 Channel 1 Slot 1  (5.50, 5.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_B_DQS_8
+                    SCHEMATIC1, 09 X48 DDR3 Channel 1  (6.40, 3.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_A_DQ_48
+                    SCHEMATIC1, 16 DDR3 Channel 1 Slot 1  (10.10, 7.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_A_DQ_48
+                    SCHEMATIC1, 15 DDR3 Channel 1 Slot 0  (10.80, 6.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D35#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D53#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D34#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A25#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 3.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D52#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D58#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D3#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A28#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 3.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A24#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 3.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A35#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 2.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A14#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 3.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A12#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A20#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 3.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D26#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A32#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 2.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D38#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D10#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D36#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D30#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A26#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 3.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D40#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D0#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D51#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D32#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A9#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A21#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 3.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A16#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 3.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D59#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D44#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A23#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 3.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A3#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 1.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A13#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A22#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 3.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D12#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D6#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D11#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D45#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D4#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D50#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A15#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 3.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D37#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A10#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D28#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D21#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D41#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A31#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 3.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D33#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D54#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D61#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 6.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D22#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A30#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 3.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D13#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D60#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 6.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D43#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D49#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A29#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 3.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D31#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D27#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D29#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D20#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D42#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D18#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D57#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D62#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 6.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D47#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D63#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 6.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D17#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A11#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D14#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D2#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D16#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D39#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D23#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A7#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A5#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D15#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D1#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A18#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 3.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D7#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D24#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A8#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A6#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D19#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D56#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A17#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 3.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A27#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 3.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D25#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A34#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 2.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D46#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D9#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D55#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A19#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 3.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D5#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D48#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A33#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 2.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_A4#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections FSB_D8#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_A_CB_3
+                    SCHEMATIC1, 08 X48 DDR3 Channel 0  (6.50, 5.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_A_CB_6
+                    SCHEMATIC1, 08 X48 DDR3 Channel 0  (6.50, 5.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_A_CB_1
+                    SCHEMATIC1, 08 X48 DDR3 Channel 0  (6.50, 6.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_A_CK_5
+                    SCHEMATIC1, 08 X48 DDR3 Channel 0  (2.90, 6.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_A_CB_4
+                    SCHEMATIC1, 08 X48 DDR3 Channel 0  (6.50, 5.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_A_CKB_4
+                    SCHEMATIC1, 08 X48 DDR3 Channel 0  (2.90, 7.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_A_CK_4
+                    SCHEMATIC1, 08 X48 DDR3 Channel 0  (2.90, 6.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_A_CB_0
+                    SCHEMATIC1, 08 X48 DDR3 Channel 0  (6.50, 6.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_A_CKB_5
+                    SCHEMATIC1, 08 X48 DDR3 Channel 0  (2.90, 7.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_A_CB_5
+                    SCHEMATIC1, 08 X48 DDR3 Channel 0  (6.50, 5.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_A_CB_2
+                    SCHEMATIC1, 08 X48 DDR3 Channel 0  (6.50, 5.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_A_CB_7
+                    SCHEMATIC1, 08 X48 DDR3 Channel 0  (6.50, 5.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_B_CB_1
+                    SCHEMATIC1, 09 X48 DDR3 Channel 1  (6.30, 7.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_B_CB_0
+                    SCHEMATIC1, 09 X48 DDR3 Channel 1  (6.30, 7.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_A_DQ_48
+                    SCHEMATIC1, 09 X48 DDR3 Channel 1  (14.90, 3.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_B_CB_6
+                    SCHEMATIC1, 09 X48 DDR3 Channel 1  (6.30, 7.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_B_CKB_4
+                    SCHEMATIC1, 09 X48 DDR3 Channel 1  (2.70, 8.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_B_CB_5
+                    SCHEMATIC1, 09 X48 DDR3 Channel 1  (6.30, 7.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_B_CK_5
+                    SCHEMATIC1, 09 X48 DDR3 Channel 1  (2.70, 8.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_B_CKB_5
+                    SCHEMATIC1, 09 X48 DDR3 Channel 1  (2.70, 9.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_B_CB_7
+                    SCHEMATIC1, 09 X48 DDR3 Channel 1  (6.30, 7.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_B_CB_4
+                    SCHEMATIC1, 09 X48 DDR3 Channel 1  (6.30, 7.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_B_CB_3
+                    SCHEMATIC1, 09 X48 DDR3 Channel 1  (6.30, 7.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_B_CK_4
+                    SCHEMATIC1, 09 X48 DDR3 Channel 1  (2.70, 8.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections DDR_B_CB_2
+                    SCHEMATIC1, 09 X48 DDR3 Channel 1  (6.30, 7.60) 
+
+Checking For Unconnected Bus Nets
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector DDR_A_DQ_48
+                    SCHEMATIC1, 16 DDR3 Channel 1 Slot 1  (10.10, 7.20) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector DDR_A_DQ_48
+                    SCHEMATIC1, 15 DDR3 Channel 1 Slot 0  (10.80, 6.70) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D35#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.50) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D53#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.60) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D34#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.40) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A25#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 3.60) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D52#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.70) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D58#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.10) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D3#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.30) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A28#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 3.30) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A24#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 3.70) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A35#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 2.60) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A14#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 3.00) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A12#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.80) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A20#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 3.60) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D26#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.60) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A32#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 2.90) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D38#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.80) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D10#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.00) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D36#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.60) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D30#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.00) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A26#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 3.50) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D40#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.90) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D0#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.00) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D51#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.80) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D32#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.20) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A9#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.50) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A21#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 3.70) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A16#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 3.20) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D59#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.00) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D44#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.50) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A23#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 3.80) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A3#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 1.90) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A13#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.90) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A22#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 3.80) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D12#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.20) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D6#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.60) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D11#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.10) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D45#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.40) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D4#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.40) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D50#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.90) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A15#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 3.10) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D37#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.70) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A10#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.60) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D28#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.80) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D21#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.10) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D41#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.80) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A31#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 3.00) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D33#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.30) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D54#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.50) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D61#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 6.80) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D22#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.20) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A30#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 3.10) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D13#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.30) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D60#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 6.90) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D43#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.60) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D49#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.00) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A29#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 3.20) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D31#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.10) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D27#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.70) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D29#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.90) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D20#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.00) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D42#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.70) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D18#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.80) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D57#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.20) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D62#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 6.70) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D47#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.20) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D63#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 6.60) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D17#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.70) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A11#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.70) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D14#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.40) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D2#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.20) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D16#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.60) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D39#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 8.90) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D23#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.30) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A7#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.30) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A5#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.10) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D15#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.50) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D1#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.10) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A18#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 3.40) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D7#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.70) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D24#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.40) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A8#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.40) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A6#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.20) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D19#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 6.90) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D56#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.30) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A17#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 3.30) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A27#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 3.40) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D25#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 7.50) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A34#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 2.70) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D46#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.30) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D9#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.90) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D55#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 7.40) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A19#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 3.50) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D5#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.50) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D48#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (11.90, 8.10) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A33#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (6.40, 2.80) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_A4#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (2.10, 2.00) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector FSB_D8#
+                    SCHEMATIC1, 06 X48 Front Side Bus  (7.60, 5.80) 
+WARNING:  [DRC0008]  Two nets in same schematic have the same name, but there is no off-page connector DDR_A_DQ_48
+                    SCHEMATIC1, 09 X48 DDR3 Channel 1  (14.90, 3.80) 
