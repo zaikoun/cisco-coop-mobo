@@ -1,0 +1,36 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : motherboard.brd                               )
+(    Software Version : 16.3p006                                      )
+(    Date/Time        : Wed Aug 25 23:27:03 2010                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on side Top
+
+ERROR:   Could not find symbol:  U1 / X48 EXPRESS NORTHBRIDGE_INTEL_X / INTEL_X48
+ERROR:   Could not find symbol:  J1 / SOCKET 775_INTEL_SOCKET_775_REV / INTEL_SOCKET_775_REV2
+ERROR:   Could not find symbol:  J3 / DDR3 SOCKET_MOLEX_DDR3_SOCKET_7 / MOLEX_DDR3_SOCKET_78315-0201
+ERROR:   Could not find symbol:  J4 / DDR3 SOCKET_MOLEX_DDR3_SOCKET_7 / MOLEX_DDR3_SOCKET_78315-0201
+ERROR:   Could not find symbol:  J2 / DDR3 SOCKET_MOLEX_DDR3_SOCKET_7 / MOLEX_DDR3_SOCKET_78315-0201
+ERROR:   Could not find symbol:  J5 / DDR3 SOCKET_MOLEX_DDR3_SOCKET_7 / MOLEX_DDR3_SOCKET_78315-0201
+ERROR:   Could not find symbol:  J7 / PCI EXPRESS X16 SLOT_MOLEX_PCI- / MOLEX_PCI-E_X16_SOCKET_47505
+ERROR:   Could not find symbol:  J6 / PCI EXPRESS X16 SLOT_MOLEX_PCI- / MOLEX_PCI-E_X16_SOCKET_47505
+ERROR:   Could not find symbol:  U2 / CLOCK CK505_TSSOP_56_CLOCK CK50 / TSSOP_56
+ERROR:   Could not find symbol:  R3 / R_0805_0805_SMD_R_0805 / 0805_SMD
+ERROR:   Could not find symbol:  R4 / R_0805_0805_SMD_R_0805 / 0805_SMD
+ERROR:   Could not find symbol:  R1 / R_0805_0805_SMD_R_0805 / 0805_SMD
+ERROR:   Could not find symbol:  R2 / R_0805_0805_SMD_R_0805 / 0805_SMD
+ERROR:   Could not find symbol:  TP2 / TEST POINT_TEST_POINT_X48 TP2 / TEST_POINT
+ERROR:   Could not find symbol:  TP4 / TEST POINT_TEST_POINT_X48 TP0 / TEST_POINT
+ERROR:   Could not find symbol:  TP3 / TEST POINT_TEST_POINT_X48 TP1 / TEST_POINT
+ERROR:   Could not find symbol:  TP1 / TEST POINT_TEST_POINT_X48 TP3 / TEST_POINT
+
+
+Placed 0 of 17 applicable (17 total) symbols.
+
+-----------------------------------------------------------------------
+

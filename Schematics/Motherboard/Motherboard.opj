@@ -8,7 +8,7 @@
       (Type "Schematic Design"))
     (ANNOTATE_Scope "0")
     (ANNOTATE_Mode "0")
-    (ANNOTATE_Action "3")
+    (ANNOTATE_Action "1")
     (Annotate_Page_Order "1")
     (ANNOTATE_Reset_References_to_1 "FALSE")
     (ANNOTATE_No_Page_Number_Change "FALSE")
@@ -22,7 +22,6 @@
     (IREFReportFile
        "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\MOTHERBOARD.csv")
     (IREFViewOutput "0")
-    (Board_sim_option "VHDL_flow")
     (DRC_Scope "0")
     (DRC_Action "0")
     (DRC_Create_Warnings "FALSE")
@@ -86,34 +85,74 @@
     (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
     (BOM_One_Part_Per_Line "FALSE")
     (Open_BOM_in_Excel "TRUE")
-    (BOM_View_Output "FALSE"))
+    (BOM_View_Output "FALSE")
+    (Board_sim_option "VHDL_flow"))
   (Folder "Outputs"
     (File ".\motherboard.csv"
       (Type "Report"))
     (File ".\motherboard.drc"
       (Type "Report"))
     (File ".\motherboard.bom"
-      (Type "Report")))
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (MPSSessionName "Sam Skalicky")
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\motherboard.dsn")
-      (Path "Design Resources" ".\motherboard.dsn" "SCHEMATIC1")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\motherboard.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 0 369 -4 -30 3 317 -1 519"))
+        (Placement "44 0 1 0 369 -4 -30 3 317 -1 519"))
       (Tab 0)))
   (PartMRUSelector
+    ("TEST POINT"
+      (FullPartName "TEST POINT.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (R_0805
+      (FullPartName "R_0805.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("X48 Express Northbridge"
+      (FullPartName "X48 Express NorthbridgeA.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
+      (DeviceIndex "0"))
     ("Clock CK505"
       (FullPartName "Clock CK505C.Normal")
       (LibraryName
          "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
       (DeviceIndex "2"))
+    ("Socket 775"
+      (FullPartName "Socket 775L.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
+      (DeviceIndex "11"))
+    ("PCI Express x16 Slot"
+      (FullPartName "PCI Express x16 SlotC.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
+      (DeviceIndex "2"))
+    ("DDR3 Socket"
+      (FullPartName "DDR3 SocketG.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
+      (DeviceIndex "6"))
     (OFFPAGELEFT-L
       (LibraryName
          "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
@@ -125,10 +164,6 @@
     (OFFPAGELEFT-R
       (LibraryName
          "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
-      (DeviceIndex "0"))
-    ("TEST POINT"
-      (FullPartName "TEST POINT.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
       (DeviceIndex "0"))
     (GND
       (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
@@ -145,28 +180,8 @@
       (LibraryName
          "C:\DOCUMENTS AND SETTINGS\SAM\MY DOCUMENTS\ICH9\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
       (DeviceIndex "0"))
-    ("PCI Express x16 Slot"
-      (FullPartName "PCI Express x16 SlotD.Normal")
-      (LibraryName
-         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
-      (DeviceIndex "3"))
-    ("X48 Express Northbridge"
-      (FullPartName "X48 Express NorthbridgeA.Normal")
-      (LibraryName
-         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
-      (DeviceIndex "0"))
-    ("DDR3 Socket"
-      (FullPartName "DDR3 SocketG.Normal")
-      (LibraryName
-         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
-      (DeviceIndex "6"))
     (PORTRIGHT-R
       (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    ("Socket 775"
-      (FullPartName "Socket 775H.Normal")
-      (LibraryName
-         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
-      (DeviceIndex "7")))
+      (DeviceIndex "0")))
   (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.3\tools\capture\library")
   (ISPCBBASICLICENSE "false"))
