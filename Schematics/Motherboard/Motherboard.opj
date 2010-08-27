@@ -58,7 +58,7 @@
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory" "allegro")
     ("View Allegro Netlist Files" "FALSE")
-    ("Update Allegro Board" "FALSE")
+    ("Update Allegro Board" "TRUE")
     ("Allegro Netlist Output Board File" "allegro\motherboard.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
@@ -86,7 +86,9 @@
     (BOM_One_Part_Per_Line "FALSE")
     (Open_BOM_in_Excel "TRUE")
     (BOM_View_Output "FALSE")
-    (Board_sim_option "VHDL_flow"))
+    (Board_sim_option "VHDL_flow")
+    ("Allegro Netlist Input Board File"
+       "C:\Documents and Settings\Sam Skalicky\My Documents\Motherboard\cisco-coop-mobo\Schematics\Motherboard\allegro\motherboard.brd"))
   (Folder "Outputs"
     (File ".\motherboard.csv"
       (Type "Report"))

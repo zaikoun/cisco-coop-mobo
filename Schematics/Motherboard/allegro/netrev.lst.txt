@@ -1,0 +1,2943 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Netrev Allegro Import Logic                                      )
+(                                                                     )
+(    Drawing          : motherboard.brd                               )
+(    Software Version : 16.3p004                                      )
+(    Date/Time        : Thu Aug 26 22:06:38 2010                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'C:/Documents and Settings/Sam Skalicky/My Documents/Motherboard/cisco-coop-mobo/Schematics/Motherboard/allegro';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'C:/Documents and Settings/Sam Skalicky/My Documents/Motherboard/cisco-coop-mobo/Schematics/Motherboard/allegro/motherboard.brd';
+NEW_BOARD_NAME 'C:/Documents and Settings/Sam Skalicky/My Documents/Motherboard/cisco-coop-mobo/Schematics/Motherboard/allegro/motherboard.brd';
+
+CmdLine: netrev -$ -i C:/Documents and Settings/Sam Skalicky/My Documents/Motherboard/cisco-coop-mobo/Schematics/Motherboard/allegro -y 1 C:/Documents and Settings/Sam Skalicky/My Documents/Motherboard/cisco-coop-mobo/Schematics/Motherboard/allegro/#Taaaaaa02004.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read C:/Documents and Settings/Sam Skalicky/My Documents/Motherboard/cisco-coop-mobo/Schematics/Motherboard/allegro/pstchip.dat 
+   Finished reading C:/Documents and Settings/Sam Skalicky/My Documents/Motherboard/cisco-coop-mobo/Schematics/Motherboard/allegro/pstchip.dat (00:00:00.15)
+Starting to read C:/Documents and Settings/Sam Skalicky/My Documents/Motherboard/cisco-coop-mobo/Schematics/Motherboard/allegro/pstxprt.dat 
+   Finished reading C:/Documents and Settings/Sam Skalicky/My Documents/Motherboard/cisco-coop-mobo/Schematics/Motherboard/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/Documents and Settings/Sam Skalicky/My Documents/Motherboard/cisco-coop-mobo/Schematics/Motherboard/allegro/pstxnet.dat 
+   Finished reading C:/Documents and Settings/Sam Skalicky/My Documents/Motherboard/cisco-coop-mobo/Schematics/Motherboard/allegro/pstxnet.dat (00:00:00.09)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A1'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A2'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A3'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A4'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A5'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A6'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A7'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A8'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A9'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A10'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A11'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A12'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A13'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A14'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A15'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A16'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A17'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A18'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A19'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A20'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A21'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A22'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A23'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A24'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A25'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A26'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A27'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A28'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A29'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A30'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A31'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A32'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A33'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A34'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A35'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A36'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A37'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A38'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A39'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A40'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A41'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A42'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A43'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A44'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A45'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A46'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A47'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A48'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A49'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A50'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A51'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A52'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A53'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A54'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A55'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A56'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A57'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A58'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A59'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A60'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A61'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A62'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A63'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A64'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B1'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B2'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B3'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B4'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B5'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B6'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B7'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B8'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B9'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B10'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B11'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B12'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B13'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B14'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B15'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B16'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B17'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B18'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B19'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B20'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B21'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B22'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B23'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B24'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B25'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B26'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B27'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B28'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B29'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B30'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B31'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B32'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B33'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B34'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B35'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B36'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B37'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B38'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B39'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B40'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B41'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B42'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B43'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B44'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B45'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B46'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B47'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B48'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B49'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B50'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B51'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B52'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B53'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B54'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B55'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B56'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B57'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B58'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B59'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B60'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B61'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B62'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B63'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B64'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A65'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A66'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A67'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A68'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A69'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A70'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A71'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A72'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A73'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A74'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A75'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A76'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A77'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A78'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A79'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A80'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A81'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'A82'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B65'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B66'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B67'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B68'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B69'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B70'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B71'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B72'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B73'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B74'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B75'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B76'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B77'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B78'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B79'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B80'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B81'.
+
+ERROR(SPMHNI-196): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' has extra pin 'B82'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '1'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '2'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '84'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '85'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '8'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '91'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '92'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '10'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '102'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '106'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '110'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '116'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '120'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '124'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '128'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '133'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '137'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '141'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '145'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '149'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '153'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '157'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '161'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '94'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '97'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '100'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '105'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '109'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '113'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '119'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '123'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '127'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '13'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '131'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '136'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '140'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '144'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '148'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '152'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '156'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '16'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '160'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '164'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '18'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '21'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '22'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '25'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '26'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '29'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '32'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '35'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '36'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '39'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '4'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '40'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '43'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '44'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '47'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '49'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '52'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '53'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '56'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '57'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '60'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '61'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '64'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '65'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '68'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '69'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '7'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '72'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '73'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '76'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '77'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '80'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '86'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '9'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '87'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '88'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '89'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '90'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '83'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '17'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '31'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '48'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '81'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '93'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '95'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '96'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '12'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '101'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '114'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '115'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '132'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '3'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '30'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '82'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '5'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '6'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '11'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '99'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '104'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '143'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '147'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '151'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '155'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '159'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '163'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '108'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '112'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '118'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '122'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '126'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '130'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '135'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '139'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '98'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '103'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '142'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '146'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '150'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '154'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '158'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '162'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '107'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '111'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '117'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '121'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '125'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '129'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '134'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '138'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '15'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '20'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '59'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '63'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '67'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '71'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '75'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '79'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '24'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '28'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '34'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '38'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '42'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '46'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '51'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '55'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '14'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '19'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '58'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '62'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '66'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '70'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '74'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '78'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '23'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '27'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '33'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '37'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '41'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '45'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '50'.
+
+ERROR(SPMHNI-195): Symbol 'MOLEX_PCI-E_X16_SOCKET_47505' for device 'PCI EXPRESS X16 SLOT_MOLEX_PCI-' is missing pin '54'.
+
+#1   ERROR(SPMHNI-191): Device/Symbol check error detected.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK14'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG14'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'P30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'P28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AM19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AM18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC37'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB26'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC14'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AU44'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN44'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE44'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AM42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA44'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AM43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BD37'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BD27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB29'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA29'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BD29'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AM28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AM27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BD25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BD42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW44'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BD39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BD4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BE12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA9'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC9'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BD11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BD13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB14'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BE16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BD15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BE8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AU43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR44'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AU41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL44'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP45'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC45'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AF42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AF45'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'Y42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BD7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'Y45'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BD9'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BD21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB20'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BE20'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB32'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK45'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AJ44'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AJ42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG44'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BD17'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BD19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB17'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA17'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC32'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BD33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BD31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB32'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB44'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BD35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA37'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'P4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'P3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T1'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N2'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R2'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'P16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD32'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG32'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AM14'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AM25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AM32'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'B19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'P19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'P21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V32'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W32'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'P43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'U44'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C26'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R44'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'A28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'U42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W44'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'U41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T45'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'P42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'J41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H45'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G44'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N44'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'A38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M45'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D44'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'B42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'B39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L44'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C37'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E37'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'B35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'J43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'B37'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'J44'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'B15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C14'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'J2'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'A16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'B13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D2'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E17'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D14'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G2'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L2'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'A12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E9'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'A8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'B4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H1'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'J5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M1'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'B11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'B9'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'B7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB1'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AM3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP1'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AF1'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AJ5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK1'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN2'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR2'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AU2'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE2'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AF4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG2'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AJ2'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL2'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AM4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD14'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE14'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'B25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'A23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D20'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AU5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D26'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'B27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY45'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC20'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC26'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BE22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BE24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BE28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BE32'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BE36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BE40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH14'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AM22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AM23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AM30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'A20'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA14'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB14'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AF3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T14'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V14'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA2'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'U2'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'U4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'U5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V1'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W2'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'Y1'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'Y3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'Y4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA32'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AB45'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC1'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC14'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC32'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AC8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD1'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD45'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AD6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE32'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AE8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AF43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AG8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH1'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH32'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH45'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AH8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AJ4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AJ41'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK32'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AK8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AL8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AM1'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AM16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AM21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AM24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AM45'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AN7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AP8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AR8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT1'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT45'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AT8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AU3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV1'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV45'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AV6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB2'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BC8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BE10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BE14'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BE18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BE23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BE26'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BE30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BE34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BE38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BE6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'A10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'A14'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'A18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'A22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'A24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'A26'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'A34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'A36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'A40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'A6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AA8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AW2'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY1'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'AY3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'B17'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'B21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'B29'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BA5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'BB3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C20'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C9'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D17'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D29'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D42'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E5'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F1'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F45'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'J3'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K1'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K45'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M10'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M15'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N16'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N19'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'N7'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'P1'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'P14'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'P18'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'P22'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'P23'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'P24'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'P25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'P27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'P32'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'P45'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R12'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R21'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R34'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R38'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R4'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'R8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T11'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T32'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'T6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V36'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V40'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V45'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'V8'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W13'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W14'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W35'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W39'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'W6'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'Y43'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'A30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'A32'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'B31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'B33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'C32'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D32'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'D33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E29'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E31'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'E33'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'F30'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'G28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'H28'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K25'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'K27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'L27'.
+
+ERROR(SPMHNI-195): Symbol 'INTEL_X48' for device 'X48 EXPRESS NORTHBRIDGE_INTEL_X' is missing pin 'M27'.
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.3/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.3/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.3/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.3/share/pcb/allegrolib/symbols 
+           C:/SPB_Data/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.3/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.3/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.3/share/pcb/allegrolib/symbols 
+           C:\SPB_Data\ 
+
+
+------ Summary Statistics ------
+
+
+#2   Run stopped because errors were detected
+
+netrev run on Aug 26 22:06:38 2010
+   DESIGN NAME : 'MOTHERBOARD'
+   PACKAGING ON Nov 17 2009 03:09:43
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+  2 errors detected
+ No oversight detected
+  1 warnings detected
+
+cpu time      0:01:32
+elapsed time  0:00:00
+
