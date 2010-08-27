@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.3.0 p002Aug-25-2010 at 23:10:51}
+{ Using PSTWRITER 16.3.0 p002Aug-26-2010 at 22:38:03}
 primitive 'SOCKET 775_INTEL_SOCKET_775_REV';
   pin
     'A10#':
@@ -3066,496 +3066,496 @@ end_primitive;
 primitive 'PCI EXPRESS X16 SLOT_MOLEX_PCI-';
   pin
     '+12V _1':
-      PIN_NUMBER='(1,0,0,0)';
+      PIN_NUMBER='(A1,0,0,0)';
       PINUSE='UNSPEC';
     '+12V _2':
-      PIN_NUMBER='(2,0,0,0)';
+      PIN_NUMBER='(A2,0,0,0)';
       PINUSE='UNSPEC';
     '+12V _84':
-      PIN_NUMBER='(84,0,0,0)';
+      PIN_NUMBER='(B2,0,0,0)';
       PINUSE='UNSPEC';
     '+12V _85':
-      PIN_NUMBER='(85,0,0,0)';
+      PIN_NUMBER='(B3,0,0,0)';
       PINUSE='UNSPEC';
     '+3.3V _8':
-      PIN_NUMBER='(8,0,0,0)';
+      PIN_NUMBER='(A8,0,0,0)';
       PINUSE='UNSPEC';
     '+3.3V _91':
-      PIN_NUMBER='(91,0,0,0)';
+      PIN_NUMBER='(B9,0,0,0)';
       PINUSE='UNSPEC';
     '+3.3V _92':
-      PIN_NUMBER='(92,0,0,0)';
+      PIN_NUMBER='(B10,0,0,0)';
       PINUSE='UNSPEC';
     '3.3VAUX':
-      PIN_NUMBER='(10,0,0,0)';
+      PIN_NUMBER='(A10,0,0,0)';
       PINUSE='UNSPEC';
     'GND _4':
-      PIN_NUMBER='(0,4,0,0)';
+      PIN_NUMBER='(0,A4,0,0)';
       PINUSE='UNSPEC';
     'GND _7':
-      PIN_NUMBER='(0,7,0,0)';
+      PIN_NUMBER='(0,A7,0,0)';
       PINUSE='UNSPEC';
     'GND _13':
-      PIN_NUMBER='(0,13,0,0)';
+      PIN_NUMBER='(0,A13,0,0)';
       PINUSE='UNSPEC';
     'GND _16':
-      PIN_NUMBER='(0,16,0,0)';
+      PIN_NUMBER='(0,A16,0,0)';
       PINUSE='UNSPEC';
     'GND _18':
-      PIN_NUMBER='(0,18,0,0)';
+      PIN_NUMBER='(0,A18,0,0)';
       PINUSE='UNSPEC';
     'GND _21':
-      PIN_NUMBER='(0,21,0,0)';
+      PIN_NUMBER='(0,A21,0,0)';
       PINUSE='UNSPEC';
     'GND _22':
-      PIN_NUMBER='(0,22,0,0)';
+      PIN_NUMBER='(0,A22,0,0)';
       PINUSE='UNSPEC';
     'GND _25':
-      PIN_NUMBER='(0,25,0,0)';
+      PIN_NUMBER='(0,A25,0,0)';
       PINUSE='UNSPEC';
     'GND _26':
-      PIN_NUMBER='(0,26,0,0)';
+      PIN_NUMBER='(0,A26,0,0)';
       PINUSE='UNSPEC';
     'GND _29':
-      PIN_NUMBER='(0,29,0,0)';
+      PIN_NUMBER='(0,A29,0,0)';
       PINUSE='UNSPEC';
     'GND _32':
-      PIN_NUMBER='(0,32,0,0)';
+      PIN_NUMBER='(0,A32,0,0)';
       PINUSE='UNSPEC';
     'GND _35':
-      PIN_NUMBER='(0,35,0,0)';
+      PIN_NUMBER='(0,A35,0,0)';
       PINUSE='UNSPEC';
     'GND _36':
-      PIN_NUMBER='(0,36,0,0)';
+      PIN_NUMBER='(0,A36,0,0)';
       PINUSE='UNSPEC';
     'GND _39':
-      PIN_NUMBER='(0,39,0,0)';
+      PIN_NUMBER='(0,A39,0,0)';
       PINUSE='UNSPEC';
     'GND _40':
-      PIN_NUMBER='(0,40,0,0)';
+      PIN_NUMBER='(0,A40,0,0)';
       PINUSE='UNSPEC';
     'GND _43':
-      PIN_NUMBER='(0,43,0,0)';
+      PIN_NUMBER='(0,A43,0,0)';
       PINUSE='UNSPEC';
     'GND _44':
-      PIN_NUMBER='(0,44,0,0)';
+      PIN_NUMBER='(0,A44,0,0)';
       PINUSE='UNSPEC';
     'GND _47':
-      PIN_NUMBER='(0,47,0,0)';
+      PIN_NUMBER='(0,A47,0,0)';
       PINUSE='UNSPEC';
     'GND _49':
-      PIN_NUMBER='(0,49,0,0)';
+      PIN_NUMBER='(0,A49,0,0)';
       PINUSE='UNSPEC';
     'GND _52':
-      PIN_NUMBER='(0,52,0,0)';
+      PIN_NUMBER='(0,A52,0,0)';
       PINUSE='UNSPEC';
     'GND _53':
-      PIN_NUMBER='(0,53,0,0)';
+      PIN_NUMBER='(0,A53,0,0)';
       PINUSE='UNSPEC';
     'GND _56':
-      PIN_NUMBER='(0,56,0,0)';
+      PIN_NUMBER='(0,A56,0,0)';
       PINUSE='UNSPEC';
     'GND _57':
-      PIN_NUMBER='(0,57,0,0)';
+      PIN_NUMBER='(0,A57,0,0)';
       PINUSE='UNSPEC';
     'GND _60':
-      PIN_NUMBER='(0,60,0,0)';
+      PIN_NUMBER='(0,A60,0,0)';
       PINUSE='UNSPEC';
     'GND _61':
-      PIN_NUMBER='(0,61,0,0)';
+      PIN_NUMBER='(0,A61,0,0)';
       PINUSE='UNSPEC';
     'GND _64':
-      PIN_NUMBER='(0,64,0,0)';
+      PIN_NUMBER='(0,A64,0,0)';
       PINUSE='UNSPEC';
     'GND _65':
-      PIN_NUMBER='(0,65,0,0)';
+      PIN_NUMBER='(0,A65,0,0)';
       PINUSE='UNSPEC';
     'GND _68':
-      PIN_NUMBER='(0,68,0,0)';
+      PIN_NUMBER='(0,A68,0,0)';
       PINUSE='UNSPEC';
     'GND _69':
-      PIN_NUMBER='(0,69,0,0)';
+      PIN_NUMBER='(0,A69,0,0)';
       PINUSE='UNSPEC';
     'GND _72':
-      PIN_NUMBER='(0,72,0,0)';
+      PIN_NUMBER='(0,A72,0,0)';
       PINUSE='UNSPEC';
     'GND _73':
-      PIN_NUMBER='(0,73,0,0)';
+      PIN_NUMBER='(0,A73,0,0)';
       PINUSE='UNSPEC';
     'GND _76':
-      PIN_NUMBER='(0,76,0,0)';
+      PIN_NUMBER='(0,A76,0,0)';
       PINUSE='UNSPEC';
     'GND _77':
-      PIN_NUMBER='(0,77,0,0)';
+      PIN_NUMBER='(0,A77,0,0)';
       PINUSE='UNSPEC';
     'GND _80':
-      PIN_NUMBER='(0,80,0,0)';
-      PINUSE='UNSPEC';
-    'GND _86':
-      PIN_NUMBER='(0,86,0,0)';
-      PINUSE='UNSPEC';
-    'GND _100':
-      PIN_NUMBER='(0,100,0,0)';
-      PINUSE='UNSPEC';
-    'GND _105':
-      PIN_NUMBER='(0,105,0,0)';
-      PINUSE='UNSPEC';
-    'GND _109':
-      PIN_NUMBER='(0,109,0,0)';
-      PINUSE='UNSPEC';
-    'GND _113':
-      PIN_NUMBER='(0,113,0,0)';
-      PINUSE='UNSPEC';
-    'GND _119':
-      PIN_NUMBER='(0,119,0,0)';
-      PINUSE='UNSPEC';
-    'GND _123':
-      PIN_NUMBER='(0,123,0,0)';
-      PINUSE='UNSPEC';
-    'GND _127':
-      PIN_NUMBER='(0,127,0,0)';
-      PINUSE='UNSPEC';
-    'GND _131':
-      PIN_NUMBER='(0,131,0,0)';
-      PINUSE='UNSPEC';
-    'GND _136':
-      PIN_NUMBER='(0,136,0,0)';
-      PINUSE='UNSPEC';
-    'GND _140':
-      PIN_NUMBER='(0,140,0,0)';
-      PINUSE='UNSPEC';
-    'GND _144':
-      PIN_NUMBER='(0,144,0,0)';
-      PINUSE='UNSPEC';
-    'GND _148':
-      PIN_NUMBER='(0,148,0,0)';
-      PINUSE='UNSPEC';
-    'GND _152':
-      PIN_NUMBER='(0,152,0,0)';
-      PINUSE='UNSPEC';
-    'GND _156':
-      PIN_NUMBER='(0,156,0,0)';
-      PINUSE='UNSPEC';
-    'GND _160':
-      PIN_NUMBER='(0,160,0,0)';
-      PINUSE='UNSPEC';
-    'GND _164':
-      PIN_NUMBER='(0,164,0,0)';
-      PINUSE='UNSPEC';
-    'GND  _94':
-      PIN_NUMBER='(0,94,0,0)';
-      PINUSE='UNSPEC';
-    'GND  _97':
-      PIN_NUMBER='(0,97,0,0)';
-      PINUSE='UNSPEC';
-    'GND  _102':
-      PIN_NUMBER='(0,102,0,0)';
-      PINUSE='UNSPEC';
-    'GND  _106':
-      PIN_NUMBER='(0,106,0,0)';
-      PINUSE='UNSPEC';
-    'GND  _110':
-      PIN_NUMBER='(0,110,0,0)';
-      PINUSE='UNSPEC';
-    'GND  _116':
-      PIN_NUMBER='(0,116,0,0)';
-      PINUSE='UNSPEC';
-    'GND  _120':
-      PIN_NUMBER='(0,120,0,0)';
-      PINUSE='UNSPEC';
-    'GND  _124':
-      PIN_NUMBER='(0,124,0,0)';
-      PINUSE='UNSPEC';
-    'GND  _128':
-      PIN_NUMBER='(0,128,0,0)';
-      PINUSE='UNSPEC';
-    'GND  _133':
-      PIN_NUMBER='(0,133,0,0)';
-      PINUSE='UNSPEC';
-    'GND  _137':
-      PIN_NUMBER='(0,137,0,0)';
-      PINUSE='UNSPEC';
-    'GND  _141':
-      PIN_NUMBER='(0,141,0,0)';
-      PINUSE='UNSPEC';
-    'GND  _145':
-      PIN_NUMBER='(0,145,0,0)';
-      PINUSE='UNSPEC';
-    'GND  _149':
-      PIN_NUMBER='(0,149,0,0)';
-      PINUSE='UNSPEC';
-    'GND  _153':
-      PIN_NUMBER='(0,153,0,0)';
-      PINUSE='UNSPEC';
-    'GND  _157':
-      PIN_NUMBER='(0,157,0,0)';
+      PIN_NUMBER='(0,A80,0,0)';
       PINUSE='UNSPEC';
     'GND  _161':
-      PIN_NUMBER='(0,161,0,0)';
+      PIN_NUMBER='(0,B79,0,0)';
+      PINUSE='UNSPEC';
+    'GND  _157':
+      PIN_NUMBER='(0,B75,0,0)';
+      PINUSE='UNSPEC';
+    'GND  _153':
+      PIN_NUMBER='(0,B71,0,0)';
+      PINUSE='UNSPEC';
+    'GND  _149':
+      PIN_NUMBER='(0,B67,0,0)';
+      PINUSE='UNSPEC';
+    'GND  _145':
+      PIN_NUMBER='(0,B63,0,0)';
+      PINUSE='UNSPEC';
+    'GND  _141':
+      PIN_NUMBER='(0,B59,0,0)';
+      PINUSE='UNSPEC';
+    'GND  _137':
+      PIN_NUMBER='(0,B55,0,0)';
+      PINUSE='UNSPEC';
+    'GND  _133':
+      PIN_NUMBER='(0,B51,0,0)';
+      PINUSE='UNSPEC';
+    'GND  _128':
+      PIN_NUMBER='(0,B46,0,0)';
+      PINUSE='UNSPEC';
+    'GND  _124':
+      PIN_NUMBER='(0,B42,0,0)';
+      PINUSE='UNSPEC';
+    'GND  _120':
+      PIN_NUMBER='(0,B38,0,0)';
+      PINUSE='UNSPEC';
+    'GND  _116':
+      PIN_NUMBER='(0,B34,0,0)';
+      PINUSE='UNSPEC';
+    'GND  _110':
+      PIN_NUMBER='(0,B28,0,0)';
+      PINUSE='UNSPEC';
+    'GND  _106':
+      PIN_NUMBER='(0,B24,0,0)';
+      PINUSE='UNSPEC';
+    'GND  _102':
+      PIN_NUMBER='(0,B20,0,0)';
+      PINUSE='UNSPEC';
+    'GND  _97':
+      PIN_NUMBER='(0,B15,0,0)';
+      PINUSE='UNSPEC';
+    'GND  _94':
+      PIN_NUMBER='(0,B12,0,0)';
+      PINUSE='UNSPEC';
+    'GND _164':
+      PIN_NUMBER='(0,B82,0,0)';
+      PINUSE='UNSPEC';
+    'GND _160':
+      PIN_NUMBER='(0,B78,0,0)';
+      PINUSE='UNSPEC';
+    'GND _156':
+      PIN_NUMBER='(0,B74,0,0)';
+      PINUSE='UNSPEC';
+    'GND _152':
+      PIN_NUMBER='(0,B70,0,0)';
+      PINUSE='UNSPEC';
+    'GND _148':
+      PIN_NUMBER='(0,B66,0,0)';
+      PINUSE='UNSPEC';
+    'GND _144':
+      PIN_NUMBER='(0,B62,0,0)';
+      PINUSE='UNSPEC';
+    'GND _140':
+      PIN_NUMBER='(0,B58,0,0)';
+      PINUSE='UNSPEC';
+    'GND _136':
+      PIN_NUMBER='(0,B54,0,0)';
+      PINUSE='UNSPEC';
+    'GND _131':
+      PIN_NUMBER='(0,B49,0,0)';
+      PINUSE='UNSPEC';
+    'GND _127':
+      PIN_NUMBER='(0,B45,0,0)';
+      PINUSE='UNSPEC';
+    'GND _123':
+      PIN_NUMBER='(0,B41,0,0)';
+      PINUSE='UNSPEC';
+    'GND _119':
+      PIN_NUMBER='(0,B37,0,0)';
+      PINUSE='UNSPEC';
+    'GND _113':
+      PIN_NUMBER='(0,B31,0,0)';
+      PINUSE='UNSPEC';
+    'GND _109':
+      PIN_NUMBER='(0,B27,0,0)';
+      PINUSE='UNSPEC';
+    'GND _105':
+      PIN_NUMBER='(0,B23,0,0)';
+      PINUSE='UNSPEC';
+    'GND _100':
+      PIN_NUMBER='(0,B18,0,0)';
+      PINUSE='UNSPEC';
+    'GND _86':
+      PIN_NUMBER='(0,B4,0,0)';
       PINUSE='UNSPEC';
     'JTAG1':
-      PIN_NUMBER='(0,0,9,0)';
+      PIN_NUMBER='(0,0,A9,0)';
       PINUSE='UNSPEC';
     'JTAG2':
-      PIN_NUMBER='(0,0,87,0)';
+      PIN_NUMBER='(0,0,B5,0)';
       PINUSE='UNSPEC';
     'JTAG3':
-      PIN_NUMBER='(0,0,88,0)';
+      PIN_NUMBER='(0,0,B6,0)';
       PINUSE='UNSPEC';
     'JTAG4':
-      PIN_NUMBER='(0,0,89,0)';
+      PIN_NUMBER='(0,0,B7,0)';
       PINUSE='UNSPEC';
     'JTAG5':
-      PIN_NUMBER='(0,0,90,0)';
-      PINUSE='UNSPEC';
-    'PRSNT#1':
-      PIN_NUMBER='(0,0,83,0)';
-      PINUSE='UNSPEC';
-    'PRSNT#2 _17':
-      PIN_NUMBER='(0,0,17,0)';
-      PINUSE='UNSPEC';
-    'PRSNT#2 _31':
-      PIN_NUMBER='(0,0,31,0)';
-      PINUSE='UNSPEC';
-    'PRSNT#2 _48':
-      PIN_NUMBER='(0,0,48,0)';
-      PINUSE='UNSPEC';
-    'PRSNT#2 _81':
-      PIN_NUMBER='(0,0,81,0)';
-      PINUSE='UNSPEC';
-    'PWRGD':
-      PIN_NUMBER='(0,0,93,0)';
+      PIN_NUMBER='(0,0,B8,0)';
       PINUSE='UNSPEC';
     'REFCLK-':
-      PIN_NUMBER='(0,0,96,0)';
+      PIN_NUMBER='(0,0,B14,0)';
       PINUSE='UNSPEC';
     'REFCLK+':
-      PIN_NUMBER='(0,0,95,0)';
-      PINUSE='UNSPEC';
-    'RSVD _3':
-      PIN_NUMBER='(0,0,3,0)';
-      PINUSE='UNSPEC';
-    'RSVD _30':
-      PIN_NUMBER='(0,0,30,0)';
-      PINUSE='UNSPEC';
-    'RSVD _101':
-      PIN_NUMBER='(0,0,101,0)';
-      PINUSE='UNSPEC';
-    'RSVD _114':
-      PIN_NUMBER='(0,0,114,0)';
-      PINUSE='UNSPEC';
-    'RSVD _115':
-      PIN_NUMBER='(0,0,115,0)';
-      PINUSE='UNSPEC';
-    'RSVD _132':
-      PIN_NUMBER='(0,0,132,0)';
-      PINUSE='UNSPEC';
-    'RSVD  _12':
-      PIN_NUMBER='(0,0,12,0)';
-      PINUSE='UNSPEC';
-    'RSVD#2':
-      PIN_NUMBER='(0,0,82,0)';
+      PIN_NUMBER='(0,0,B13,0)';
       PINUSE='UNSPEC';
     'SMCLK':
-      PIN_NUMBER='(0,0,5,0)';
+      PIN_NUMBER='(0,0,A5,0)';
       PINUSE='UNSPEC';
     'SMDAT':
-      PIN_NUMBER='(0,0,6,0)';
+      PIN_NUMBER='(0,0,A6,0)';
       PINUSE='UNSPEC';
     'WAKE#':
-      PIN_NUMBER='(0,0,11,0)';
+      PIN_NUMBER='(0,0,A11,0)';
       PINUSE='UNSPEC';
-    'HSIN(0)':
-      PIN_NUMBER='(0,0,0,99)';
+    'PWRGD':
+      PIN_NUMBER='(0,0,B11,0)';
       PINUSE='UNSPEC';
-    'HSIN(1)':
-      PIN_NUMBER='(0,0,0,104)';
+    'RSVD#2':
+      PIN_NUMBER='(0,0,A82,0)';
       PINUSE='UNSPEC';
-    'HSIN(2)':
-      PIN_NUMBER='(0,0,0,108)';
+    'RSVD  _12':
+      PIN_NUMBER='(0,0,A12,0)';
       PINUSE='UNSPEC';
-    'HSIN(3)':
-      PIN_NUMBER='(0,0,0,112)';
+    'RSVD _132':
+      PIN_NUMBER='(0,0,B50,0)';
       PINUSE='UNSPEC';
-    'HSIN(4)':
-      PIN_NUMBER='(0,0,0,118)';
+    'RSVD _115':
+      PIN_NUMBER='(0,0,B33,0)';
       PINUSE='UNSPEC';
-    'HSIN(5)':
-      PIN_NUMBER='(0,0,0,122)';
+    'RSVD _114':
+      PIN_NUMBER='(0,0,B32,0)';
       PINUSE='UNSPEC';
-    'HSIN(6)':
-      PIN_NUMBER='(0,0,0,126)';
+    'RSVD _101':
+      PIN_NUMBER='(0,0,B19,0)';
       PINUSE='UNSPEC';
-    'HSIN(7)':
-      PIN_NUMBER='(0,0,0,130)';
+    'RSVD _30':
+      PIN_NUMBER='(0,0,A30,0)';
       PINUSE='UNSPEC';
-    'HSIN(8)':
-      PIN_NUMBER='(0,0,0,135)';
+    'RSVD _3':
+      PIN_NUMBER='(0,0,A3,0)';
       PINUSE='UNSPEC';
-    'HSIN(9)':
-      PIN_NUMBER='(0,0,0,139)';
+    'PRSNT#2 _81':
+      PIN_NUMBER='(0,0,A81,0)';
       PINUSE='UNSPEC';
-    'HSIN(10)':
-      PIN_NUMBER='(0,0,0,143)';
+    'PRSNT#2 _48':
+      PIN_NUMBER='(0,0,A48,0)';
       PINUSE='UNSPEC';
-    'HSIN(11)':
-      PIN_NUMBER='(0,0,0,147)';
+    'PRSNT#2 _31':
+      PIN_NUMBER='(0,0,A31,0)';
       PINUSE='UNSPEC';
-    'HSIN(12)':
-      PIN_NUMBER='(0,0,0,151)';
+    'PRSNT#2 _17':
+      PIN_NUMBER='(0,0,A17,0)';
       PINUSE='UNSPEC';
-    'HSIN(13)':
-      PIN_NUMBER='(0,0,0,155)';
-      PINUSE='UNSPEC';
-    'HSIN(14)':
-      PIN_NUMBER='(0,0,0,159)';
-      PINUSE='UNSPEC';
-    'HSIN(15)':
-      PIN_NUMBER='(0,0,0,163)';
-      PINUSE='UNSPEC';
-    'HSIP(0)':
-      PIN_NUMBER='(0,0,0,98)';
-      PINUSE='UNSPEC';
-    'HSIP(1)':
-      PIN_NUMBER='(0,0,0,103)';
-      PINUSE='UNSPEC';
-    'HSIP(2)':
-      PIN_NUMBER='(0,0,0,107)';
-      PINUSE='UNSPEC';
-    'HSIP(3)':
-      PIN_NUMBER='(0,0,0,111)';
-      PINUSE='UNSPEC';
-    'HSIP(4)':
-      PIN_NUMBER='(0,0,0,117)';
-      PINUSE='UNSPEC';
-    'HSIP(5)':
-      PIN_NUMBER='(0,0,0,121)';
-      PINUSE='UNSPEC';
-    'HSIP(6)':
-      PIN_NUMBER='(0,0,0,125)';
-      PINUSE='UNSPEC';
-    'HSIP(7)':
-      PIN_NUMBER='(0,0,0,129)';
-      PINUSE='UNSPEC';
-    'HSIP(8)':
-      PIN_NUMBER='(0,0,0,134)';
-      PINUSE='UNSPEC';
-    'HSIP(9)':
-      PIN_NUMBER='(0,0,0,138)';
-      PINUSE='UNSPEC';
-    'HSIP(10)':
-      PIN_NUMBER='(0,0,0,142)';
-      PINUSE='UNSPEC';
-    'HSIP(11)':
-      PIN_NUMBER='(0,0,0,146)';
-      PINUSE='UNSPEC';
-    'HSIP(12)':
-      PIN_NUMBER='(0,0,0,150)';
-      PINUSE='UNSPEC';
-    'HSIP(13)':
-      PIN_NUMBER='(0,0,0,154)';
-      PINUSE='UNSPEC';
-    'HSIP(14)':
-      PIN_NUMBER='(0,0,0,158)';
-      PINUSE='UNSPEC';
-    'HSIP(15)':
-      PIN_NUMBER='(0,0,0,162)';
+    'PRSNT#1':
+      PIN_NUMBER='(0,0,B1,0)';
       PINUSE='UNSPEC';
     'HSON(0)':
-      PIN_NUMBER='(0,0,0,15)';
+      PIN_NUMBER='(0,0,0,A15)';
       PINUSE='UNSPEC';
     'HSON(1)':
-      PIN_NUMBER='(0,0,0,20)';
+      PIN_NUMBER='(0,0,0,A20)';
       PINUSE='UNSPEC';
     'HSON(2)':
-      PIN_NUMBER='(0,0,0,24)';
+      PIN_NUMBER='(0,0,0,A24)';
       PINUSE='UNSPEC';
     'HSON(3)':
-      PIN_NUMBER='(0,0,0,28)';
+      PIN_NUMBER='(0,0,0,A28)';
       PINUSE='UNSPEC';
     'HSON(4)':
-      PIN_NUMBER='(0,0,0,34)';
+      PIN_NUMBER='(0,0,0,A34)';
       PINUSE='UNSPEC';
     'HSON(5)':
-      PIN_NUMBER='(0,0,0,38)';
+      PIN_NUMBER='(0,0,0,A38)';
       PINUSE='UNSPEC';
     'HSON(6)':
-      PIN_NUMBER='(0,0,0,42)';
+      PIN_NUMBER='(0,0,0,A42)';
       PINUSE='UNSPEC';
     'HSON(7)':
-      PIN_NUMBER='(0,0,0,46)';
+      PIN_NUMBER='(0,0,0,A46)';
       PINUSE='UNSPEC';
     'HSON(8)':
-      PIN_NUMBER='(0,0,0,51)';
+      PIN_NUMBER='(0,0,0,A51)';
       PINUSE='UNSPEC';
     'HSON(9)':
-      PIN_NUMBER='(0,0,0,55)';
+      PIN_NUMBER='(0,0,0,A55)';
       PINUSE='UNSPEC';
     'HSON(10)':
-      PIN_NUMBER='(0,0,0,59)';
+      PIN_NUMBER='(0,0,0,A59)';
       PINUSE='UNSPEC';
     'HSON(11)':
-      PIN_NUMBER='(0,0,0,63)';
+      PIN_NUMBER='(0,0,0,A63)';
       PINUSE='UNSPEC';
     'HSON(12)':
-      PIN_NUMBER='(0,0,0,67)';
+      PIN_NUMBER='(0,0,0,A67)';
       PINUSE='UNSPEC';
     'HSON(13)':
-      PIN_NUMBER='(0,0,0,71)';
+      PIN_NUMBER='(0,0,0,A71)';
       PINUSE='UNSPEC';
     'HSON(14)':
-      PIN_NUMBER='(0,0,0,75)';
+      PIN_NUMBER='(0,0,0,A75)';
       PINUSE='UNSPEC';
     'HSON(15)':
-      PIN_NUMBER='(0,0,0,79)';
+      PIN_NUMBER='(0,0,0,A79)';
       PINUSE='UNSPEC';
     'HSOP(0)':
-      PIN_NUMBER='(0,0,0,14)';
+      PIN_NUMBER='(0,0,0,A14)';
       PINUSE='UNSPEC';
     'HSOP(1)':
-      PIN_NUMBER='(0,0,0,19)';
+      PIN_NUMBER='(0,0,0,A19)';
       PINUSE='UNSPEC';
     'HSOP(2)':
-      PIN_NUMBER='(0,0,0,23)';
+      PIN_NUMBER='(0,0,0,A23)';
       PINUSE='UNSPEC';
     'HSOP(3)':
-      PIN_NUMBER='(0,0,0,27)';
+      PIN_NUMBER='(0,0,0,A27)';
       PINUSE='UNSPEC';
     'HSOP(4)':
-      PIN_NUMBER='(0,0,0,33)';
+      PIN_NUMBER='(0,0,0,A33)';
       PINUSE='UNSPEC';
     'HSOP(5)':
-      PIN_NUMBER='(0,0,0,37)';
+      PIN_NUMBER='(0,0,0,A37)';
       PINUSE='UNSPEC';
     'HSOP(6)':
-      PIN_NUMBER='(0,0,0,41)';
+      PIN_NUMBER='(0,0,0,A41)';
       PINUSE='UNSPEC';
     'HSOP(7)':
-      PIN_NUMBER='(0,0,0,45)';
+      PIN_NUMBER='(0,0,0,A45)';
       PINUSE='UNSPEC';
     'HSOP(8)':
-      PIN_NUMBER='(0,0,0,50)';
+      PIN_NUMBER='(0,0,0,A50)';
       PINUSE='UNSPEC';
     'HSOP(9)':
-      PIN_NUMBER='(0,0,0,54)';
+      PIN_NUMBER='(0,0,0,A54)';
       PINUSE='UNSPEC';
     'HSOP(10)':
-      PIN_NUMBER='(0,0,0,58)';
+      PIN_NUMBER='(0,0,0,A58)';
       PINUSE='UNSPEC';
     'HSOP(11)':
-      PIN_NUMBER='(0,0,0,62)';
+      PIN_NUMBER='(0,0,0,A62)';
       PINUSE='UNSPEC';
     'HSOP(12)':
-      PIN_NUMBER='(0,0,0,66)';
+      PIN_NUMBER='(0,0,0,A66)';
       PINUSE='UNSPEC';
     'HSOP(13)':
-      PIN_NUMBER='(0,0,0,70)';
+      PIN_NUMBER='(0,0,0,A70)';
       PINUSE='UNSPEC';
     'HSOP(14)':
-      PIN_NUMBER='(0,0,0,74)';
+      PIN_NUMBER='(0,0,0,A74)';
       PINUSE='UNSPEC';
     'HSOP(15)':
-      PIN_NUMBER='(0,0,0,78)';
+      PIN_NUMBER='(0,0,0,A78)';
+      PINUSE='UNSPEC';
+    'HSIP(15)':
+      PIN_NUMBER='(0,0,0,B80)';
+      PINUSE='UNSPEC';
+    'HSIP(14)':
+      PIN_NUMBER='(0,0,0,B76)';
+      PINUSE='UNSPEC';
+    'HSIP(13)':
+      PIN_NUMBER='(0,0,0,B72)';
+      PINUSE='UNSPEC';
+    'HSIP(12)':
+      PIN_NUMBER='(0,0,0,B68)';
+      PINUSE='UNSPEC';
+    'HSIP(11)':
+      PIN_NUMBER='(0,0,0,B64)';
+      PINUSE='UNSPEC';
+    'HSIP(10)':
+      PIN_NUMBER='(0,0,0,B60)';
+      PINUSE='UNSPEC';
+    'HSIP(9)':
+      PIN_NUMBER='(0,0,0,B56)';
+      PINUSE='UNSPEC';
+    'HSIP(8)':
+      PIN_NUMBER='(0,0,0,B52)';
+      PINUSE='UNSPEC';
+    'HSIP(7)':
+      PIN_NUMBER='(0,0,0,B47)';
+      PINUSE='UNSPEC';
+    'HSIP(6)':
+      PIN_NUMBER='(0,0,0,B43)';
+      PINUSE='UNSPEC';
+    'HSIP(5)':
+      PIN_NUMBER='(0,0,0,B39)';
+      PINUSE='UNSPEC';
+    'HSIP(4)':
+      PIN_NUMBER='(0,0,0,B35)';
+      PINUSE='UNSPEC';
+    'HSIP(3)':
+      PIN_NUMBER='(0,0,0,B29)';
+      PINUSE='UNSPEC';
+    'HSIP(2)':
+      PIN_NUMBER='(0,0,0,B25)';
+      PINUSE='UNSPEC';
+    'HSIP(1)':
+      PIN_NUMBER='(0,0,0,B21)';
+      PINUSE='UNSPEC';
+    'HSIP(0)':
+      PIN_NUMBER='(0,0,0,B16)';
+      PINUSE='UNSPEC';
+    'HSIN(15)':
+      PIN_NUMBER='(0,0,0,B81)';
+      PINUSE='UNSPEC';
+    'HSIN(14)':
+      PIN_NUMBER='(0,0,0,B77)';
+      PINUSE='UNSPEC';
+    'HSIN(13)':
+      PIN_NUMBER='(0,0,0,B73)';
+      PINUSE='UNSPEC';
+    'HSIN(12)':
+      PIN_NUMBER='(0,0,0,B69)';
+      PINUSE='UNSPEC';
+    'HSIN(11)':
+      PIN_NUMBER='(0,0,0,B65)';
+      PINUSE='UNSPEC';
+    'HSIN(10)':
+      PIN_NUMBER='(0,0,0,B61)';
+      PINUSE='UNSPEC';
+    'HSIN(9)':
+      PIN_NUMBER='(0,0,0,B57)';
+      PINUSE='UNSPEC';
+    'HSIN(8)':
+      PIN_NUMBER='(0,0,0,B53)';
+      PINUSE='UNSPEC';
+    'HSIN(7)':
+      PIN_NUMBER='(0,0,0,B48)';
+      PINUSE='UNSPEC';
+    'HSIN(6)':
+      PIN_NUMBER='(0,0,0,B44)';
+      PINUSE='UNSPEC';
+    'HSIN(5)':
+      PIN_NUMBER='(0,0,0,B40)';
+      PINUSE='UNSPEC';
+    'HSIN(4)':
+      PIN_NUMBER='(0,0,0,B36)';
+      PINUSE='UNSPEC';
+    'HSIN(3)':
+      PIN_NUMBER='(0,0,0,B30)';
+      PINUSE='UNSPEC';
+    'HSIN(2)':
+      PIN_NUMBER='(0,0,0,B26)';
+      PINUSE='UNSPEC';
+    'HSIN(1)':
+      PIN_NUMBER='(0,0,0,B22)';
+      PINUSE='UNSPEC';
+    'HSIN(0)':
+      PIN_NUMBER='(0,0,0,B17)';
       PINUSE='UNSPEC';
   end_pin;
   body
