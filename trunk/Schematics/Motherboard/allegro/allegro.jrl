@@ -1,0 +1,123 @@
+\t (00:00:01) allegro 16.3 p006 (v16-3-85F) i86
+\t (00:00:01) 
+
+\t (00:00:02) Opening existing drawing...
+\d (00:00:02) Database opened: c:/documents and settings/sam skalicky/my documents/motherboard/cisco-coop-mobo/schematics/motherboard/allegro/motherboard.brd
+\i (00:00:03) trapsize 9299
+\i (00:00:03) trapsize 8902
+\i (00:00:03) trapsize 8739
+\i (00:00:03) trapsize 6919
+\i (00:00:03) trapsize 9023
+\i (00:00:03) generaledit 
+\i (00:00:20) place manual 
+\i (00:00:22) setwindow form.plc_manual
+\i (00:00:22) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:00:22) FORM plc_manual tree  'Components by refdes' 
+\i (00:00:24) FORM plc_manual cancel  
+\i (00:00:24) setwindow pcb
+\i (00:00:24) generaledit 
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in 334.40 691.16
+\i (00:00:25) trapsize 4512
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in 334.41 691.17
+\i (00:00:25) trapsize 2256
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in 334.41 691.17
+\i (00:00:25) trapsize 1128
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in 334.41 691.18
+\i (00:00:25) trapsize 564
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out 334.41 691.18
+\i (00:00:25) trapsize 1128
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out 334.41 691.18
+\i (00:00:25) trapsize 2256
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 221.63 628.01
+\i (00:00:26) trapsize 4512
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 221.62 628.01
+\i (00:00:26) trapsize 2256
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 221.63 628.01
+\i (00:00:26) trapsize 4512
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 221.62 628.01
+\i (00:00:27) trapsize 9023
+\i (01:34:37) netin 
+\i (01:34:38) setwindow form.niparams
+\i (01:34:38) FORM niparams capture_netlist YES 
+\i (01:34:40) FORM niparams browse  
+\i (01:34:50) fillin "C:/Documents and Settings/Sam Skalicky/My Documents/Motherboard/cisco-coop-mobo/Schematics/Motherboard/allegro"
+\i (01:34:50) FORM niparams import  
+\t (01:34:50) Starting Cadence Logic Import...
+\e (01:34:52) ERROR(SPMHGE-268): netrev had errors, use Viewlog to review the log file.
+\i (01:35:05) FORM niparams cancel  
+\i (01:35:05) setwindow pcb
+\i (01:35:05) generaledit 
+\i (01:35:17) prepopup 5604.03 1566.44
+\i (01:36:01) setwindow text
+\i (01:36:01) close 
+\i (01:36:10) setwindow pcb
+\i (01:36:10) netin 
+\i (01:36:13) setwindow form.niparams
+\i (01:36:13) FORM niparams import  
+\t (01:36:13) Starting Cadence Logic Import...
+\w (01:36:15) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (01:36:15) Opening existing drawing...
+\i (01:36:15) setwindow pcb
+\i (01:36:15) trapsize 9023
+\i (01:36:16) generaledit 
+\i (01:47:56) pick grid 4864.12 -75.81
+\t (01:47:56) last pick:  4864.00  -76.00
+\i (01:48:25) trapsize 9042
+\i (01:48:25) trapsize 11641
+\i (01:48:26) trapsize 12493
+\i (01:48:26) trapsize 13396
+\i (01:48:26) trapsize 14464
+\i (01:48:26) trapsize 14610
+\i (01:48:26) trapsize 14513
+\i (01:48:27) trapsize 14322
+\i (01:48:27) trapsize 14298
+\i (01:56:34) setwindow text
+\i (01:56:34) close 
+\i (01:59:19) setwindow pcb
+\i (01:59:19) netin 
+\i (01:59:23) setwindow form.niparams
+\i (01:59:23) FORM niparams import  
+\t (01:59:23) Starting Cadence Logic Import...
+\w (01:59:25) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (01:59:25) Opening existing drawing...
+\i (01:59:25) setwindow pcb
+\i (01:59:25) trapsize 14298
+\i (01:59:26) generaledit 
+\i (02:13:30) setwindow text
+\i (02:13:30) close 
+\i (02:13:33) setwindow pcb
+\i (02:13:33) netin 
+\i (02:13:35) setwindow form.niparams
+\i (02:13:35) FORM niparams import  
+\t (02:13:35) Starting Cadence Logic Import...
+\w (02:13:37) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (02:13:37) Opening existing drawing...
+\i (02:13:37) setwindow pcb
+\i (02:13:37) trapsize 14298
+\i (02:13:38) generaledit 
+\i (02:14:56) setwindow text
+\i (02:14:56) close 
+\i (02:15:21) setwindow pcb
+\i (02:15:21) exit 
+\f (02:15:21) Do you want to save the changes you made to c:/documents and settings/sam skalicky/my documents/motherboard/cisco-coop-mobo/schematics/motherboard/allegro/motherboard.brd?
+\i (02:15:23) fillin yes 

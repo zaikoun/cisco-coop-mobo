@@ -1,0 +1,229 @@
+\t (00:00:00) allegro 16.3 p006 (v16-3-85F) i86
+\t (00:00:00) 
+
+\t (00:00:01) Opening existing drawing...
+\d (00:00:01) Database opened: C:/Documents and Settings/Sam Skalicky/My Documents/Motherboard/cisco-coop-mobo/Schematics/Motherboard/allegro/motherboard.brd
+\i (00:00:01) trapsize 9299
+\i (00:00:01) trapsize 8902
+\i (00:00:01) trapsize 8739
+\i (00:00:02) trapsize 6919
+\i (00:00:02) trapsize 9023
+\i (00:00:02) generaledit 
+\i (00:00:03) open 
+\i (00:00:17) fillin "C:\SPB_Data\intel_socket_775_rev2.dra"
+\i (00:00:17) cd "C:\SPB_Data"
+\t (00:00:17) Opening existing drawing...
+\t (00:00:17) Grids are drawn 4.3600, 4.6800 apart for enhanced viewability.
+\i (00:00:17) trapsize 8636
+\i (00:00:17) trapsize 8913
+\i (00:00:17) trapsize 8913
+\d (00:00:17) Database opened: C:/SPB_Data/intel_socket_775_rev2.dra
+\i (00:00:17) generaledit 
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 10.2172 26.0235
+\i (00:00:18) trapsize 4457
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 10.2172 26.0235
+\i (00:00:18) trapsize 2228
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 11.1977 19.2047
+\i (00:00:19) trapsize 4457
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in -1.4594 35.9621
+\i (00:00:19) trapsize 2228
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in -1.4593 35.9621
+\i (00:00:20) trapsize 1114
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in -1.4148 35.2713
+\i (00:00:20) trapsize 557
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out -1.4259 34.6474
+\i (00:00:22) trapsize 1114
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out -1.4037 34.6919
+\i (00:00:22) trapsize 2228
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out -1.1808 34.9593
+\i (00:00:22) trapsize 4457
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in -1.0918 32.9092
+\i (00:00:23) trapsize 2228
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in -1.0918 32.9092
+\i (00:00:23) trapsize 1114
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in -1.0918 32.9093
+\i (00:00:23) trapsize 557
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out -1.5597 34.7589
+\i (00:00:25) trapsize 1114
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in -1.5597 34.7588
+\i (00:00:25) trapsize 557
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out -1.5040 34.7923
+\i (00:00:26) trapsize 1114
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out -1.5040 34.7923
+\i (00:00:27) trapsize 2228
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out -6.9411 32.3411
+\i (00:00:28) trapsize 4457
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 40.6564 -7.4128
+\i (00:00:29) trapsize 2228
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 39.0520 -5.1844
+\i (00:00:29) trapsize 1114
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 36.1329 0.2528
+\i (00:00:30) trapsize 557
+\i (00:02:17) open 
+\i (00:02:32) fillin "C:\Documents and Settings\Sam Skalicky\My Documents\Motherboard\cisco-coop-mobo\Schematics\Motherboard\allegro\motherboard.brd"
+\i (00:02:32) cd "C:\Documents and Settings\Sam Skalicky\My Documents\Motherboard\cisco-coop-mobo\Schematics\Motherboard\allegro"
+\t (00:02:32) Opening existing drawing...
+\i (00:02:32) trapsize 6703
+\i (00:02:32) trapsize 6919
+\i (00:02:32) trapsize 9023
+\d (00:02:32) Database opened: C:/Documents and Settings/Sam Skalicky/My Documents/Motherboard/cisco-coop-mobo/Schematics/Motherboard/allegro/motherboard.brd
+\i (00:02:32) generaledit 
+\i (00:02:35) netin 
+\i (00:02:37) setwindow form.niparams
+\i (00:02:37) FORM niparams capture_netlist YES 
+\i (00:02:41) FORM niparams browse  
+\i (00:02:44) fillin "C:/Documents and Settings/Sam Skalicky/My Documents/Motherboard/cisco-coop-mobo/Schematics/Motherboard/allegro"
+\i (00:02:45) FORM niparams import  
+\t (00:02:45) Starting Cadence Logic Import...
+\e (00:02:47) ERROR(SPMHGE-268): netrev had errors, use Viewlog to review the log file.
+\i (00:02:52) FORM niparams cancel  
+\i (00:02:52) setwindow pcb
+\i (00:02:52) generaledit 
+\i (00:03:35) pick grid 6235.67 1900.29
+\t (00:03:35) last pick:  6236.00  1900.00
+\i (00:03:43) setwindow text
+\i (00:03:43) save 
+\i (00:03:51) fillin "netrev.lst.txt"
+\t (00:03:51) netrev.lst.txt: is text save file
+\i (00:03:54) close 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) open 
+\f (00:04:29) Do you want to save the changes you made to motherboard.brd?
+\i (00:04:31) fillin no 
+\i (00:05:23) fillin "C:\SPB_Data\molex_pci-e_x16_socket_47505.dra"
+\i (00:05:23) cd "C:\SPB_Data"
+\t (00:05:23) Opening existing drawing...
+\t (00:05:23) Grids are drawn 6.4000, 4.0000 apart for enhanced viewability.
+\t (00:05:23) Grids are drawn 0.4000, 0.2500 apart for enhanced viewability.
+\i (00:05:23) trapsize 2951
+\i (00:05:23) trapsize 3046
+\i (00:05:23) trapsize 3046
+\d (00:05:23) Database opened: C:/SPB_Data/molex_pci-e_x16_socket_47505.dra
+\i (00:05:23) generaledit 
+\i (00:05:24) zoom out 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom out 132.4405 245.3118
+\t (00:05:24) Grids are drawn 1.6000, 1.0000 apart for enhanced viewability.
+\i (00:05:24) trapsize 6092
+\i (00:05:24) zoom out 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom out 132.1968 245.3118
+\i (00:05:24) trapsize 12183
+\i (00:05:25) zoom in 1 
+\i (00:05:25) setwindow pcb
+\i (00:05:25) zoom in 197.2554 246.2864
+\i (00:05:25) trapsize 6092
+\i (00:05:27) open 
+\i (00:05:28) fillin "molex_pci-e_x16_socket_47505-3305.dra"
+\t (00:05:28) Opening existing drawing...
+\i (00:05:28) trapsize 6091
+\d (00:05:29) Database opened: C:/SPB_Data/molex_pci-e_x16_socket_47505-3305.dra
+\i (00:05:29) generaledit 
+\i (00:05:30) open 
+\i (00:05:54) fillin "molex_pci-e_x16_socket_47505.dra"
+\t (00:05:54) Opening existing drawing...
+\t (00:05:54) Grids are drawn 0.4000, 0.2500 apart for enhanced viewability.
+\i (00:05:54) trapsize 3046
+\d (00:05:54) Database opened: C:/SPB_Data/molex_pci-e_x16_socket_47505.dra
+\i (00:05:54) generaledit 
+\i (00:05:56) zoom out 1 
+\i (00:05:56) setwindow pcb
+\i (00:05:56) zoom out 127.6890 249.5759
+\t (00:05:56) Grids are drawn 1.6000, 1.0000 apart for enhanced viewability.
+\i (00:05:56) trapsize 6092
+\i (00:05:57) zoom in 1 
+\i (00:05:57) setwindow pcb
+\i (00:05:57) zoom in 142.0652 231.6665
+\t (00:05:57) Grids are drawn 0.4000, 0.2500 apart for enhanced viewability.
+\i (00:05:57) trapsize 3046
+\i (00:05:57) zoom in 1 
+\i (00:05:57) setwindow pcb
+\i (00:05:57) zoom in 142.8571 230.8137
+\i (00:05:57) trapsize 1523
+\i (00:05:57) zoom in 1 
+\i (00:05:57) setwindow pcb
+\i (00:05:57) zoom in 142.9789 230.4786
+\i (00:05:57) trapsize 761
+\i (00:05:59) zoom out 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom out 142.0804 231.3010
+\i (00:05:59) trapsize 1523
+\i (00:05:59) zoom in 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom in 144.6999 237.2709
+\i (00:05:59) trapsize 761
+\i (00:14:36) zoom out 1 
+\i (00:14:36) setwindow pcb
+\i (00:14:36) zoom out 143.0095 231.4991
+\i (00:14:36) trapsize 1523
+\i (00:14:36) zoom out 1 
+\i (00:14:36) setwindow pcb
+\i (00:14:36) zoom out 143.0095 231.4991
+\i (00:14:36) trapsize 3046
+\i (00:14:36) zoom out 1 
+\i (00:14:36) setwindow pcb
+\i (00:14:36) zoom out 143.0095 231.4992
+\t (00:14:36) Grids are drawn 1.6000, 1.0000 apart for enhanced viewability.
+\i (00:14:36) trapsize 6092
+\i (00:14:37) zoom out 1 
+\i (00:14:37) setwindow pcb
+\i (00:14:37) zoom out 151.5378 235.2760
+\i (00:14:37) trapsize 12183
+\i (00:14:38) zoom in 1 
+\i (00:14:38) setwindow pcb
+\i (00:14:38) zoom in 230.4855 239.4184
+\i (00:14:38) trapsize 6092
+\i (00:14:38) zoom in 1 
+\i (00:14:38) setwindow pcb
+\i (00:14:38) zoom in 227.1961 238.0782
+\t (00:14:38) Grids are drawn 0.4000, 0.2500 apart for enhanced viewability.
+\i (00:14:38) trapsize 3046
+\i (00:14:38) zoom in 1 
+\i (00:14:38) setwindow pcb
+\i (00:14:38) zoom in 225.0031 237.1035
+\i (00:14:38) trapsize 1523
+\i (00:14:39) zoom in 1 
+\i (00:14:39) setwindow pcb
+\i (00:14:39) zoom in 224.9726 237.0731
+\i (00:14:39) trapsize 761
+\i (00:20:37) exit 

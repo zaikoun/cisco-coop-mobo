@@ -1,0 +1,691 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.3.0 p002Aug-25-2010 at 23:10:51 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='MOTHERBOARD';
+ POST_TIME='Nov 17 2009 03:09:43';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ J1 'SOCKET 775_INTEL_SOCKET_775_REV':;
+
+SECTION_NUMBER 1
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS632367@LIBRARY1.SOCKET 775A.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins632367@library1.\socket 775a.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page1_ins632367@library1.\socket 775a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS633480@LIBRARY1.SOCKET 775B.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins633480@library1.\socket 775b.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page2_ins633480@library1.\socket 775b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS632625@LIBRARY1.SOCKET 775C.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins632625@library1.\socket 775c.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page1_ins632625@library1.\socket 775c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS632736@LIBRARY1.SOCKET 775D.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins632736@library1.\socket 775d.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page1_ins632736@library1.\socket 775d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+SECTION_NUMBER 5
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS633071@LIBRARY1.SOCKET 775E.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins633071@library1.\socket 775e.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page1_ins633071@library1.\socket 775e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='E';
+
+SECTION_NUMBER 6
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS633640@LIBRARY1.SOCKET 775F.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins633640@library1.\socket 775f.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page2_ins633640@library1.\socket 775f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='F';
+
+SECTION_NUMBER 7
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS633577@LIBRARY1.SOCKET 775G.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins633577@library1.\socket 775g.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page2_ins633577@library1.\socket 775g.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='G';
+
+SECTION_NUMBER 8
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS636268@LIBRARY1.SOCKET 775H.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins636268@library1.\socket 775h.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page4_ins636268@library1.\socket 775h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='H';
+
+SECTION_NUMBER 9
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS634376@LIBRARY1.SOCKET 775I.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins634376@library1.\socket 775i.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page3_ins634376@library1.\socket 775i.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='I';
+
+SECTION_NUMBER 10
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS637318@LIBRARY1.SOCKET 775J.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins637318@library1.\socket 775j.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page5_ins637318@library1.\socket 775j.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='J';
+
+SECTION_NUMBER 11
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS635298@LIBRARY1.SOCKET 775K.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins635298@library1.\socket 775k.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page3_ins635298@library1.\socket 775k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='K';
+
+SECTION_NUMBER 12
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS638428@LIBRARY1.SOCKET 775L.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins638428@library1.\socket 775l.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page5_ins638428@library1.\socket 775l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='L';
+
+PART_NAME
+ J2 'DDR3 SOCKET_MOLEX_DDR3_SOCKET_7':
+ GROUP='sock0';
+
+SECTION_NUMBER 1
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS564621@LIBRARY1.DDR3 SOCKETA.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins564621@library1.\ddr3 socketa.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page13_ins564621@library1.\ddr3 socketa.normal\(chips)',
+ GROUP='sock0',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS564790@LIBRARY1.DDR3 SOCKETB.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins564790@library1.\ddr3 socketb.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page13_ins564790@library1.\ddr3 socketb.normal\(chips)',
+ GROUP='sock0',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS565125@LIBRARY1.DDR3 SOCKETC.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins565125@library1.\ddr3 socketc.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page13_ins565125@library1.\ddr3 socketc.normal\(chips)',
+ GROUP='sock0',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS565644@LIBRARY1.DDR3 SOCKETD.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins565644@library1.\ddr3 socketd.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page13_ins565644@library1.\ddr3 socketd.normal\(chips)',
+ GROUP='sock0',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+SECTION_NUMBER 5
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS565899@LIBRARY1.DDR3 SOCKETE.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins565899@library1.\ddr3 sockete.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page13_ins565899@library1.\ddr3 sockete.normal\(chips)',
+ GROUP='sock0',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='E';
+
+SECTION_NUMBER 6
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS566028@LIBRARY1.DDR3 SOCKETF.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins566028@library1.\ddr3 socketf.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page13_ins566028@library1.\ddr3 socketf.normal\(chips)',
+ GROUP='sock0',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='F';
+
+SECTION_NUMBER 7
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS566274@LIBRARY1.DDR3 SOCKETG.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins566274@library1.\ddr3 socketg.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page13_ins566274@library1.\ddr3 socketg.normal\(chips)',
+ GROUP='sock0',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='G';
+
+PART_NAME
+ J3 'DDR3 SOCKET_MOLEX_DDR3_SOCKET_7':
+ GROUP='sock1';
+
+SECTION_NUMBER 1
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS570081@LIBRARY1.DDR3 SOCKETA.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins570081@library1.\ddr3 socketa.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page14_ins570081@library1.\ddr3 socketa.normal\(chips)',
+ GROUP='sock1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS570250@LIBRARY1.DDR3 SOCKETB.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins570250@library1.\ddr3 socketb.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page14_ins570250@library1.\ddr3 socketb.normal\(chips)',
+ GROUP='sock1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS570630@LIBRARY1.DDR3 SOCKETC.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins570630@library1.\ddr3 socketc.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page14_ins570630@library1.\ddr3 socketc.normal\(chips)',
+ GROUP='sock1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS571149@LIBRARY1.DDR3 SOCKETD.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins571149@library1.\ddr3 socketd.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page14_ins571149@library1.\ddr3 socketd.normal\(chips)',
+ GROUP='sock1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+SECTION_NUMBER 5
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS571404@LIBRARY1.DDR3 SOCKETE.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins571404@library1.\ddr3 sockete.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page14_ins571404@library1.\ddr3 sockete.normal\(chips)',
+ GROUP='sock1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='E';
+
+SECTION_NUMBER 6
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS571533@LIBRARY1.DDR3 SOCKETF.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins571533@library1.\ddr3 socketf.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page14_ins571533@library1.\ddr3 socketf.normal\(chips)',
+ GROUP='sock1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='F';
+
+SECTION_NUMBER 7
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS571781@LIBRARY1.DDR3 SOCKETG.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins571781@library1.\ddr3 socketg.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page14_ins571781@library1.\ddr3 socketg.normal\(chips)',
+ GROUP='sock1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='G';
+
+PART_NAME
+ J4 'DDR3 SOCKET_MOLEX_DDR3_SOCKET_7':
+ GROUP='sock2';
+
+SECTION_NUMBER 1
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS574714@LIBRARY1.DDR3 SOCKETA.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins574714@library1.\ddr3 socketa.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page15_ins574714@library1.\ddr3 socketa.normal\(chips)',
+ GROUP='sock2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS574883@LIBRARY1.DDR3 SOCKETB.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins574883@library1.\ddr3 socketb.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page15_ins574883@library1.\ddr3 socketb.normal\(chips)',
+ GROUP='sock2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS575263@LIBRARY1.DDR3 SOCKETC.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins575263@library1.\ddr3 socketc.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page15_ins575263@library1.\ddr3 socketc.normal\(chips)',
+ GROUP='sock2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS575782@LIBRARY1.DDR3 SOCKETD.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins575782@library1.\ddr3 socketd.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page15_ins575782@library1.\ddr3 socketd.normal\(chips)',
+ GROUP='sock2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+SECTION_NUMBER 5
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS576037@LIBRARY1.DDR3 SOCKETE.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins576037@library1.\ddr3 sockete.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page15_ins576037@library1.\ddr3 sockete.normal\(chips)',
+ GROUP='sock2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='E';
+
+SECTION_NUMBER 6
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS576166@LIBRARY1.DDR3 SOCKETF.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins576166@library1.\ddr3 socketf.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page15_ins576166@library1.\ddr3 socketf.normal\(chips)',
+ GROUP='sock2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='F';
+
+SECTION_NUMBER 7
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS576414@LIBRARY1.DDR3 SOCKETG.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins576414@library1.\ddr3 socketg.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page15_ins576414@library1.\ddr3 socketg.normal\(chips)',
+ GROUP='sock2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='G';
+
+PART_NAME
+ J5 'DDR3 SOCKET_MOLEX_DDR3_SOCKET_7':
+ GROUP='sock3';
+
+SECTION_NUMBER 1
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS581579@LIBRARY1.DDR3 SOCKETA.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins581579@library1.\ddr3 socketa.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page16_ins581579@library1.\ddr3 socketa.normal\(chips)',
+ GROUP='sock3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS581748@LIBRARY1.DDR3 SOCKETB.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins581748@library1.\ddr3 socketb.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page16_ins581748@library1.\ddr3 socketb.normal\(chips)',
+ GROUP='sock3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS582127@LIBRARY1.DDR3 SOCKETC.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins582127@library1.\ddr3 socketc.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page16_ins582127@library1.\ddr3 socketc.normal\(chips)',
+ GROUP='sock3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS582646@LIBRARY1.DDR3 SOCKETD.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins582646@library1.\ddr3 socketd.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page16_ins582646@library1.\ddr3 socketd.normal\(chips)',
+ GROUP='sock3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+SECTION_NUMBER 5
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS582901@LIBRARY1.DDR3 SOCKETE.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins582901@library1.\ddr3 sockete.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page16_ins582901@library1.\ddr3 sockete.normal\(chips)',
+ GROUP='sock3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='E';
+
+SECTION_NUMBER 6
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS583030@LIBRARY1.DDR3 SOCKETF.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins583030@library1.\ddr3 socketf.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page16_ins583030@library1.\ddr3 socketf.normal\(chips)',
+ GROUP='sock3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='F';
+
+SECTION_NUMBER 7
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS583280@LIBRARY1.DDR3 SOCKETG.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins583280@library1.\ddr3 socketg.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page16_ins583280@library1.\ddr3 socketg.normal\(chips)',
+ GROUP='sock3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='G';
+
+PART_NAME
+ J6 'PCI EXPRESS X16 SLOT_MOLEX_PCI-':
+ GROUP='pci0';
+
+SECTION_NUMBER 1
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS606126@LIBRARY1.PCI EXPRESS X16 SLOTA.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins606126@library1.\pci express x16 slota.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page17_ins606126@library1.\pci express x16 slota.normal\(chips)',
+ GROUP='pci0',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS606313@LIBRARY1.PCI EXPRESS X16 SLOTB.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins606313@library1.\pci express x16 slotb.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page17_ins606313@library1.\pci express x16 slotb.normal\(chips)',
+ GROUP='pci0',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS606649@LIBRARY1.PCI EXPRESS X16 SLOTC.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins606649@library1.\pci express x16 slotc.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page17_ins606649@library1.\pci express x16 slotc.normal\(chips)',
+ GROUP='pci0',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS606842@LIBRARY1.PCI EXPRESS X16 SLOTD.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins606842@library1.\pci express x16 slotd.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page17_ins606842@library1.\pci express x16 slotd.normal\(chips)',
+ GROUP='pci0',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+PART_NAME
+ J7 'PCI EXPRESS X16 SLOT_MOLEX_PCI-':
+ GROUP='pci1';
+
+SECTION_NUMBER 1
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS609324@LIBRARY1.PCI EXPRESS X16 SLOTA.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins609324@library1.\pci express x16 slota.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page18_ins609324@library1.\pci express x16 slota.normal\(chips)',
+ GROUP='pci1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS609511@LIBRARY1.PCI EXPRESS X16 SLOTB.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins609511@library1.\pci express x16 slotb.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page18_ins609511@library1.\pci express x16 slotb.normal\(chips)',
+ GROUP='pci1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS610450@LIBRARY1.PCI EXPRESS X16 SLOTC.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins610450@library1.\pci express x16 slotc.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page18_ins610450@library1.\pci express x16 slotc.normal\(chips)',
+ GROUP='pci1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS609929@LIBRARY1.PCI EXPRESS X16 SLOTD.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins609929@library1.\pci express x16 slotd.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page18_ins609929@library1.\pci express x16 slotd.normal\(chips)',
+ GROUP='pci1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+PART_NAME
+ R1 'R_0805_0805_SMD_R_0805':;
+
+SECTION_NUMBER 1
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS821884@LIBRARY1.R_0805.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins821884@library1.\r_0805.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page7_ins821884@library1.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_0805_0805_SMD_R_0805':;
+
+SECTION_NUMBER 1
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS821912@LIBRARY1.R_0805.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins821912@library1.\r_0805.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page7_ins821912@library1.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_0805_0805_SMD_R_0805':;
+
+SECTION_NUMBER 1
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS821940@LIBRARY1.R_0805.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins821940@library1.\r_0805.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page7_ins821940@library1.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_0805_0805_SMD_R_0805':;
+
+SECTION_NUMBER 1
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS821968@LIBRARY1.R_0805.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins821968@library1.\r_0805.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page7_ins821968@library1.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TEST POINT_TEST_POINT_X48 TP3':;
+
+SECTION_NUMBER 1
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS822177@LIBRARY1.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins822177@library1.\test point.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page10_ins822177@library1.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TEST POINT_TEST_POINT_X48 TP2':;
+
+SECTION_NUMBER 1
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS822195@LIBRARY1.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins822195@library1.\test point.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page10_ins822195@library1.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'TEST POINT_TEST_POINT_X48 TP1':;
+
+SECTION_NUMBER 1
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS822212@LIBRARY1.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins822212@library1.\test point.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page10_ins822212@library1.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP4 'TEST POINT_TEST_POINT_X48 TP0':;
+
+SECTION_NUMBER 1
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS822229@LIBRARY1.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins822229@library1.\test point.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page10_ins822229@library1.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'X48 EXPRESS NORTHBRIDGE_INTEL_X':;
+
+SECTION_NUMBER 1
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS695933@LIBRARY1.X48 EXPRESS NORTHBRIDGEA.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins695933@library1.\x48 express northbridgea.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page10_ins695933@library1.\x48 express northbridgea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS667954@LIBRARY1.X48 EXPRESS NORTHBRIDGEB.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins667954@library1.\x48 express northbridgeb.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page8_ins667954@library1.\x48 express northbridgeb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS668348@LIBRARY1.X48 EXPRESS NORTHBRIDGEC.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins668348@library1.\x48 express northbridgec.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page8_ins668348@library1.\x48 express northbridgec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS668625@LIBRARY1.X48 EXPRESS NORTHBRIDGED.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins668625@library1.\x48 express northbridged.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page8_ins668625@library1.\x48 express northbridged.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+SECTION_NUMBER 5
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS670461@LIBRARY1.X48 EXPRESS NORTHBRIDGEE.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins670461@library1.\x48 express northbridgee.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page9_ins670461@library1.\x48 express northbridgee.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='E';
+
+SECTION_NUMBER 6
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS671074@LIBRARY1.X48 EXPRESS NORTHBRIDGEF.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins671074@library1.\x48 express northbridgef.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page9_ins671074@library1.\x48 express northbridgef.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='F';
+
+SECTION_NUMBER 7
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS671351@LIBRARY1.X48 EXPRESS NORTHBRIDGEG.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins671351@library1.\x48 express northbridgeg.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page9_ins671351@library1.\x48 express northbridgeg.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='G';
+
+SECTION_NUMBER 8
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS669120@LIBRARY1.X48 EXPRESS NORTHBRIDGEH.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins669120@library1.\x48 express northbridgeh.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page8_ins669120@library1.\x48 express northbridgeh.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='H';
+
+SECTION_NUMBER 9
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS672265@LIBRARY1.X48 EXPRESS NORTHBRIDGEI.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins672265@library1.\x48 express northbridgei.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page10_ins672265@library1.\x48 express northbridgei.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='I';
+
+SECTION_NUMBER 10
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS672615@LIBRARY1.X48 EXPRESS NORTHBRIDGEJ.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins672615@library1.\x48 express northbridgej.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page10_ins672615@library1.\x48 express northbridgej.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='J';
+
+SECTION_NUMBER 11
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS664508@LIBRARY1.X48 EXPRESS NORTHBRIDGEK.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins664508@library1.\x48 express northbridgek.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page6_ins664508@library1.\x48 express northbridgek.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='K';
+
+SECTION_NUMBER 12
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS664687@LIBRARY1.X48 EXPRESS NORTHBRIDGEL.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins664687@library1.\x48 express northbridgel.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page6_ins664687@library1.\x48 express northbridgel.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='L';
+
+SECTION_NUMBER 13
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS664760@LIBRARY1.X48 EXPRESS NORTHBRIDGEM.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins664760@library1.\x48 express northbridgem.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page6_ins664760@library1.\x48 express northbridgem.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='M';
+
+SECTION_NUMBER 14
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS664993@LIBRARY1.X48 EXPRESS NORTHBRIDGEN.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins664993@library1.\x48 express northbridgen.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page6_ins664993@library1.\x48 express northbridgen.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='N';
+
+SECTION_NUMBER 15
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS672728@LIBRARY1.X48 EXPRESS NORTHBRIDGEO.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins672728@library1.\x48 express northbridgeo.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page10_ins672728@library1.\x48 express northbridgeo.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='O';
+
+SECTION_NUMBER 16
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS666116@LIBRARY1.X48 EXPRESS NORTHBRIDGEP.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins666116@library1.\x48 express northbridgep.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page7_ins666116@library1.\x48 express northbridgep.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='P';
+
+SECTION_NUMBER 17
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS666717@LIBRARY1.X48 EXPRESS NORTHBRIDGEQ.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins666717@library1.\x48 express northbridgeq.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page7_ins666717@library1.\x48 express northbridgeq.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='Q';
+
+SECTION_NUMBER 18
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS667208@LIBRARY1.X48 EXPRESS NORTHBRIDGER.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins667208@library1.\x48 express northbridger.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page7_ins667208@library1.\x48 express northbridger.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='R';
+
+SECTION_NUMBER 19
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS674107@LIBRARY1.X48 EXPRESS NORTHBRIDGES.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins674107@library1.\x48 express northbridges.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page11_ins674107@library1.\x48 express northbridges.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='S';
+
+SECTION_NUMBER 20
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS673361@LIBRARY1.X48 EXPRESS NORTHBRIDGET.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins673361@library1.\x48 express northbridget.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page11_ins673361@library1.\x48 express northbridget.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='T';
+
+SECTION_NUMBER 21
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS673077@LIBRARY1.X48 EXPRESS NORTHBRIDGEU.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins673077@library1.\x48 express northbridgeu.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page11_ins673077@library1.\x48 express northbridgeu.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='U';
+
+SECTION_NUMBER 22
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS673558@LIBRARY1.X48 EXPRESS NORTHBRIDGEV.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins673558@library1.\x48 express northbridgev.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page11_ins673558@library1.\x48 express northbridgev.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='V';
+
+SECTION_NUMBER 23
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS677076@LIBRARY1.X48 EXPRESS NORTHBRIDGEW.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins677076@library1.\x48 express northbridgew.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page12_ins677076@library1.\x48 express northbridgew.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='W';
+
+SECTION_NUMBER 24
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS679158@LIBRARY1.X48 EXPRESS NORTHBRIDGEX.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins679158@library1.\x48 express northbridgex.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page12_ins679158@library1.\x48 express northbridgex.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='X';
+
+SECTION_NUMBER 25
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS673836@LIBRARY1.X48 EXPRESS NORTHBRIDGEY.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins673836@library1.\x48 express northbridgey.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page11_ins673836@library1.\x48 express northbridgey.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='Y';
+
+PART_NAME
+ U2 'CLOCK CK505_TSSOP_56_CLOCK CK50':;
+
+SECTION_NUMBER 1
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS695632@LIBRARY1.CLOCK CK505A.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins695632@library1.\clock ck505a.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page19_ins695632@library1.\clock ck505a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS695725@LIBRARY1.CLOCK CK505B.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins695725@library1.\clock ck505b.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page19_ins695725@library1.\clock ck505b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@MOTHERBOARD.SCHEMATIC1(SCH_1):INS695816@LIBRARY1.CLOCK CK505C.NORMAL(CHIPS)':
+ C_PATH='@motherboard.schematic1(sch_1):ins695816@library1.\clock ck505c.normal\(chips)',
+ P_PATH='@motherboard.schematic1(sch_1):page19_ins695816@library1.\clock ck505c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+END.
