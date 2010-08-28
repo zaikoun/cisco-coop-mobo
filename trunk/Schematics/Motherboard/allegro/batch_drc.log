@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : motherboard.brd                               )
 (    Software Version : 16.3p006                                      )
-(    Date/Time        : Wed Aug 25 23:25:41 2010                      )
+(    Date/Time        : Fri Aug 27 21:13:02 2010                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  0
+ ..... Total number of DRC errors  15
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************
