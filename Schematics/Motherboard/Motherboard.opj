@@ -106,18 +106,19 @@
       (Type "Report")
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
-  (MPSSessionName "Sam")
+  (MPSSessionName "Sam Skalicky")
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\motherboard.dsn")
       (Path "Design Resources" ".\motherboard.dsn" "SCHEMATIC1")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\motherboard.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 0 369 -4 -30 3 317 -1 519"))
+        (Placement "44 2 3 0 369 -4 -30 3 317 -1 519"))
       (Tab 0)))
   (PartMRUSelector
     (ICH9
