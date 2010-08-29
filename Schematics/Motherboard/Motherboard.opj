@@ -106,13 +106,13 @@
       (Type "Report")
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
-  (MPSSessionName "Sam Skalicky")
+  (MPSSessionName "Sam")
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\motherboard.dsn")
-      (Path "Outputs")
-      (Select "Design Resources" ".\motherboard.dsn"))
+      (Path "Design Resources" ".\motherboard.dsn" "SCHEMATIC1")
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -120,6 +120,11 @@
         (Placement "44 0 1 0 369 -4 -30 3 317 -1 519"))
       (Tab 0)))
   (PartMRUSelector
+    (ICH9
+      (FullPartName "ICH9E.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\SAM\MY DOCUMENTS\ICH9\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
+      (DeviceIndex "4"))
     ("TEST POINT"
       (FullPartName "TEST POINT.Normal")
       (LibraryName
