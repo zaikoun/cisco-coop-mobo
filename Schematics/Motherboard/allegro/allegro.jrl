@@ -927,4 +927,271 @@ Continue?
 \i (00:25:02) trapsize 2360
 \i (00:25:02) zoom in 1 
 \i (00:25:02) setwindow pcb
-\i (00:25:02) zoom
+\i (00:25:02) zoom in 64.1866 161.3931
+\i (00:25:02) trapsize 1180
+\i (00:25:04) setwindow form.mini
+\i (00:25:04) FORM mini pad_browse  
+\f (00:25:04) Select a padstack:
+\i (00:25:36) fillin "Pad160cir92dmm"
+\t (00:25:36) Using 'PAD160CIR92DMM.pad'.
+\i (00:34:17) setwindow pcb
+\i (00:34:17) pick grid 60.2693 159.6705
+\t (00:34:17) last pick:  60.5000  159.8200
+\t (00:34:17) Using 'PAD160CIR92DMM.pad'.
+\i (00:34:34) pick grid 62.7707 159.7177
+\t (00:34:34) last pick:  63.0000  159.8200
+\t (00:34:34) Using 'PAD160CIR92DMM.pad'.
+\i (00:34:42) pick grid 64.7529 159.7177
+\t (00:34:42) last pick:  65.0000  159.8200
+\t (00:34:42) Using 'PAD160CIR92DMM.pad'.
+\i (00:34:48) pick grid 67.2543 159.7885
+\t (00:34:48) last pick:  67.5000  159.8200
+\t (00:34:48) Using 'PAD160CIR92DMM.pad'.
+\i (00:34:52) pick grid 60.2693 162.3134
+\t (00:34:52) last pick:  60.5000  162.4400
+\t (00:34:52) Using 'PAD160CIR92DMM.pad'.
+\i (00:34:54) pick grid 62.7707 162.3134
+\t (00:34:54) last pick:  63.0000  162.4400
+\t (00:34:54) Using 'PAD160CIR92DMM.pad'.
+\i (00:34:55) pick grid 64.7529 162.3134
+\t (00:34:55) last pick:  65.0000  162.4400
+\t (00:34:55) Using 'PAD160CIR92DMM.pad'.
+\i (00:34:57) pick grid 67.2543 162.4314
+\t (00:34:57) last pick:  67.5000  162.4400
+\t (00:34:57) Using 'PAD160CIR92DMM.pad'.
+\i (00:35:02) prepopup 66.0744 165.6408
+\i (00:35:04) next 
+\t (00:35:04) Using 'PAD160CIR92DMM.pad'.
+\i (02:47:19) setwindow form.mini
+\i (02:47:19) FORM mini pad_browse  
+\f (02:47:19) Select a padstack:
+\i (02:47:38) fillin "Pad320cir230dmm"
+\t (02:47:38) Using 'PAD320CIR230DMM.pad'.
+\i (02:48:49) setwindow pcb
+\i (02:48:49) pick = 57.43 157.11 
+\t (02:48:49) last pick:  57.4300  157.1100
+\t (02:48:49) Using 'PAD320CIR230DMM.pad'.
+\i (02:48:52) zoom out 1 
+\i (02:48:52) setwindow pcb
+\i (02:48:52) zoom out 67.2779 159.1041
+\i (02:48:52) trapsize 2360
+\i (02:48:53) zoom in 1 
+\i (02:48:53) setwindow pcb
+\i (02:48:53) zoom in 58.8299 156.1308
+\i (02:48:53) trapsize 1180
+\i (02:49:43) zoom out 1 
+\i (02:49:43) setwindow pcb
+\i (02:49:43) zoom out 62.8887 157.9243
+\i (02:49:43) trapsize 2360
+\i (02:49:44) zoom out 1 
+\i (02:49:44) setwindow pcb
+\i (02:49:44) zoom out 63.0776 157.6412
+\i (02:49:44) trapsize 4720
+\i (02:49:44) zoom out 1 
+\i (02:49:44) setwindow pcb
+\i (02:49:44) zoom out 63.0775 157.6411
+\i (02:49:44) trapsize 9439
+\i (02:49:47) zoom in 1 
+\i (02:49:47) setwindow pcb
+\i (02:49:47) zoom in 64.9654 157.6412
+\i (02:49:47) trapsize 4720
+\i (02:49:47) zoom in 1 
+\i (02:49:47) setwindow pcb
+\i (02:49:47) zoom in 64.9655 157.8300
+\i (02:49:47) trapsize 2360
+\i (02:49:48) zoom in 1 
+\i (02:49:48) setwindow pcb
+\i (02:49:48) zoom in 64.9655 157.8300
+\i (02:49:48) trapsize 1180
+\i (02:50:07) pick = 57.43 162.79 
+\t (02:50:07) last pick:  57.4300  162.7900
+\t (02:50:07) Using 'PAD320CIR230DMM.pad'.
+\i (02:50:34) pick = 70.57 162.79 
+\t (02:50:34) last pick:  70.5700  162.7900
+\t (02:50:34) Using 'PAD320CIR230DMM.pad'.
+\i (02:50:57) pick = 70.57 157.11 
+\t (02:50:57) last pick:  70.5700  157.1100
+\t (02:50:57) Using 'PAD320CIR230DMM.pad'.
+\i (02:50:59) prepopup 62.6529 163.3283
+\i (02:51:00) done 
+\t (02:51:00) Exiting from Add Pin.
+\i (02:51:00) generaledit 
+\i (02:51:04) zoom out 1 
+\i (02:51:04) setwindow pcb
+\i (02:51:04) zoom out 62.5821 163.3283
+\i (02:51:04) trapsize 2360
+\i (02:51:10) move 
+\t (02:51:10) Select element(s) to move.
+\i (02:51:12) setwindow form.find
+\i (02:51:12) FORM find all_off  
+\i (02:51:13) FORM find text YES 
+\i (02:51:16) setwindow pcb
+\i (02:51:16) drag_start grid 59.4200 164.8387
+\i (02:51:18) drag_stop 67.8681 158.0897
+\e (02:51:18) Program has encountered a problem and must exit. The database will be saved (if applicable). Obtain the latest software update from Cadence and if problem persists contact Cadence Customer Support.
+\i (02:51:23) fillin confirm
+\d (02:51:23) SymInit: Symbol-SearchPath: '.;C:\SPB_Data;C:\Cadence\SPB_16.3\tools\pcb\bin;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Sam Skalicky'
+
+\d (02:51:23) OS-Version: 5.1.2600 (Service Pack 3) 0x100-0x1
+
+\d (02:51:23) C:\Cadence\SPB_16.3\tools\pcb\bin\allegro.exe:allegro.exe (00400000), size: 31830016 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 16.3.0.0n
+\d (02:51:23) C:\WINDOWS\system32\ntdll.dll:ntdll.dll (7C900000), size: 716800 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:23) C:\WINDOWS\system32\kernel32.dll:kernel32.dll (7C800000), size: 1007616 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:23) C:\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.4053_x-ww_e6967989\MSVCR80.dll:MSVCR80.dll (78130000), size: 634880 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 8.0.50727.4053n
+\d (02:51:23) C:\WINDOWS\system32\msvcrt.dll:msvcrt.dll (77C10000), size: 360448 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 7.0.2600.5512n
+\d (02:51:23) C:\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.4053_x-ww_e6967989\MSVCP80.dll:MSVCP80.dll (7C420000), size: 552960 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 8.0.50727.4053n
+\d (02:51:23) C:\Cadence\SPB_16.3\tools\bin\cnlib.dll:cnlib.dll (10000000), size: 36864 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:23) C:\Cadence\SPB_16.3\tools\bin\jlglib.dll:jlglib.dll (00250000), size: 57344 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:23) C:\Cadence\SPB_16.3\tools\fet\bin\ddbpi.dll:ddbpi.dll (00270000), size: 1142784 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:23) C:\Cadence\SPB_16.3\tools\bin\opf.dll:opf.dll (003A0000), size: 155648 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:23) C:\Cadence\SPB_16.3\tools\bin\nmp.dll:nmp.dll (02A60000), size: 192512 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:23) C:\Cadence\SPB_16.3\tools\bin\cla.dll:cla.dll (02A90000), size: 122880 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:23) C:\WINDOWS\system32\ADVAPI32.dll:ADVAPI32.dll (77DD0000), size: 634880 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:23) C:\WINDOWS\system32\RPCRT4.dll:RPCRT4.dll (77E70000), size: 598016 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:23) C:\WINDOWS\system32\Secur32.dll:Secur32.dll (77FE0000), size: 69632 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:23) C:\Cadence\SPB_16.3\tools\bin\cdsCommon.dll:cdsCommon.dll (02AB0000), size: 114688 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:23) C:\Cadence\SPB_16.3\tools\bin\cls.dll:cls.dll (02AE0000), size: 57344 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:23) C:\WINDOWS\system32\WS2_32.dll:WS2_32.dll (71AB0000), size: 94208 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:23) C:\WINDOWS\system32\WS2HELP.dll:WS2HELP.dll (71AA0000), size: 32768 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:23) C:\Cadence\SPB_16.3\tools\bin\dsnmp.dll:dsnmp.dll (02B00000), size: 28672 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:23) C:\Cadence\SPB_16.3\tools\bin\dserrorhandler.dll:dserrorhandler.dll (02B20000), size: 49152 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:23) C:\Cadence\SPB_16.3\tools\bin\SMIMD_sh.dll:SMIMD_sh.dll (02B40000), size: 159744 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\cdn_xerces-c_2_7.dll:cdn_xerces-c_2_7.dll (12000000), size: 1896448 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 2.7.0.0n
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\SBaseMD_sh.dll:SBaseMD_sh.dll (02B90000), size: 98304 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:24) C:\WINDOWS\system32\WSOCK32.dll:WSOCK32.dll (71AD0000), size: 36864 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\_cadencehelp.dll:_cadencehelp.dll (02BC0000), size: 69632 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:24) C:\WINDOWS\system32\SHLWAPI.dll:SHLWAPI.dll (77F60000), size: 483328 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.5512n
+\d (02:51:24) C:\WINDOWS\system32\GDI32.dll:GDI32.dll (77F10000), size: 299008 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\USER32.dll:USER32.dll (7E410000), size: 593920 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\markers.dll:markers.dll (02BF0000), size: 110592 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 1.0.0.3n
+\d (02:51:24) C:\WINDOWS\WinSxS\x86_Microsoft.VC80.MFC_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_3bf8fa05\MFC80.DLL:MFC80.DLL (781D0000), size: 1110016 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 8.0.50727.762n
+\d (02:51:24) C:\WINDOWS\system32\SHELL32.dll:SHELL32.dll (7C9C0000), size: 8482816 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.5512n
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\libmpi.dll:libmpi.dll (02C20000), size: 94208 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\mpsc.dll:mpsc.dll (02C50000), size: 94208 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\libsman.dll:libsman.dll (02C80000), size: 69632 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\libem.dll:libem.dll (02CB0000), size: 28672 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\mpss.dll:mpss.dll (02CD0000), size: 77824 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\il.dll:il.dll (02D00000), size: 798720 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\ems.dll:ems.dll (02DE0000), size: 77824 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\virtuos.dll:virtuos.dll (02E10000), size: 90112 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\cdsIlIpc.dll:cdsIlIpc.dll (02E40000), size: 61440 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\consmgr.dll:consmgr.dll (02E60000), size: 3244032 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 16.3.0.0n
+\d (02:51:24) C:\WINDOWS\system32\OLEAUT32.dll:OLEAUT32.dll (77120000), size: 569344 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\ole32.dll:ole32.dll (774E0000), size: 1298432 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\cdn_og1101as.dll:cdn_og1101as.dll (03190000), size: 2453504 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 11.0.0.1n
+\d (02:51:24) C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\COMCTL32.dll:COMCTL32.dll (773D0000), size: 1060864 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.5512n
+\d (02:51:24) C:\WINDOWS\system32\ODBC32.dll:ODBC32.dll (74320000), size: 249856 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 3.525.1132.0n
+\d (02:51:24) C:\WINDOWS\system32\comdlg32.dll:comdlg32.dll (763B0000), size: 299008 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.5512n
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\cdn_RWUXThemeS80.dll:cdn_RWUXThemeS80.dll (03400000), size: 94208 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 1.0.8.0n
+\d (02:51:24) C:\WINDOWS\system32\oledlg.dll:oledlg.dll (7DF70000), size: 139264 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\cdn_sfl401as.dll:cdn_sfl401as.dll (4E000000), size: 671744 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 4.0.0.1n
+\d (02:51:24) C:\WINDOWS\system32\MSIMG32.dll:MSIMG32.dll (76380000), size: 20480 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\WINSPOOL.DRV:WINSPOOL.DRV (73000000), size: 155648 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\cmreds.dll:cmreds.dll (03440000), size: 1568768 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\cmpropdict.dll:cmpropdict.dll (035D0000), size: 356352 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\acnsdb.dll:acnsdb.dll (03640000), size: 163840 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\acnsui.dll:acnsui.dll (03680000), size: 278528 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 16.3.0.0n
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\htmlmsg.dll:htmlmsg.dll (036E0000), size: 81920 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\stackupctrl.dll:stackupctrl.dll (03710000), size: 172032 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 1.0.0.1n
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\bin\cdn_ot1001as.dll:cdn_ot1001as.dll (4C000000), size: 2568192 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 10.0.0.1n
+\d (02:51:24) C:\WINDOWS\system32\MSVFW32.dll:MSVFW32.dll (75A70000), size: 135168 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\WINMM.dll:WINMM.dll (76B40000), size: 184320 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\WININET.dll:WININET.dll (771B0000), size: 696320 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.5512n
+\d (02:51:24) C:\WINDOWS\system32\CRYPT32.dll:CRYPT32.dll (77A80000), size: 610304 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.131.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\MSASN1.dll:MSASN1.dll (77B20000), size: 73728 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\OPENGL32.dll:OPENGL32.dll (5ED00000), size: 835584 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\GLU32.dll:GLU32.dll (68B20000), size: 131072 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\DDRAW.dll:DDRAW.dll (73760000), size: 307200 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.3.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\DCIMAN32.dll:DCIMAN32.dll (73BC0000), size: 24576 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\pcb\bin\tcl80.dll:tcl80.dll (03760000), size: 385024 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:24) C:\WINDOWS\system32\NETAPI32.dll:NETAPI32.dll (5B860000), size: 348160 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\VERSION.dll:VERSION.dll (77C00000), size: 32768 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\Cadence\SPB_16.3\tools\pcb\bin\mpich2mpi.dll:mpich2mpi.dll (037C0000), size: 167936 (result: 0), SymType: '-exported-', PDB: ''
+\d (02:51:24) C:\WINDOWS\system32\IMM32.DLL:IMM32.DLL (76390000), size: 118784 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\LPK.DLL:LPK.DLL (629C0000), size: 36864 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\USP10.dll:USP10.dll (74D90000), size: 438272 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 1.420.2600.5512n
+\d (02:51:24) C:\WINDOWS\WinSxS\x86_Microsoft.VC80.MFCLOC_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_91481303\MFC80ENU.DLL:MFC80ENU.DLL (5D360000), size: 57344 (result: 0), SymType: '-nosymbols-', PDB: '', fileVersion: 8.0.50727.762n
+\d (02:51:24) C:\WINDOWS\system32\odbcint.dll:odbcint.dll (03F70000), size: 94208 (result: 0), SymType: '-nosymbols-', PDB: '', fileVersion: 3.525.1132.0n
+\d (02:51:24) C:\WINDOWS\system32\UXTHEME.DLL:UXTHEME.DLL (5AD70000), size: 229376 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.5512n
+\d (02:51:24) C:\WINDOWS\system32\MSCTF.dll:MSCTF.dll (74720000), size: 311296 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\msctfime.ime:msctfime.ime (755C0000), size: 188416 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\icmp.Dll:icmp.Dll (74290000), size: 16384 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\iphlpapi.dll:iphlpapi.dll (76D60000), size: 102400 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\System32\mswsock.dll:mswsock.dll (71A50000), size: 258048 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\DNSAPI.dll:DNSAPI.dll (76F20000), size: 159744 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\System32\winrnr.dll:winrnr.dll (76FB0000), size: 32768 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\WLDAP32.dll:WLDAP32.dll (76F60000), size: 180224 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\wshbth.dll:wshbth.dll (751D0000), size: 122880 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\SETUPAPI.dll:SETUPAPI.dll (77920000), size: 995328 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\Program Files\Bonjour\mdnsNSP.dll:mdnsNSP.dll (64000000), size: 151552 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 2.0.2.0n
+\d (02:51:24) C:\WINDOWS\system32\rasadhlp.dll:rasadhlp.dll (76FC0000), size: 24576 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\hnetcfg.dll:hnetcfg.dll (662B0000), size: 360448 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\System32\wshtcpip.dll:wshtcpip.dll (71A90000), size: 32768 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\atioglxx.dll:atioglxx.dll (69020000), size: 12034048 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.14.10.8395n
+\d (02:51:24) C:\WINDOWS\system32\appHelp.dll:appHelp.dll (77B40000), size: 139264 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:24) C:\WINDOWS\system32\CLBCATQ.DLL:CLBCATQ.DLL (76FD0000), size: 520192 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 2001.12.4414.700n
+\d (02:51:24) C:\WINDOWS\system32\COMRes.dll:COMRes.dll (77050000), size: 806912 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 2001.12.4414.700n
+\d (02:51:24) C:\Program Files\Common Files\TortoiseOverlays\TortoiseOverlays.dll:TortoiseOverlays.dll (0A0A0000), size: 98304 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 1.1.1.19039n
+\d (02:51:24) C:\Program Files\TortoiseSVN\bin\TortoiseStub.dll:TortoiseStub.dll (0A0D0000), size: 57344 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 1.6.10.19898n
+\d (02:51:24) C:\Program Files\TortoiseSVN\bin\TortoiseSVN.dll:TortoiseSVN.dll (0A100000), size: 827392 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 1.6.10.19898n
+\d (02:51:24) C:\WINDOWS\system32\SHFOLDER.dll:SHFOLDER.dll (76780000), size: 36864 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.5512n
+\d (02:51:24) C:\Program Files\TortoiseSVN\bin\libapr_tsvn.dll:libapr_tsvn.dll (6EEC0000), size: 139264 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 1.3.8.0n
+\d (02:51:24) C:\WINDOWS\WinSxS\x86_Microsoft.VC90.CRT_1fc8b3b9a1e18e3b_9.0.30729.4148_x-ww_d495ac4e\MSVCR90.dll:MSVCR90.dll (78520000), size: 667648 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 9.0.30729.4148n
+\d (02:51:24) C:\Program Files\TortoiseSVN\bin\libaprutil_tsvn.dll:libaprutil_tsvn.dll (6EE60000), size: 192512 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 1.3.9.0n
+\d (02:51:24) C:\Program Files\TortoiseSVN\bin\intl3_tsvn.dll:intl3_tsvn.dll (0A200000), size: 73728 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 0.14.4.0n
+\d (02:51:25) C:\WINDOWS\WinSxS\x86_Microsoft.VC90.CRT_1fc8b3b9a1e18e3b_9.0.30729.4148_x-ww_d495ac4e\MSVCP90.dll:MSVCP90.dll (78480000), size: 581632 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 9.0.30729.4148n
+\d (02:51:25) C:\PROGRA~1\MICROS~2\Office12\GRA8E1~1.DLL:GRA8E1~1.DLL (0A340000), size: 2215936 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 12.0.4518.1014n
+\d (02:51:25) C:\PROGRA~1\MICROS~2\Office12\GrooveUtil.DLL:GrooveUtil.DLL (68EF0000), size: 987136 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 12.0.4518.1014n
+\d (02:51:25) C:\PROGRA~1\MICROS~2\Office12\GrooveNew.DLL:GrooveNew.DLL (68FF0000), size: 28672 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 12.0.4518.1014n
+\d (02:51:25) C:\WINDOWS\WinSxS\x86_Microsoft.VC80.ATL_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_cbb27474\ATL80.DLL:ATL80.DLL (7C630000), size: 110592 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 8.0.50727.762n
+\d (02:51:25) C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (68000000), size: 221184 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5507n
+\d (02:51:25) C:\WINDOWS\system32\ntshrui.dll:ntshrui.dll (76990000), size: 151552 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:25) C:\WINDOWS\system32\ATL.DLL:ATL.DLL (76B20000), size: 69632 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 3.5.2284.1n
+\d (02:51:25) C:\WINDOWS\system32\USERENV.dll:USERENV.dll (769C0000), size: 737280 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:25) C:\WINDOWS\system32\xpsp2res.dll:xpsp2res.dll (0C7D0000), size: 2904064 (result: 0), SymType: '-nosymbols-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:25) C:\WINDOWS\system32\MPR.dll:MPR.dll (71B20000), size: 73728 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:25) C:\WINDOWS\System32\drprov.dll:drprov.dll (75F60000), size: 28672 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:25) C:\WINDOWS\System32\ntlanman.dll:ntlanman.dll (71C10000), size: 57344 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:25) C:\WINDOWS\System32\NETUI0.dll:NETUI0.dll (71CD0000), size: 94208 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:25) C:\WINDOWS\System32\NETUI1.dll:NETUI1.dll (71C90000), size: 262144 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:25) C:\WINDOWS\System32\NETRAP.dll:NETRAP.dll (71C80000), size: 28672 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:25) C:\WINDOWS\System32\SAMLIB.dll:SAMLIB.dll (71BF0000), size: 77824 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:25) C:\WINDOWS\System32\davclnt.dll:davclnt.dll (75F70000), size: 40960 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:25) C:\WINDOWS\system32\MSGINA.dll:MSGINA.dll (75970000), size: 1015808 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:25) C:\WINDOWS\system32\WINSTA.dll:WINSTA.dll (76360000), size: 65536 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:25) C:\WINDOWS\system32\dbghelp.dll:dbghelp.dll (59A60000), size: 659456 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (02:51:25) 
+\d (02:51:25) <<< STACK TRACE >>>
+\d (02:51:25) 0106C1FD (allegro): (unknown file): (unknown function)
+\d (02:51:25) 008E2F8E (allegro): (unknown file): (unknown function)
+\d (02:51:25) 008E2CFC (allegro): (unknown file): (unknown function)
+\d (02:51:25) 004A2CE0 (allegro): (unknown file): (unknown function)
+\d (02:51:25) 004A2FB4 (allegro): (unknown file): (unknown function)
+\d (02:51:25) 004A2DE9 (allegro): (unknown file): (unknown function)
+\d (02:51:25) 004D7878 (allegro): (unknown file): (unknown function)
+\d (02:51:25) 004D818B (allegro): (unknown file): (unknown function)
+\d (02:51:25) 004EFB62 (allegro): (unknown file): (unknown function)
+\d (02:51:25) 004EFA57 (allegro): (unknown file): (unknown function)
+\d (02:51:25) 004EBB27 (allegro): (unknown file): (unknown function)
+\d (02:51:25) 004EB9FB (allegro): (unknown file): (unknown function)
+\d (02:51:25) 015BADE0 (allegro): (unknown file): (unknown function)
+\d (02:51:25) 015BA028 (allegro): (unknown file): (unknown function)
+\d (02:51:25) 015BB17D (allegro): (unknown file): (unknown function)
+\d (02:51:25) 01595608 (allegro): (unknown file): (unknown function)
+\d (02:51:25) 0157905A (allegro): (unknown file): DFAEditControl::GetControlClass
+\d (02:51:25) 78202D07 (MFC80): (unknown file): Ordinal5073
+\d (02:51:25) 782027AD (MFC80): (unknown file): Ordinal6275
+\d (02:51:25) 78201543 (MFC80): (unknown file): Ordinal1028
+\d (02:51:25) 78201759 (MFC80): (unknown file): Ordinal1209
+\d (02:51:25) 781FF883 (MFC80): (unknown file): Ordinal582
+\d (02:51:25) 7E418734 (USER32): (unknown file): GetDC
+\d (02:51:25) 7E418816 (USER32): (unknown file): GetDC
+\d (02:51:25) 7E42A013 (USER32): (unknown file): IsWindowUnicode
+\d (02:51:25) 7E42A039 (USER32): (unknown file): CallWindowProcW
+\d (02:51:25) 5ED2699B (OPENGL32): (unknown file): wglSwapBuffers
+\d (02:51:25) 7E418734 (USER32): (unknown file): GetDC
+\d (02:51:25) 7E418816 (USER32): (unknown file): GetDC
+\d (02:51:25) 7E4189CD (USER32): (unknown file): GetWindowLongW
+\d (02:51:25) 7E4196C7 (USER32): (unknown file): DispatchMessageA
+\d (02:51:25) 78237D12 (MFC80): (unknown file): Ordinal1106
+\e (02:51:25) Saving database as 'C:/SPB_Data/tyco_usb_ENG_CD_5787745_A.SAV'.
