@@ -16,14 +16,10 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\pci card.dsn")
-      (Path "Design Resources"
-         "C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\pci card.dsn"
-         "SCHEMATIC1")
+      (Path "Design Resources" ".\pci card.dsn")
+      (Path "Design Resources" ".\pci card.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library"
-         "C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\library1.olb"))
+      (Select "Design Resources" ".\pci card.dsn" "SCHEMATIC1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -62,30 +58,16 @@
       (Path
          "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\PCI CARD.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "06 FPGA Power"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 25 1078 25 409")
-        (Scroll "321 214")
-        (Zoom "94")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\PCI CARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "07 JTAG"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 1103 50 434")
-        (Scroll "391 292")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\PCI CARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "04 FPGA Config")))
+      (Page "06 FPGA Power")))
   (PartMRUSelector
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (XCF32P_FS48
+      (FullPartName "XCF32P_FS48.Normal")
+      (LibraryName
+         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\LIBRARY1.OLB")
+      (DeviceIndex "0"))
     (OFFPAGELEFT-L
       (LibraryName
          "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
@@ -110,10 +92,6 @@
          "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
       (DeviceIndex "0"))
     (VCC
-      (LibraryName
-         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
-      (DeviceIndex "0"))
-    (GND
       (LibraryName
          "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
       (DeviceIndex "0"))
