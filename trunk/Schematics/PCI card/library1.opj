@@ -13,11 +13,11 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "C:\Documents and Settings\Sam Skalicky\My Documents\Motherboard\cisco-coop-mobo\Schematics\PCI card\library1.olb"))
+         "C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\library1.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -4 -30 0 200 0 350"))
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 350"))
       (Tab 0)))
-  (MPSSessionName "Sam Skalicky"))
+  (MPSSessionName "sskalick"))
