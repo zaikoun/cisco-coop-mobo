@@ -10,82 +10,91 @@
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
-    (Board_sim_option "VHDL_flow"))
-  (Folder "Outputs")
+    (Board_sim_option "VHDL_flow")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\pci card.dsn")
-      (Path "Design Resources"
-         "C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\pci card.dsn"
-         "SCHEMATIC1")
+      (Path "Design Resources" ".\pci card.dsn")
+      (Path "Design Resources" ".\pci card.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library"
-         "C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\library1.olb"))
+      (Path "Design Resources" "Library" ".\library1.olb")
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 309 0 369"))
+        (Placement "44 2 3 -1 -1 -4 -30 0 470 0 514"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 25 1370 25 409")
-        (Scroll "0 93")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -4 -30 88 612 116 464")
+        (Scroll "0 0")
+        (Zoom "35")
         (Occurrence "/"))
       (Path
-         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\PCI CARD.DSN")
+         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\PCI CARD\PCI CARD.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "11 FPGA DDR Bank 3,4,7"))
+      (Page "01 Info"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 50 1395 50 434")
-        (Scroll "72 86")
-        (Zoom "94")
+        (Placement "44 0 1 -1 -1 -4 -30 0 524 0 348")
+        (Scroll "102 71")
+        (Zoom "140")
         (Occurrence "/"))
       (Path
-         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\PCI CARD.DSN")
+         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\PCI CARD\PCI CARD.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "10 FPGA DDR Banks 5,6"))
+      (Page "12 Power Regulation"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 75 1420 75 459")
-        (Scroll "393 0")
+        (Placement "44 0 1 -1 -1 -4 -30 44 276 58 406")
+        (Scroll "152 70")
         (Zoom "100")
         (Occurrence "/"))
       (Path
-         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\PCI CARD.DSN")
+         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\PCI CARD\PCI CARD.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "09 DDR Socket"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 100 1445 100 484")
-        (Scroll "0 200")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\PCI CARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "02 PCI Connector"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 175 1228 175 559")
-        (Scroll "222 220")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\PCI CARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "03 FPGA PCI Banks")))
+      (Page "02 PCI Connector")))
   (PartMRUSelector
+    ("C330uF C7343"
+      (FullPartName "C330uF C7343.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\PCI CARD\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("Cap 330uF C7343"
+      (FullPartName "Cap 330uF C7343.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\PCI CARD\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("CAP POL"
+      (FullPartName "CAP POL.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (TI_PTH05000W
+      (FullPartName "TI_PTH05000W.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\PCI CARD\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (XCF32P_FS48
+      (FullPartName "XCF32P_FS48.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\PCI CARD\LIBRARY1.OLB")
+      (DeviceIndex "0"))
     (XC4VLX80_FF1148
       (FullPartName "XC4VLX80_FF1148D.Normal")
       (LibraryName
@@ -136,15 +145,11 @@
       (FullPartName "HEADER 3x2/SM.Normal")
       (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
       (DeviceIndex "0"))
-    (XCF32P_FS48
-      (FullPartName "XCF32P_FS48.Normal")
-      (LibraryName
-         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\LIBRARY1.OLB")
-      (DeviceIndex "0"))
     ("PCI 32 connector"
       (FullPartName "PCI 32 connectorC.Normal")
       (LibraryName
          "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\PCI CARD\LIBRARY1.OLB")
       (DeviceIndex "2")))
-  (MPSSessionName "sskalick")
-  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.3\tools\capture\library"))
+  (MPSSessionName "Sam Skalicky")
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.3\tools\capture\library")
+  (ISPCBBASICLICENSE "false"))
