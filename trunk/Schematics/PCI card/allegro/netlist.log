@@ -1,0 +1,20 @@
+{ Using PSTWRITER 16.3.0 p002Sep-30-2010 at 20:24:29 }
+
+#1 Warning [ALG0016] Part Name "PCI 32 CONNECTOR_PCI_PCI 32 CONNECTOR" is renamed to "PCI 32 CONNECTOR_PCI_PCI 32 CON".
+#2 Warning [ALG0016] Part Name "HEADER 3X2/SM_HEADER3X2_HEADER 3X2/SM" is renamed to "HEADER 3X2/SM_HEADER3X2_HEADER".
+#3 Warning [ALG0016] Part Name "MINI DIMM 1GB SMART_MINIDIMM_MINI DIMM SOCKET 87782-2001" is renamed to "MINI DIMM 1GB SMART_MINIDIMM_MI".
+#4 Warning [ALG0016] Part Name "TEST POINT_TEST_POINT_PCI_3.3VAUX" is renamed to "TEST POINT_TEST_POINT_PCI_3.3VA".
+#5 Warning [ALG0016] Part Name "TEST POINT_TEST_POINT_FPGA_TEMP_ANODE" is renamed to "TEST POINT_TEST_POINT_FPGA_TEMP".
+#6 Warning [ALG0016] Part Name "TEST POINT_TEST_POINT_FPGA_TEMP_CATHODE" is renamed to "TEST POINT_TEST_POINT_FPGA_TE_1".
+#7 Warning [ALG0016] Part Name "XC4VLX80_FF1148_XC4VLX80_XC4VLX80_FF1148" is renamed to "XC4VLX80_FF1148_XC4VLX80_XC4VLX".
+#8 Warning [ALG0016] Part Name "XCF32P_FS48_XC32PFS48_XCF32P_FS48" is renamed to "XCF32P_FS48_XC32PFS48_XCF32P_FS".
+Scanning netlist files ...
+
+Loading... c:\documents and settings\sam skalicky\my documents\motherboard\cisco-coop-mobo\schematics\pci card\allegro/pstchip.dat
+
+Loading... c:\documents and settings\sam skalicky\my documents\motherboard\cisco-coop-mobo\schematics\pci card\allegro/pstchip.dat
+
+Loading... c:\documents and settings\sam skalicky\my documents\motherboard\cisco-coop-mobo\schematics\pci card\allegro/pstxprt.dat
+
+Loading... c:\documents and settings\sam skalicky\my documents\motherboard\cisco-coop-mobo\schematics\pci card\allegro/pstxnet.dat
+packaging the design view...
