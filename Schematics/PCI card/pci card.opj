@@ -16,23 +16,81 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\pci card.dsn")
-      (Path "Design Resources" ".\pci card.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\pci card.dsn")
+      (Path "Design Resources"
+         "C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\pci card.dsn"
+         "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" ".\library1.olb")
-      (Select "Design Resources" ".\pci card.dsn" "SCHEMATIC1"))
+      (Path "Design Resources" "Library"
+         "C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\library1.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 0 309 0 369"))
-      (Tab 0)))
+        (Placement "44 0 1 -1 -1 -8 -30 0 309 0 369"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1370 25 409")
+        (Scroll "0 93")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\PCI CARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "11 FPGA DDR Bank 3,4,7"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 50 1395 50 434")
+        (Scroll "72 86")
+        (Zoom "94")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\PCI CARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "10 FPGA DDR Banks 5,6"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1420 75 459")
+        (Scroll "393 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\PCI CARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "09 DDR Socket"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1445 100 484")
+        (Scroll "0 200")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\PCI CARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "02 PCI Connector"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 175 1228 175 559")
+        (Scroll "222 220")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\PCI CARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "03 FPGA PCI Banks")))
   (PartMRUSelector
     (XC4VLX80_FF1148
-      (FullPartName "XC4VLX80_FF1148G.Normal")
+      (FullPartName "XC4VLX80_FF1148D.Normal")
       (LibraryName
          "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\LIBRARY1.OLB")
-      (DeviceIndex "6"))
+      (DeviceIndex "3"))
     (VCC
       (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
