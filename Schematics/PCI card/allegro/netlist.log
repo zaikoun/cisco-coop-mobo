@@ -1,23 +1,24 @@
-{ Using PSTWRITER 16.3.0 p002Oct-01-2010 at 16:45:49 }
+{ Using PSTWRITER 16.3.0 p002Oct-01-2010 at 23:07:14 }
 
-#1 Warning [ALG0016] Part Name "PCI 32 CONNECTOR_PCI_PCI 32 CONNECTOR" is renamed to "PCI 32 CONNECTOR_PCI_PCI 32 CON".
-#2 Warning [ALG0016] Part Name "HEADER 3X2/SM_HEADER3X2_HEADER 3X2/SM" is renamed to "HEADER 3X2/SM_HEADER3X2_HEADER".
-#3 Warning [ALG0016] Part Name "MINI DIMM 1GB SMART_MINIDIMM_MINI DIMM SOCKET 87782-2001" is renamed to "MINI DIMM 1GB SMART_MINIDIMM_MI".
-#4 Warning [ALG0016] Part Name "TEST POINT_TEST_POINT_PCI_3.3VAUX" is renamed to "TEST POINT_TEST_POINT_PCI_3.3VA".
-#5 Warning [ALG0016] Part Name "TEST POINT_TEST_POINT_FPGA_TEMP_ANODE" is renamed to "TEST POINT_TEST_POINT_FPGA_TEMP".
-#6 Warning [ALG0016] Part Name "TEST POINT_TEST_POINT_FPGA_TEMP_CATHODE" is renamed to "TEST POINT_TEST_POINT_FPGA_TE_1".
-#7 Warning [ALG0016] Part Name "XC4VLX80_FF1148_XC4VLX80_XC4VLX80_FF1148" is renamed to "XC4VLX80_FF1148_XC4VLX80_XC4VLX".
-#8 Warning [ALG0016] Part Name "XCF32P_FS48_XC32PFS48_XCF32P_FS48" is renamed to "XCF32P_FS48_XC32PFS48_XCF32P_FS".
-#9 Warning [ALG0016] Part Name "TI_PTH05000W_PTH05000W_TI PTH05000W" is renamed to "TI_PTH05000W_PTH05000W_TI PTH05".
-#10 Warning [ALG0016] Part Name "TI_PTH05050Y_PTH05050Y_TI PTH05050Y" is renamed to "TI_PTH05050Y_PTH05050Y_TI PTH05".
-#11 Warning [ALG0016] Part Name "TI_PTH03000_PTH03000_TI_PTH03000" is renamed to "TI_PTH03000_PTH03000_TI_PTH0300".
+#1 Warning [ALG0016] Part Name "HEADER 3X2/SM_HEADER3X2_HEADER 3X2/SM" is renamed to "HEADER 3X2/SM_HEADER3X2_HEADER".
+#2 Warning [ALG0016] Part Name "MINI DIMM 1GB SMART_MINIDIMM_MINI DIMM SOCKET 87782-2001" is renamed to "MINI DIMM 1GB SMART_MINIDIMM_MI".
+#3 Warning [ALG0016] Part Name "PCI 32 BOTTOM EDGE_PCI_32_EDGE_BOTTOM_PCI 32 BOTTOM EDGE" is renamed to "PCI 32 BOTTOM EDGE_PCI_32_EDGE_".
+#4 Warning [ALG0016] Part Name "PCI 32 TOP EDGE_PCI_32_EDGE_TOP_PCI 32 TOP EDGE" is renamed to "PCI 32 TOP EDGE_PCI_32_EDGE_TOP".
+#5 Warning [ALG0016] Part Name "TEST POINT_TEST_POINT_PCI_3.3VAUX" is renamed to "TEST POINT_TEST_POINT_PCI_3.3VA".
+#6 Warning [ALG0016] Part Name "TEST POINT_TEST_POINT_FPGA_TEMP_ANODE" is renamed to "TEST POINT_TEST_POINT_FPGA_TEMP".
+#7 Warning [ALG0016] Part Name "TEST POINT_TEST_POINT_FPGA_TEMP_CATHODE" is renamed to "TEST POINT_TEST_POINT_FPGA_TE_1".
+#8 Warning [ALG0016] Part Name "XC4VLX80_FF1148_XC4VLX80_XC4VLX80_FF1148" is renamed to "XC4VLX80_FF1148_XC4VLX80_XC4VLX".
+#9 Warning [ALG0016] Part Name "XCF32P_FS48_XC32PFS48_XCF32P_FS48" is renamed to "XCF32P_FS48_XC32PFS48_XCF32P_FS".
+#10 Warning [ALG0016] Part Name "TI_PTH05000W_PTH05000W_TI PTH05000W" is renamed to "TI_PTH05000W_PTH05000W_TI PTH05".
+#11 Warning [ALG0016] Part Name "TI_PTH05050Y_PTH05050Y_TI PTH05050Y" is renamed to "TI_PTH05050Y_PTH05050Y_TI PTH05".
+#12 Warning [ALG0016] Part Name "TI_PTH03000_PTH03000_TI_PTH03000" is renamed to "TI_PTH03000_PTH03000_TI_PTH0300".
 Scanning netlist files ...
 
-Loading... C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\allegro/pstchip.dat
+Loading... c:\documents and settings\sam skalicky\my documents\motherboard\cisco-coop-mobo\schematics\pci card\allegro/pstchip.dat
 
-Loading... C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\allegro/pstchip.dat
+Loading... c:\documents and settings\sam skalicky\my documents\motherboard\cisco-coop-mobo\schematics\pci card\allegro/pstchip.dat
 
-Loading... C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\allegro/pstxprt.dat
+Loading... c:\documents and settings\sam skalicky\my documents\motherboard\cisco-coop-mobo\schematics\pci card\allegro/pstxprt.dat
 
-Loading... C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\allegro/pstxnet.dat
+Loading... c:\documents and settings\sam skalicky\my documents\motherboard\cisco-coop-mobo\schematics\pci card\allegro/pstxnet.dat
 packaging the design view...
