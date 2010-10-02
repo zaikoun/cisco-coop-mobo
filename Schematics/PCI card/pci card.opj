@@ -33,8 +33,7 @@
       (Path "Design Resources" ".\pci card.dsn")
       (Path "Design Resources" ".\pci card.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Outputs")
-      (Select "Design Resources" ".\pci card.dsn" "SCHEMATIC1"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
