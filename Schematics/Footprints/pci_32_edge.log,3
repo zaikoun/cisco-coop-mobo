@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : pci_32_edge.dra                               )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Fri Oct 01 17:49:07 2010                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/sskalick/Documents/Motherboard/Schematics/Footprints
+    Name      = pci_32_edge.psm
+    User      = sskalick
+    Machine   = SSKALICK-WS01
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

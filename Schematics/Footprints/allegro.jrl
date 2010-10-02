@@ -1,0 +1,719 @@
+\t (00:00:02) allegro 16.3 p006 (v16-3-85F) i86
+\t (00:00:02) 
+
+\t (00:00:46) Starting new drawing...
+\i (00:00:46) trapsize 818
+\i (00:00:46) trapsize 798
+\i (00:00:46) trapsize 790
+\i (00:00:47) trapsize 686
+\i (00:00:47) trapsize 1364
+\i (00:00:47) generaledit 
+\i (00:00:49) new 
+\i (00:01:08) newdrawfillin "pci_32_edge.dra" "Package Symbol"
+\t (00:01:08) Starting new drawing...
+\i (00:01:08) trapsize 673
+\i (00:01:09) trapsize 686
+\i (00:01:09) trapsize 1364
+\i (00:01:09) trapsize 1364
+\i (00:01:09) generaledit 
+\i (00:01:12) prmed 
+\i (00:01:13) setwindow form.prmedit
+\i (00:01:13) FORM prmedit design  
+\i (00:01:16) FORM prmedit units Millimeter 
+\e (00:01:16) Change may cause round-off; run dbcheck.
+\i (00:01:19) FORM prmedit text  
+\i (00:01:21) FORM prmedit display  
+\i (00:01:22) FORM prmedit done  
+\w (00:01:22) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:22) setwindow pcb
+\i (00:01:22) trapsize 34655
+\t (00:01:22) Performing DRC...
+\t (00:01:22) No DRC errors detected.
+\i (00:01:23) generaledit 
+\i (00:01:25) define grid 
+\t (00:01:25) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:01:25) generaledit 
+\i (00:01:27) setwindow form.grid
+\i (00:01:27) FORM grid display YES 
+\i (00:01:34) FORM grid non_etch non_etch_x_grids 1.27 
+\i (00:01:38) FORM grid done  
+\t (00:01:38) Grids are drawn 5.0800, 10.1600 apart for enhanced viewability.
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom in 1 
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom in 239.8119 195.4536
+\t (00:01:40) Grids are drawn 5.0800, 2.5400 apart for enhanced viewability.
+\i (00:01:40) trapsize 17327
+\i (00:01:41) zoom out 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out 123.0860 195.4536
+\t (00:01:41) Grids are drawn 5.0800, 10.1600 apart for enhanced viewability.
+\i (00:01:41) trapsize 34655
+\i (00:01:47) zoom in 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom in 194.0674 191.9881
+\t (00:01:47) Grids are drawn 5.0800, 2.5400 apart for enhanced viewability.
+\i (00:01:47) trapsize 17327
+\i (00:01:47) zoom in 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom in 100.2138 191.9882
+\i (00:01:47) trapsize 8664
+\i (00:01:47) zoom in 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom in 100.2139 191.9882
+\i (00:01:47) trapsize 4332
+\i (00:01:48) zoom in 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom in 100.2139 191.9882
+\i (00:01:48) trapsize 2166
+\i (00:01:48) zoom in 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom in 100.3006 192.1182
+\i (00:01:48) trapsize 1083
+\i (00:01:51) padeditlib 
+\f (00:01:51) Select Library Padstack
+\i (00:01:59) fillin "Pad262rec35"
+\i (00:02:08) setwindow form.padedit
+\i (00:02:08) FORM padedit units Millimeter 
+\f (00:02:08) Units change will result in loss of accuracy. Continue?
+\i (00:02:09) fillin yes 
+\w (00:02:09) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:17) FORM padedit hole_size_x 0 
+\i (00:02:25) FORM padedit layers  
+\i (00:02:29) FORM padedit single YES 
+\i (00:02:38) FORM padedit single NO 
+\i (00:02:40) FORM padedit grid row default_internal 
+\i (00:02:52) FORM padedit geometry Null 
+\i (00:02:53) FORM padedit geometry_th Null 
+\i (00:02:54) FORM padedit geometry_ant Null 
+\i (00:02:55) FORM padedit grid row begin_layer 
+\i (00:02:56) FORM padedit geometry_th Null 
+\i (00:02:58) FORM padedit geometry_ant Circle 
+\i (00:02:59) FORM padedit geometry_ant Null 
+\i (00:03:00) FORM padedit grid row end_layer 
+\i (00:03:01) FORM padedit geometry_ant Null 
+\i (00:03:02) FORM padedit geometry_th Null 
+\i (00:03:06) FORM padedit crossbox YES 
+\i (00:03:15) FORM padedit width 1.016 
+\i (00:03:22) FORM padedit height 4.34 
+\i (00:03:33) FORM padedit grid row begin_layer 
+\i (00:03:39) FORM padedit width 1.016 
+\i (00:03:44) FORM padedit height 4.34 
+\i (00:03:46) FORM padedit grid row soldermask_top 
+\i (00:04:59) FORM padedit width 1.27 
+\i (00:11:21) FORM padedit height 14.7 
+\i (00:11:27) FORM padedit grid row soldermask_bottom 
+\i (00:11:37) FORM padedit width 1 
+\i (00:12:40) FORM padedit width 1.27 
+\i (00:12:51) FORM padedit height 14.7 
+\i (00:12:56) FORM padedit grid row soldermask_top 
+\i (00:12:57) FORM padedit grid row soldermask_bottom 
+\i (00:12:58) FORM padedit grid row soldermask_top 
+\i (00:12:59) FORM padedit grid row end_layer 
+\i (00:13:00) FORM padedit grid row begin_layer 
+\i (00:13:01) FORM padedit stackbox YES 
+\i (00:13:05) FORM padedit crossbox YES 
+\i (00:13:08) pse_save_as 
+\i (00:13:27) setwindow text
+\i (00:13:27) close 
+\f (00:13:27) Save padstack with WARNINGS?
+Pick 'No' to continue editing.
+\i (00:13:28) fillin yes 
+\i (00:13:40) fillin "pci_edge.pad"
+\i (00:13:43) setwindow form.padedit
+\i (00:13:43) pse_exit
+\f (00:13:43) Select Library Padstack
+\i (00:13:44) fillin "menu_ok"
+\i (00:13:44) setwindow pcb
+\i (00:13:44) generaledit 
+\i (00:13:48) add pin 
+\i (00:13:51) setwindow form.mini
+\i (00:13:51) FORM mini pad_browse  
+\f (00:13:51) Select a padstack:
+\i (00:13:58) fillin "Pci_Edge"
+\t (00:13:58) Using 'PCI_EDGE.pad'.
+\i (00:14:14) FORM mini next_pin_number B1 
+\i (00:14:15) setwindow pcb
+\i (00:14:15) pick grid 103.4629 192.6164
+\t (00:14:15) last pick:  102.8700  193.0400
+\t (00:14:15) Using 'PCI_EDGE.pad'.
+\i (00:14:17) zoom out 1 
+\i (00:14:17) setwindow pcb
+\i (00:14:17) zoom out 103.2463 193.2228
+\i (00:14:17) trapsize 2166
+\i (00:14:17) zoom out 1 
+\i (00:14:17) setwindow pcb
+\i (00:14:17) zoom out 103.2462 193.2229
+\i (00:14:17) trapsize 4332
+\i (00:14:18) zoom in 1 
+\i (00:14:18) setwindow pcb
+\i (00:14:18) zoom in 103.2462 193.2228
+\i (00:14:18) trapsize 2166
+\i (00:14:18) zoom in 1 
+\i (00:14:18) setwindow pcb
+\i (00:14:18) zoom in 103.2462 193.2229
+\i (00:14:18) trapsize 1083
+\i (00:14:21) pick grid 103.5278 193.0063
+\t (00:14:21) last pick:  104.1400  193.0400
+\t (00:14:21) Using 'PCI_EDGE.pad'.
+\i (00:14:22) pick grid 104.7840 193.0280
+\t (00:14:22) last pick:  105.4100  193.0400
+\t (00:14:22) Using 'PCI_EDGE.pad'.
+\i (00:14:23) pick grid 106.0619 193.0063
+\t (00:14:23) last pick:  106.6800  193.0400
+\t (00:14:23) Using 'PCI_EDGE.pad'.
+\i (00:14:24) pick grid 107.3181 193.0063
+\t (00:14:24) last pick:  107.9500  193.0400
+\t (00:14:24) Using 'PCI_EDGE.pad'.
+\i (00:14:24) pick grid 108.5960 192.9847
+\t (00:14:24) last pick:  109.2200  193.0400
+\t (00:14:24) Using 'PCI_EDGE.pad'.
+\i (00:14:27) pick grid 109.8739 193.0063
+\t (00:14:27) last pick:  110.4900  193.0400
+\t (00:14:27) Using 'PCI_EDGE.pad'.
+\i (00:14:28) pick grid 111.1302 192.9414
+\t (00:14:28) last pick:  111.7600  193.0400
+\t (00:14:28) Using 'PCI_EDGE.pad'.
+\i (00:14:29) pick grid 112.4081 192.9847
+\t (00:14:29) last pick:  113.0300  193.0400
+\t (00:14:29) Using 'PCI_EDGE.pad'.
+\i (00:14:29) pick grid 113.7076 193.0496
+\t (00:14:29) last pick:  114.3000  193.0400
+\t (00:14:29) Using 'PCI_EDGE.pad'.
+\i (00:14:30) pick grid 114.9422 193.1146
+\t (00:14:30) last pick:  115.5700  193.0400
+\t (00:14:30) Using 'PCI_EDGE.pad'.
+\i (00:14:32) zoom out 1 
+\i (00:14:32) setwindow pcb
+\i (00:14:32) zoom out 113.8809 190.6888
+\i (00:14:32) trapsize 2166
+\i (00:14:32) zoom out 1 
+\i (00:14:32) setwindow pcb
+\i (00:14:32) zoom out 113.8808 190.6888
+\i (00:14:32) trapsize 4332
+\i (00:14:32) zoom in 1 
+\i (00:14:32) setwindow pcb
+\i (00:14:32) zoom in 114.0541 190.9487
+\i (00:14:32) trapsize 2166
+\i (00:14:33) zoom in 1 
+\i (00:14:33) setwindow pcb
+\i (00:14:33) zoom in 114.1408 190.9921
+\i (00:14:33) trapsize 1083
+\i (00:14:35) zoom out 1 
+\i (00:14:35) setwindow pcb
+\i (00:14:35) zoom out 106.3002 188.4147
+\i (00:14:35) trapsize 2166
+\i (00:16:51) prmed 
+\t (00:16:51) Exiting from Add Pin.
+\i (00:16:53) setwindow form.prmedit
+\i (00:16:53) FORM prmedit design  
+\i (00:17:00) FORM prmedit move_x 115.5700 
+\i (00:17:05) FORM prmedit move_y 193.0400 
+\i (00:17:05) FORM prmedit done  
+\i (00:17:05) setwindow pcb
+\i (00:17:05) trapsize 2166
+\i (00:17:05) generaledit 
+\i (00:17:11) prmed 
+\i (00:17:23) setwindow form.prmedit
+\i (00:17:23) FORM prmedit move_x 3.8200 
+\i (00:17:24) FORM prmedit done  
+\i (00:17:24) setwindow pcb
+\i (00:17:24) trapsize 2166
+\i (00:17:24) generaledit 
+\i (00:17:27) zoom in 1 
+\i (00:17:27) setwindow pcb
+\i (00:17:27) zoom in -0.0943 -0.2069
+\i (00:17:27) trapsize 1083
+\i (00:17:27) zoom in 1 
+\i (00:17:27) setwindow pcb
+\i (00:17:27) zoom in 0.0356 -0.2502
+\i (00:17:27) trapsize 541
+\i (00:17:27) zoom in 1 
+\i (00:17:27) setwindow pcb
+\i (00:17:27) zoom in 0.0681 -0.2502
+\i (00:17:27) trapsize 271
+\i (00:17:27) zoom in 1 
+\i (00:17:27) setwindow pcb
+\i (00:17:27) zoom in 0.0735 -0.2502
+\i (00:17:27) trapsize 135
+\i (00:17:27) zoom out 1 
+\i (00:17:27) setwindow pcb
+\i (00:17:27) zoom out -0.0158 -0.0092
+\i (00:17:27) trapsize 271
+\i (00:17:28) zoom out 1 
+\i (00:17:28) setwindow pcb
+\i (00:17:28) zoom out 0.0005 -0.0091
+\i (00:17:28) trapsize 541
+\i (00:17:28) zoom out 1 
+\i (00:17:28) setwindow pcb
+\i (00:17:28) zoom out 0.0546 -0.0092
+\i (00:17:28) trapsize 1083
+\i (00:17:28) zoom out 1 
+\i (00:17:28) setwindow pcb
+\i (00:17:28) zoom out 0.0546 -0.0092
+\i (00:17:28) trapsize 2166
+\i (00:17:31) add pin 
+\t (00:17:32) Using 'PCI_EDGE.pad'.
+\i (00:17:36) setwindow form.mini
+\i (00:17:36) FORM mini next_pin_number B14 
+\i (00:17:39) setwindow pcb
+\i (00:17:39) pick grid 0.6177 -0.4423
+\t (00:17:39) last pick:  0.0000  0.0000
+\t (00:17:39) Using 'PCI_EDGE.pad'.
+\i (00:17:42) pick grid 0.6610 -0.0958
+\t (00:17:42) last pick:  1.2700  0.0000
+\t (00:17:42) Using 'PCI_EDGE.pad'.
+\i (00:17:42) pick grid 1.9173 -0.0525
+\t (00:17:42) last pick:  2.5400  0.0000
+\t (00:17:42) Using 'PCI_EDGE.pad'.
+\i (00:17:43) pick grid 3.2168 -0.1391
+\t (00:17:43) last pick:  3.8100  0.0000
+\t (00:17:43) Using 'PCI_EDGE.pad'.
+\i (00:17:44) pick grid 4.4730 -0.2691
+\t (00:17:44) last pick:  5.0800  0.0000
+\t (00:17:44) Using 'PCI_EDGE.pad'.
+\i (00:17:44) pick grid 5.7293 -0.3124
+\t (00:17:44) last pick:  6.3500  0.0000
+\t (00:17:44) Using 'PCI_EDGE.pad'.
+\i (00:17:45) pick grid 6.9855 -0.3557
+\t (00:17:45) last pick:  7.6200  0.0000
+\t (00:17:45) Using 'PCI_EDGE.pad'.
+\i (00:17:46) pick grid 8.2850 -0.3557
+\t (00:17:46) last pick:  8.8900  0.0000
+\t (00:17:46) Using 'PCI_EDGE.pad'.
+\i (00:17:46) pick grid 9.6279 -0.3990
+\t (00:17:46) last pick:  10.1600  0.0000
+\t (00:17:46) Using 'PCI_EDGE.pad'.
+\i (00:17:47) pick grid 10.7975 -0.3990
+\t (00:17:47) last pick:  11.4300  0.0000
+\t (00:17:47) Using 'PCI_EDGE.pad'.
+\i (00:17:48) pick grid 12.1404 -0.3124
+\t (00:17:48) last pick:  12.7000  0.0000
+\t (00:17:48) Using 'PCI_EDGE.pad'.
+\i (00:17:48) pick grid 13.3533 -0.4423
+\t (00:17:48) last pick:  13.9700  0.0000
+\t (00:17:48) Using 'PCI_EDGE.pad'.
+\i (00:17:49) pick grid 14.6095 -0.6156
+\t (00:17:49) last pick:  15.2400  0.0000
+\t (00:17:49) Using 'PCI_EDGE.pad'.
+\i (00:17:49) pick grid 15.9090 -0.6589
+\t (00:17:49) last pick:  16.5100  0.0000
+\t (00:17:49) Using 'PCI_EDGE.pad'.
+\i (00:17:50) pick grid 17.2086 -0.7023
+\t (00:17:50) last pick:  17.7800  0.0000
+\t (00:17:50) Using 'PCI_EDGE.pad'.
+\i (00:17:50) pick grid 18.4648 -0.7023
+\t (00:17:50) last pick:  19.0500  0.0000
+\t (00:17:50) Using 'PCI_EDGE.pad'.
+\i (00:17:51) pick grid 19.7644 -0.5723
+\t (00:17:51) last pick:  20.3200  0.0000
+\t (00:17:51) Using 'PCI_EDGE.pad'.
+\i (00:17:51) pick grid 20.9773 -0.5723
+\t (00:17:51) last pick:  21.5900  0.0000
+\t (00:17:51) Using 'PCI_EDGE.pad'.
+\i (00:17:52) pick grid 22.2335 -0.5723
+\t (00:17:52) last pick:  22.8600  0.0000
+\t (00:17:52) Using 'PCI_EDGE.pad'.
+\i (00:17:53) pick grid 23.5764 -0.6156
+\t (00:17:53) last pick:  24.1300  0.0000
+\t (00:17:53) Using 'PCI_EDGE.pad'.
+\i (00:17:53) pick grid 24.7893 -0.6156
+\t (00:17:53) last pick:  25.4000  0.0000
+\t (00:17:53) Using 'PCI_EDGE.pad'.
+\i (00:17:54) pick grid 26.0888 -0.5723
+\t (00:17:54) last pick:  26.6700  0.0000
+\t (00:17:54) Using 'PCI_EDGE.pad'.
+\i (00:17:54) pick grid 27.3450 -0.6156
+\t (00:17:54) last pick:  27.9400  0.0000
+\t (00:17:54) Using 'PCI_EDGE.pad'.
+\i (00:17:55) pick grid 28.6013 -0.6156
+\t (00:17:55) last pick:  29.2100  0.0000
+\t (00:17:55) Using 'PCI_EDGE.pad'.
+\i (00:17:56) zoom out 1 
+\i (00:17:56) setwindow pcb
+\i (00:17:56) zoom out -35.7695 4.6259
+\i (00:17:56) trapsize 4332
+\i (00:17:57) zoom in 1 
+\i (00:17:57) setwindow pcb
+\i (00:17:57) zoom in 32.3266 1.6802
+\i (00:17:57) trapsize 2166
+\i (00:17:57) zoom in 1 
+\i (00:17:57) setwindow pcb
+\i (00:17:57) zoom in 32.4133 1.5503
+\i (00:17:57) trapsize 1083
+\i (00:17:58) pick grid 31.0704 0.3591
+\t (00:17:58) last pick:  30.4800  0.0000
+\t (00:17:58) Using 'PCI_EDGE.pad'.
+\i (00:17:59) pick grid 31.1787 0.3158
+\t (00:17:59) last pick:  31.7500  0.0000
+\t (00:17:59) Using 'PCI_EDGE.pad'.
+\i (00:18:00) pick grid 32.5216 0.1425
+\t (00:18:00) last pick:  33.0200  0.0000
+\t (00:18:00) Using 'PCI_EDGE.pad'.
+\i (00:18:09) pick grid 34.6658 1.0089
+\t (00:18:09) last pick:  34.2900  0.0000
+\t (00:18:09) Using 'PCI_EDGE.pad'.
+\i (00:18:10) pick grid 35.0124 0.0559
+\t (00:18:10) last pick:  35.5600  0.0000
+\t (00:18:10) Using 'PCI_EDGE.pad'.
+\i (00:18:11) pick grid 36.2036 -0.0741
+\t (00:18:11) last pick:  36.8300  0.0000
+\t (00:18:11) Using 'PCI_EDGE.pad'.
+\i (00:18:12) pick grid 37.5248 -0.0741
+\t (00:18:12) last pick:  38.1000  0.0000
+\t (00:18:12) Using 'PCI_EDGE.pad'.
+\i (00:18:12) pick grid 38.8027 -0.1174
+\t (00:18:12) last pick:  39.3700  0.0000
+\t (00:18:12) Using 'PCI_EDGE.pad'.
+\i (00:18:13) pick grid 40.0156 -0.2474
+\t (00:18:13) last pick:  40.6400  0.0000
+\t (00:18:13) Using 'PCI_EDGE.pad'.
+\i (00:18:13) pick grid 41.2935 -0.2474
+\t (00:18:13) last pick:  41.9100  0.0000
+\t (00:18:13) Using 'PCI_EDGE.pad'.
+\i (00:18:14) pick grid 42.5497 -0.3340
+\t (00:18:14) last pick:  43.1800  0.0000
+\t (00:18:14) Using 'PCI_EDGE.pad'.
+\i (00:18:15) pick grid 43.8276 -0.2907
+\t (00:18:15) last pick:  44.4500  0.0000
+\t (00:18:15) Using 'PCI_EDGE.pad'.
+\i (00:18:15) zoom out 1 
+\i (00:18:15) setwindow pcb
+\i (00:18:15) zoom out 39.3442 0.3591
+\i (00:18:15) trapsize 2166
+\i (00:18:16) zoom out 1 
+\i (00:18:16) setwindow pcb
+\i (00:18:16) zoom out 39.3442 0.3591
+\i (00:18:16) trapsize 4332
+\i (00:18:17) zoom in 1 
+\i (00:18:17) setwindow pcb
+\i (00:18:17) zoom in 44.9756 0.3591
+\i (00:18:17) trapsize 2166
+\i (00:18:17) zoom in 1 
+\i (00:18:17) setwindow pcb
+\i (00:18:17) zoom in 44.9756 0.3591
+\i (00:18:17) trapsize 1083
+\i (00:18:44) define grid 
+\t (00:18:44) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:18:47) setwindow form.grid
+\i (00:18:47) FORM grid done  
+\i (00:18:51) setwindow pcb
+\i (00:18:51) prmed 
+\t (00:18:51) Exiting from Add Pin.
+\i (00:18:56) setwindow form.prmedit
+\i (00:18:56) FORM prmedit move_x 44.4500 
+\i (00:18:58) FORM prmedit done  
+\i (00:18:58) setwindow pcb
+\i (00:18:58) trapsize 1083
+\i (00:18:58) generaledit 
+\i (00:19:00) add pin 
+\t (00:19:00) Using 'PCI_EDGE.pad'.
+\i (00:19:04) setwindow form.mini
+\i (00:19:04) FORM mini next_pin_number B52 
+\i (00:19:54) setwindow pcb
+\i (00:19:54) prmed 
+\t (00:19:54) Exiting from Add Pin.
+\i (00:20:00) setwindow form.prmedit
+\i (00:20:00) FORM prmedit move_x 3.8200 
+\i (00:20:02) FORM prmedit done  
+\i (00:20:02) setwindow pcb
+\i (00:20:02) trapsize 1083
+\i (00:20:02) generaledit 
+\i (00:20:14) add pin 
+\t (00:20:14) Using 'PCI_EDGE.pad'.
+\i (00:20:17) pick grid -0.6303 0.5324
+\t (00:20:17) last pick:  0.0000  0.0000
+\t (00:20:17) Using 'PCI_EDGE.pad'.
+\i (00:20:17) zoom out 1 
+\i (00:20:17) setwindow pcb
+\i (00:20:17) zoom out -7.7128 1.4204
+\i (00:20:17) trapsize 2166
+\i (00:20:18) zoom in 1 
+\i (00:20:18) setwindow pcb
+\i (00:20:18) zoom in 14.9426 0.9872
+\i (00:20:18) trapsize 1083
+\i (00:20:21) pick grid 1.5789 -1.2653
+\t (00:20:21) last pick:  1.2700  0.0000
+\t (00:20:21) Using 'PCI_EDGE.pad'.
+\i (00:20:22) pick grid 1.9688 -0.2907
+\t (00:20:22) last pick:  2.5400  0.0000
+\t (00:20:22) Using 'PCI_EDGE.pad'.
+\i (00:20:22) pick grid 3.1817 0.0342
+\t (00:20:22) last pick:  3.8100  0.0000
+\t (00:20:22) Using 'PCI_EDGE.pad'.
+\i (00:20:23) pick grid 4.4596 -0.0308
+\t (00:20:23) last pick:  5.0800  0.0000
+\t (00:20:23) Using 'PCI_EDGE.pad'.
+\i (00:20:24) pick grid 5.7375 -0.1607
+\t (00:20:24) last pick:  6.3500  0.0000
+\t (00:20:24) Using 'PCI_EDGE.pad'.
+\i (00:20:24) pick grid 6.9937 -0.0741
+\t (00:20:24) last pick:  7.6200  0.0000
+\t (00:20:24) Using 'PCI_EDGE.pad'.
+\i (00:20:25) pick grid 8.2716 -0.0524
+\t (00:20:25) last pick:  8.8900  0.0000
+\t (00:20:25) Using 'PCI_EDGE.pad'.
+\i (00:20:25) pick grid 9.5495 -0.1174
+\t (00:20:25) last pick:  10.1600  0.0000
+\t (00:20:25) Using 'PCI_EDGE.pad'.
+\i (00:20:26) pick grid 10.8057 -0.1607
+\t (00:20:26) last pick:  11.4300  0.0000
+\t (00:20:26) Using 'PCI_EDGE.pad'.
+\i (00:20:40) pick grid 13.2315 0.5973
+\t (00:20:40) last pick:  12.7000  0.0000
+\t (00:20:40) Using 'PCI_EDGE.pad'.
+\i (00:20:41) Esc 
+\w (00:20:41) WARNING(SPMHA1-314): Illegal event.
+\i (00:20:43) prepopup 14.1629 3.8895
+\i (00:20:43) done 
+\t (00:20:43) Exiting from Add Pin.
+\i (00:20:43) generaledit 
+\i (00:20:44) zoom out 1 
+\i (00:20:44) setwindow pcb
+\i (00:20:44) zoom out 13.9030 3.6080
+\i (00:20:44) trapsize 2166
+\i (00:20:45) zoom out 1 
+\i (00:20:45) setwindow pcb
+\i (00:20:45) zoom out 9.0079 2.0918
+\i (00:20:45) trapsize 4332
+\i (00:20:46) zoom in 1 
+\i (00:20:46) setwindow pcb
+\i (00:20:46) zoom in 10.0476 10.8420
+\i (00:20:46) trapsize 2166
+\i (00:20:47) zoom in 1 
+\i (00:20:47) setwindow pcb
+\i (00:20:47) zoom in 7.7085 5.9037
+\i (00:20:47) trapsize 1083
+\i (00:20:48) zoom out 1 
+\i (00:20:48) setwindow pcb
+\i (00:20:48) zoom out 7.8601 5.9687
+\i (00:20:48) trapsize 2166
+\i (00:20:57) zoom out 1 
+\i (00:20:57) setwindow pcb
+\i (00:20:57) zoom out 15.2675 4.5392
+\i (00:20:57) trapsize 4332
+\i (00:20:57) zoom in 1 
+\i (00:20:57) setwindow pcb
+\i (00:20:57) zoom in -65.3909 3.1530
+\i (00:20:57) trapsize 2166
+\i (00:20:58) zoom in 1 
+\i (00:20:58) setwindow pcb
+\i (00:20:58) zoom in -65.0010 0.9438
+\i (00:20:58) trapsize 1083
+\i (00:21:03) prmed 
+\i (00:21:12) setwindow form.prmedit
+\i (00:21:12) FORM prmedit move_x -64.7700 
+\i (00:21:14) FORM prmedit done  
+\i (00:21:14) setwindow pcb
+\i (00:21:14) trapsize 1083
+\i (00:21:14) generaledit 
+\i (00:21:17) zoom out 1 
+\i (00:21:17) setwindow pcb
+\i (00:21:17) zoom out 0.0289 0.0124
+\i (00:21:17) trapsize 2166
+\i (00:21:18) zoom out 1 
+\i (00:21:18) setwindow pcb
+\i (00:21:18) zoom out 0.0290 0.0125
+\i (00:21:18) trapsize 4332
+\i (00:21:18) zoom out 1 
+\i (00:21:18) setwindow pcb
+\i (00:21:18) zoom out 0.0290 0.0125
+\i (00:21:18) trapsize 8664
+\i (00:21:19) zoom in 1 
+\i (00:21:19) setwindow pcb
+\i (00:21:19) zoom in 44.7332 20.2854
+\i (00:21:19) trapsize 4332
+\i (00:21:19) zoom in 1 
+\i (00:21:19) setwindow pcb
+\i (00:21:19) zoom in 44.7332 20.1988
+\i (00:21:19) trapsize 2166
+\i (00:21:20) zoom out 1 
+\i (00:21:20) setwindow pcb
+\i (00:21:20) zoom out 44.7333 20.1555
+\i (00:21:20) trapsize 4332
+\i (00:21:20) zoom out 1 
+\i (00:21:20) setwindow pcb
+\i (00:21:20) zoom out 44.6466 20.1555
+\i (00:21:20) trapsize 8664
+\i (00:21:21) zoom in 1 
+\i (00:21:21) setwindow pcb
+\i (00:21:21) zoom in 30.7847 -3.2363
+\i (00:21:21) trapsize 4332
+\i (00:21:21) zoom in 1 
+\i (00:21:21) setwindow pcb
+\i (00:21:21) zoom in 30.7847 -3.2363
+\i (00:21:21) trapsize 2166
+\i (00:21:22) zoom out 1 
+\i (00:21:22) setwindow pcb
+\i (00:21:22) zoom out 31.7377 -0.8104
+\i (00:21:22) trapsize 4332
+\i (00:21:24) save 
+\e (00:21:24) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:21:24) generaledit 
+\i (00:21:27) setwindow text
+\i (00:21:27) close 
+\i (00:21:29) setwindow pcb
+\i (00:21:29) zoom in 1 
+\i (00:21:29) setwindow pcb
+\i (00:21:29) zoom in 1.5883 0.9222
+\i (00:21:29) trapsize 2166
+\i (00:21:29) zoom in 1 
+\i (00:21:29) setwindow pcb
+\i (00:21:29) zoom in 1.5883 0.9222
+\i (00:21:29) trapsize 1083
+\i (00:22:19) save 
+\f (00:22:19) C:/Users/sskalick/Documents/Motherboard/Schematics/Footprints/pci_32_edge.dra: File Exists. Overwrite? 
+\i (00:22:21) fillin yes 
+\e (00:22:21) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:22:21) generaledit 
+\i (00:22:23) setwindow text
+\i (00:22:23) close 
+\i (00:22:24) setwindow pcb
+\i (00:22:24) shape add rect 
+\i (00:27:01) setwindow form.mini
+\i (00:27:01) FORM mini dyns_fill_type Unfilled 
+\i (00:27:28) setwindow pcb
+\i (00:27:28) pick = -1.338 -4.72 
+\t (00:27:28) last pick:  -1.3380  -4.7200
+\i (00:27:31) zoom out 1 
+\i (00:27:31) setwindow pcb
+\i (00:27:31) zoom out 6.3533 2.2001
+\i (00:27:31) trapsize 2166
+\i (00:27:31) zoom out 1 
+\i (00:27:31) setwindow pcb
+\i (00:27:31) zoom out 6.2667 1.9836
+\i (00:27:31) trapsize 4332
+\i (00:27:33) zoom in 1 
+\i (00:27:33) setwindow pcb
+\i (00:27:33) zoom in 81.0339 5.4490
+\i (00:27:33) trapsize 2166
+\i (00:27:33) zoom in 1 
+\i (00:27:33) setwindow pcb
+\i (00:27:33) zoom in 80.9473 5.4490
+\i (00:27:33) trapsize 1083
+\i (00:28:17) pick = 78.868 7.35 
+\t (00:28:17) last pick:  78.8680  7.3500
+\i (00:28:18) zoom out 1 
+\i (00:28:18) setwindow pcb
+\i (00:28:18) zoom out 72.0887 0.9006
+\i (00:28:18) trapsize 2166
+\i (00:28:19) zoom out 1 
+\i (00:28:19) setwindow pcb
+\i (00:28:19) zoom out 74.7745 3.9762
+\i (00:28:19) trapsize 4332
+\i (00:28:54) pick grid 25.8249 21.6500
+\t (00:28:54) last pick:  25.4000  22.8600
+\i (00:28:57) prepopup 37.6075 26.5883
+\i (00:28:57) oops 
+\t (00:28:57) last pick:  78.8680  7.3500
+\i (00:29:40) setwindow form.mini
+\i (00:29:40) FORM mini subclass SILKSCREEN_TOP 
+\i (00:30:00) FORM mini subclass ASSEMBLY_BOTTOM 
+\i (00:30:11) setwindow pcb
+\i (00:30:11) pick = -1.338 -4.72 
+\t (00:30:11) last pick:  -1.3380  -4.7200
+\i (00:30:21) pick = 78.868 7.35 
+\t (00:30:21) last pick:  78.8680  7.3500
+\i (00:30:31) save 
+\f (00:30:31) C:/Users/sskalick/Documents/Motherboard/Schematics/Footprints/pci_32_edge.dra: File Exists. Overwrite? 
+\i (00:30:33) fillin yes 
+\e (00:30:33) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:30:33) generaledit 
+\i (00:30:35) setwindow text
+\i (00:30:35) close 
+\i (00:30:41) setwindow pcb
+\i (00:30:41) flipdesign 
+\i (00:30:41) generaledit 
+\i (00:30:47) flipdesign 
+\i (00:30:47) generaledit 
+\i (00:30:55) padeditlib 
+\f (00:30:55) Select Library Padstack
+\i (00:31:00) fillin "Pci_Edge"
+\i (00:31:03) setwindow form.padedit
+\i (00:31:03) FORM padedit single YES 
+\i (00:31:04) FORM padedit crossbox YES 
+\i (00:31:07) pse_save 
+\f (00:31:07) Saving this padstack with Single Mode "On" will result in the deletion of all pads on other etch layers.
+ Do you wish to continue with the save?
+\i (00:31:08) fillin yes 
+\f (00:31:08) C:/Users/sskalick/Documents/Motherboard/Schematics/Footprints/pci_edge.pad: File Exists. Overwrite? 
+\i (00:31:09) fillin yes 
+\i (00:31:14) pse_save 
+\f (00:31:14) C:/Users/sskalick/Documents/Motherboard/Schematics/Footprints/pci_edge.pad: File Exists. Overwrite? 
+\i (00:31:15) fillin yes 
+\i (00:31:18) pse_update 
+\i (00:31:21) pse_exit
+\f (00:31:21) Select Library Padstack
+\i (00:31:22) fillin "menu_ok"
+\t (00:31:22) DRC Required please wait...
+\t (00:31:22) Performing DRC...
+\t (00:31:22) No DRC errors detected.
+\i (00:31:22) setwindow pcb
+\i (00:31:22) generaledit 
+\i (00:31:24) flipdesign 
+\i (00:31:24) generaledit 
+\i (00:31:24) flipdesign 
+\i (00:31:25) generaledit 
+\i (00:31:29) flipdesign 
+\i (00:31:29) generaledit 
+\i (00:31:31) flipdesign 
+\i (00:31:31) generaledit 
+\i (00:31:36) setwindow form.vf_vis
+\i (00:31:36) FORM vf_vis 1 all_colorvisible NO 
+\i (00:31:37) FORM vf_vis 2 all_colorvisible NO 
+\i (00:31:38) FORM vf_vis 2 all_colorvisible YES 
+\i (00:31:39) FORM vf_vis 1 all_colorvisible YES 
+\i (00:31:43) setwindow form.mini
+\i (00:31:43) FORM mini class PACKAGE GEOMETRY 
+\i (00:31:46) FORM mini subcolor 0 
+\i (00:31:47) FORM mini subcolor 1 
+\i (00:31:50) setwindow pcb
+\i (00:31:50) save 
+\f (00:31:50) C:/Users/sskalick/Documents/Motherboard/Schematics/Footprints/pci_32_edge.dra: File Exists. Overwrite? 
+\i (00:31:51) fillin yes 
+\e (00:31:51) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:31:51) generaledit 
+\i (00:31:53) setwindow text
+\i (00:31:53) close 
+\i (00:31:59) setwindow pcb
+\i (00:31:59) add text 
+\t (00:31:59) Pick text location.
+\i (00:32:07) setwindow form.mini
+\i (00:32:07) FORM mini class REF DES 
+\i (00:32:10) setwindow pcb
+\i (00:32:10) zoom in 1 
+\i (00:32:10) setwindow pcb
+\i (00:32:10) zoom in 74.6878 4.7559
+\i (00:32:10) trapsize 2166
+\i (00:32:15) pick grid 72.4353 7.7449
+\t (00:32:15) last pick:  72.3900  7.6200
+\t (00:32:15) Enter text string.
+\i (00:32:30) setwindow form.mini
+\i (00:32:30) FORM mini subclass DISPLAY_TOP 
+\i (00:32:31) setwindow pcb
+\i (00:32:31) pick grid 72.4786 7.7882
+\t (00:32:31) last pick:  72.3900  7.6200
+\i (00:32:31) setwindow pcb
+\i (00:32:31) pick 72.3900 7.6200
+\t (00:32:31) Enter text string.
+\i (00:32:36) setwindow form.mini
+\i (00:32:36) FORM mini subclass SILKSCREEN_TOP 
+\i (00:32:37) setwindow pcb
+\i (00:32:37) pick grid 72.4786 7.6150
+\t (00:32:37) last pick:  72.3900  7.6200
+\i (00:32:37) setwindow pcb
+\i (00:32:37) pick 72.3900 7.6200
+\t (00:32:37) Enter text string.
+\i (00:32:41) setwindow pcb
+\i (00:32:41) prepopup 82.9183 13.1164
+\i (00:32:42) done 
+\i (00:32:42) setwindow pcb
+\i (00:32:42) pick 72.3900 7.6200
+\i (00:32:42) setwindow pcb
+\i (00:32:42) generaledit 
+\i (00:32:44) save 
+\f (00:32:44) C:/Users/sskalick/Documents/Motherboard/Schematics/Footprints/pci_32_edge.dra: File Exists. Overwrite? 
+\i (00:32:46) fillin yes 
+\t (00:32:46) Symbol 'pci_32_edge.psm' created.
+\i (00:32:46) generaledit 
+\i (00:32:47) exit 

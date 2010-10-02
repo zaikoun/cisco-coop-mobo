@@ -30,35 +30,86 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\pci card.dsn")
-      (Path "Design Resources" ".\pci card.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\pci card.dsn")
+      (Path "Design Resources"
+         "C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\pci card.dsn"
+         "SCHEMATIC1")
       (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\library1.olb")
       (Path "Design Resources" "Library" ".\capacitor.olb")
       (Path "Design Resources" "Library" ".\resistor.olb")
       (Path "Outputs")
-      (Select "Design Resources" ".\pci card.dsn" "SCHEMATIC1"))
+      (Select "Design Resources"
+         "C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\pci card.dsn"
+         "SCHEMATIC1" "02 PCI Connector"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -4 -30 -3 283 -1 513"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 277 1061 -1 522")
-        (Scroll "33 10")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\PCI CARD\PCI CARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "12 Power Regulation")))
+        (Placement "44 2 3 -1 -1 -8 -30 -3 283 -1 513"))
+      (Tab 0)))
   (PartMRUSelector
+    (84.5k_1/10W
+      (FullPartName "84.5k_1/10W.Normal")
+      (LibraryName
+         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\RESISTOR.OLB")
+      (DeviceIndex "0"))
     (330uF_6.3v
       (FullPartName "330uF_6.3v.Normal")
       (LibraryName
-         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\PCI CARD\CAPACITOR.OLB")
+         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\CAPACITOR.OLB")
+      (DeviceIndex "0"))
+    (TI_PTH03000
+      (FullPartName "TI_PTH03000.Normal")
+      (LibraryName
+         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (44.2k_1/10W
+      (FullPartName "44.2k_1/10W.Normal")
+      (LibraryName
+         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\RESISTOR.OLB")
+      (DeviceIndex "0"))
+    (47uF_6.3v
+      (FullPartName "47uF_6.3v.Normal")
+      (LibraryName
+         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\CAPACITOR.OLB")
+      (DeviceIndex "0"))
+    (31.6k_1/10W
+      (FullPartName "31.6k_1/10W.Normal")
+      (LibraryName
+         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\RESISTOR.OLB")
+      (DeviceIndex "0"))
+    (30.1k_1/10W
+      (FullPartName "30.1k_1/10W.Normal")
+      (LibraryName
+         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\RESISTOR.OLB")
+      (DeviceIndex "0"))
+    (10uF_6.3v
+      (FullPartName "10uF_6.3v.Normal")
+      (LibraryName
+         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\CAPACITOR.OLB")
+      (DeviceIndex "0"))
+    (100_1/10W
+      (FullPartName "100_1/10W.Normal")
+      (LibraryName
+         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\RESISTOR.OLB")
+      (DeviceIndex "0"))
+    (TI_TPS75501
+      (FullPartName "TI_TPS75501.Normal")
+      (LibraryName
+         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (1k_1/10W
+      (FullPartName "1k_1/10W.Normal")
+      (LibraryName
+         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\RESISTOR.OLB")
+      (DeviceIndex "0"))
+    (TI_PTH05050Y
+      (FullPartName "TI_PTH05050Y.Normal")
+      (LibraryName
+         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\LIBRARY1.OLB")
       (DeviceIndex "0"))
     (330uF_2.5v
       (FullPartName "330uF_2.5v.Normal")
@@ -116,39 +167,7 @@
     (OFFPAGERIGHT-R
       (LibraryName
          "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
-      (DeviceIndex "0"))
-    ("Mini DIMM 1GB Smart"
-      (FullPartName "Mini DIMM 1GB SmartE.Normal")
-      (LibraryName
-         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\LIBRARY1.OLB")
-      (DeviceIndex "4"))
-    ("Mini DIMM 244pin"
-      (FullPartName "Mini DIMM 244pin.Normal")
-      (LibraryName
-         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\LIBRARY1.OLB")
-      (DeviceIndex "0"))
-    ("HEADER 7X2"
-      (FullPartName "HEADER 7X2.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
-      (DeviceIndex "0"))
-    ("HEADER 14X2"
-      (FullPartName "HEADER 14X2.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
-      (DeviceIndex "0"))
-    ("TEST POINT"
-      (FullPartName "TEST POINT.Normal")
-      (LibraryName
-         "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\LIBRARY1.OLB")
-      (DeviceIndex "0"))
-    ("HEADER 3x2/SM"
-      (FullPartName "HEADER 3x2/SM.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
-      (DeviceIndex "0"))
-    ("PCI 32 connector"
-      (FullPartName "PCI 32 connectorC.Normal")
-      (LibraryName
-         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\PCI CARD\LIBRARY1.OLB")
-      (DeviceIndex "2")))
-  (MPSSessionName "Sam Skalicky")
+      (DeviceIndex "0")))
+  (MPSSessionName "sskalick")
   (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.3\tools\capture\library")
   (ISPCBBASICLICENSE "false"))

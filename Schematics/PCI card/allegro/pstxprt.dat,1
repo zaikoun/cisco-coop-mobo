@@ -1,111 +1,11 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.3.0 p002Oct-01-2010 at 16:45:50 }
+{ Using PSTWRITER 16.3.0 p002Sep-30-2010 at 20:24:30 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='PCI CARD';
  POST_TIME='Nov 17 2009 03:09:43';
  SOURCE_TOOL='CAPTURE_WRITER';
 END_DIRECTIVES;
-
-PART_NAME
- C10 '10UF_6.3V_C3216_10UF':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS266543@CAPACITOR.10UF_6.3V.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins266543@capacitor.\10uf_6.3v.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins266543@capacitor.\10uf_6.3v.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C11 '47UF_6.3V_C3216_47UF':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS266679@CAPACITOR.47UF_6.3V.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins266679@capacitor.\47uf_6.3v.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins266679@capacitor.\47uf_6.3v.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C12 '330UF_6.3V_C7343_330UF':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS266996@CAPACITOR.330UF_6.3V.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins266996@capacitor.\330uf_6.3v.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins266996@capacitor.\330uf_6.3v.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C13 '330UF_6.3V_C7343_330UF':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS267020@CAPACITOR.330UF_6.3V.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins267020@capacitor.\330uf_6.3v.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins267020@capacitor.\330uf_6.3v.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C4 '330UF_2.5V_C7343_330UF':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS249628@CAPACITOR.330UF_2.5V.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins249628@capacitor.\330uf_2.5v.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins249628@capacitor.\330uf_2.5v.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C5 '330UF_6.3V_C7343_330UF':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS255959@CAPACITOR.330UF_6.3V.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins255959@capacitor.\330uf_6.3v.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins255959@capacitor.\330uf_6.3v.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C6 '330UF_2.5V_C7343_330UF':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS264850@CAPACITOR.330UF_2.5V.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins264850@capacitor.\330uf_2.5v.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins264850@capacitor.\330uf_2.5v.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C7 '330UF_6.3V_C7343_330UF':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS264874@CAPACITOR.330UF_6.3V.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins264874@capacitor.\330uf_6.3v.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins264874@capacitor.\330uf_6.3v.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C8 '10UF_6.3V_C3216_10UF':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS265625@CAPACITOR.10UF_6.3V.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins265625@capacitor.\10uf_6.3v.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins265625@capacitor.\10uf_6.3v.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C9 '47UF_6.3V_C3216_47UF':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS266053@CAPACITOR.47UF_6.3V.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins266053@capacitor.\47uf_6.3v.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins266053@capacitor.\47uf_6.3v.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
 
 PART_NAME
  J1 'PCI 32 CONNECTOR_PCI_PCI 32 CON':;
@@ -290,12 +190,32 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ R19 'R_0805_0805_SMD_1K_0805':;
+
+SECTION_NUMBER 1
+ '@PCI CARD.SCHEMATIC1(SCH_1):INS123565@LIBRARY1.R_0805.NORMAL(CHIPS)':
+ C_PATH='@\pci card\.schematic1(sch_1):ins123565@library1.\r_0805.normal\(chips)',
+ P_PATH='@pci card.schematic1(sch_1):page9_ins123565@library1.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  R2 'R_0805_0805_SMD_100_0805':;
 
 SECTION_NUMBER 1
  '@PCI CARD.SCHEMATIC1(SCH_1):INS82916@LIBRARY1.R_0805.NORMAL(CHIPS)':
  C_PATH='@\pci card\.schematic1(sch_1):ins82916@library1.\r_0805.normal\(chips)',
  P_PATH='@pci card.schematic1(sch_1):page2_ins82916@library1.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_0805_0805_SMD_1K_0805':;
+
+SECTION_NUMBER 1
+ '@PCI CARD.SCHEMATIC1(SCH_1):INS123581@LIBRARY1.R_0805.NORMAL(CHIPS)':
+ C_PATH='@\pci card\.schematic1(sch_1):ins123581@library1.\r_0805.normal\(chips)',
+ P_PATH='@pci card.schematic1(sch_1):page9_ins123581@library1.\r_0805.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -410,122 +330,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R37 'R_0805_0805_SMD_6.65K_0805':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS249124@LIBRARY1.R_0805.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins249124@library1.\r_0805.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins249124@library1.\r_0805.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R38 '1K_1/10W_0805_1K':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS265015@RESISTOR.1K_1/10W.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins265015@resistor.\1k_1/10w.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins265015@resistor.\1k_1/10w.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R39 '1K_1/10W_0805_1K':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS265039@RESISTOR.1K_1/10W.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins265039@resistor.\1k_1/10w.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins265039@resistor.\1k_1/10w.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  R4 'R_0805_0805_SMD_100_0805':;
 
 SECTION_NUMBER 1
  '@PCI CARD.SCHEMATIC1(SCH_1):INS85469@LIBRARY1.R_0805.NORMAL(CHIPS)':
  C_PATH='@\pci card\.schematic1(sch_1):ins85469@library1.\r_0805.normal\(chips)',
  P_PATH='@pci card.schematic1(sch_1):page2_ins85469@library1.\r_0805.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R40 '1K_1/10W_0805_1K':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS265149@RESISTOR.1K_1/10W.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins265149@resistor.\1k_1/10w.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins265149@resistor.\1k_1/10w.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R41 '100_1/10W_0805_100':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS265508@RESISTOR.100_1/10W.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins265508@resistor.\100_1/10w.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins265508@resistor.\100_1/10w.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R42 '30.1K_1/10W_0805_30.1K':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS265823@RESISTOR.30.1K_1/10W.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins265823@resistor.\30.1k_1/10w.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins265823@resistor.\30.1k_1/10w.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R43 '31.6K_1/10W_0805_31.6K':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS265860@RESISTOR.31.6K_1/10W.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins265860@resistor.\31.6k_1/10w.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins265860@resistor.\31.6k_1/10w.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R44 '100_1/10W_0805_100':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS266503@RESISTOR.100_1/10W.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins266503@resistor.\100_1/10w.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins266503@resistor.\100_1/10w.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R45 '30.1K_1/10W_0805_30.1K':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS266595@RESISTOR.30.1K_1/10W.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins266595@resistor.\30.1k_1/10w.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins266595@resistor.\30.1k_1/10w.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R46 '44.2K_1/10W_0805_44.2K':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS266843@RESISTOR.44.2K_1/10W.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins266843@resistor.\44.2k_1/10w.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins266843@resistor.\44.2k_1/10w.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R47 '84.5K_1/10W_0805_84.5K':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS267365@RESISTOR.84.5K_1/10W.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins267365@resistor.\84.5k_1/10w.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins267365@resistor.\84.5k_1/10w.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -686,56 +496,6 @@ SECTION_NUMBER 1
  '@PCI CARD.SCHEMATIC1(SCH_1):INS232188@LIBRARY1.XCF32P_FS48.NORMAL(CHIPS)':
  C_PATH='@\pci card\.schematic1(sch_1):ins232188@library1.\xcf32p_fs48.normal\(chips)',
  P_PATH='@pci card.schematic1(sch_1):page4_ins232188@library1.\xcf32p_fs48.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- U3 'TI_PTH05000W_PTH05000W_TI PTH05':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS237422@LIBRARY1.TI_PTH05000W.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins237422@library1.\ti_pth05000w.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins237422@library1.\ti_pth05000w.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- U4 'TI_PTH05050Y_PTH05050Y_TI PTH05':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS264675@LIBRARY1.TI_PTH05050Y.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins264675@library1.\ti_pth05050y.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins264675@library1.\ti_pth05050y.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- U5 'TI_TPS75501_TPS75501_TPS75501':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS265227@LIBRARY1.TI_TPS75501.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins265227@library1.\ti_tps75501.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins265227@library1.\ti_tps75501.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- U6 'TI_TPS75501_TPS75501_TPS75501':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS266447@LIBRARY1.TI_TPS75501.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins266447@library1.\ti_tps75501.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins266447@library1.\ti_tps75501.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- U7 'TI_PTH03000_PTH03000_TI_PTH0300':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS266911@LIBRARY1.TI_PTH03000.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins266911@library1.\ti_pth03000.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page12_ins266911@library1.\ti_pth03000.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
