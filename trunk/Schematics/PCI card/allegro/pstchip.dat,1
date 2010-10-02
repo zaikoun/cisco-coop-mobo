@@ -1,65 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.3.0 p002Oct-01-2010 at 16:45:50}
-primitive '10UF_6.3V_C3216_10UF';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='10uF_6.3v';
-    JEDEC_TYPE='c3216';
-    VALUE='10uF';
-  end_body;
-end_primitive;
-primitive '47UF_6.3V_C3216_47UF';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='47uF_6.3v';
-    JEDEC_TYPE='c3216';
-    VALUE='47uF';
-  end_body;
-end_primitive;
-primitive '330UF_6.3V_C7343_330UF';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='330uF_6.3v';
-    JEDEC_TYPE='c7343';
-    VALUE='330uF';
-  end_body;
-end_primitive;
-primitive '330UF_2.5V_C7343_330UF';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='330uF_2.5v';
-    JEDEC_TYPE='c7343';
-    VALUE='330uF';
-  end_body;
-end_primitive;
+{ Using PSTWRITER 16.3.0 p002Sep-30-2010 at 20:24:30}
 primitive 'PCI 32 CONNECTOR_PCI_PCI 32 CON';
   pin
     'TRST':
@@ -1278,6 +1218,21 @@ primitive 'R_0805_0805_SMD_4.7K_0805';
     VALUE='4.7k_0805';
   end_body;
 end_primitive;
+primitive 'R_0805_0805_SMD_1K_0805';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R_0805';
+    JEDEC_TYPE='0805_smd';
+    VALUE='1k_0805';
+  end_body;
+end_primitive;
 primitive 'R_0805_0805_SMD_49.9_0805';
   pin
     '1':
@@ -1306,111 +1261,6 @@ primitive 'R_0805_0805_SMD_15_0805';
     PART_NAME='R_0805';
     JEDEC_TYPE='0805_smd';
     VALUE='15_0805';
-  end_body;
-end_primitive;
-primitive 'R_0805_0805_SMD_6.65K_0805';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R_0805';
-    JEDEC_TYPE='0805_smd';
-    VALUE='6.65k_0805';
-  end_body;
-end_primitive;
-primitive '1K_1/10W_0805_1K';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='1k_1/10W';
-    JEDEC_TYPE='0805';
-    VALUE='1k';
-  end_body;
-end_primitive;
-primitive '100_1/10W_0805_100';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='100_1/10W';
-    JEDEC_TYPE='0805';
-    VALUE='100';
-  end_body;
-end_primitive;
-primitive '30.1K_1/10W_0805_30.1K';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='30.1k_1/10W';
-    JEDEC_TYPE='0805';
-    VALUE='30.1k';
-  end_body;
-end_primitive;
-primitive '31.6K_1/10W_0805_31.6K';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='31.6k_1/10W';
-    JEDEC_TYPE='0805';
-    VALUE='31.6k';
-  end_body;
-end_primitive;
-primitive '44.2K_1/10W_0805_44.2K';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='44.2k_1/10W';
-    JEDEC_TYPE='0805';
-    VALUE='44.2k';
-  end_body;
-end_primitive;
-primitive '84.5K_1/10W_0805_84.5K';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='84.5k_1/10W';
-    JEDEC_TYPE='0805';
-    VALUE='84.5k';
   end_body;
 end_primitive;
 primitive 'TEST POINT_TEST_POINT_PCI_3.3VA';
@@ -5053,108 +4903,6 @@ primitive 'XCF32P_FS48_XC32PFS48_XCF32P_FS';
     PART_NAME='XCF32P_FS48';
     JEDEC_TYPE='xc32pfs48';
     VALUE='XCF32P_FS48';
-  end_body;
-end_primitive;
-primitive 'TI_PTH05000W_PTH05000W_TI PTH05';
-  pin
-    'VIN':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    '#OFF':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'VOUT':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-    'VO_ADJ':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    'GND':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='TI_PTH05000W';
-    JEDEC_TYPE='pth05000w';
-    VALUE='TI PTH05000W';
-  end_body;
-end_primitive;
-primitive 'TI_PTH05050Y_PTH05050Y_TI PTH05';
-  pin
-    'GND':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'VREF':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    'VIN':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    '#OFF':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    'VOUT':
-      PIN_NUMBER='(6)';
-      PINUSE='UNSPEC';
-    'NC':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='TI_PTH05050Y';
-    JEDEC_TYPE='pth05050y';
-    VALUE='TI PTH05050Y';
-  end_body;
-end_primitive;
-primitive 'TI_TPS75501_TPS75501_TPS75501';
-  pin
-    'IN':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    'EN_B':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'GND':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'OUT':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    'FB':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-    'TAB':
-      PIN_NUMBER='(6)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='TI_TPS75501';
-    JEDEC_TYPE='tps75501';
-    VALUE='TPS75501';
-  end_body;
-end_primitive;
-primitive 'TI_PTH03000_PTH03000_TI_PTH0300';
-  pin
-    'GND':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'VIN':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    '#OFF':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'VOUT':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-    'ADJ':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='TI_PTH03000';
-    JEDEC_TYPE='pth03000';
-    VALUE='TI_PTH03000';
   end_body;
 end_primitive;
 END.
