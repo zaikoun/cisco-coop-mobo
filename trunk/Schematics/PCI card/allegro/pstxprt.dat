@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.3.0 p002Oct-01-2010 at 16:45:50 }
+{ Using PSTWRITER 16.3.0 p002Oct-01-2010 at 23:07:16 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='PCI CARD';
@@ -108,30 +108,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- J1 'PCI 32 CONNECTOR_PCI_PCI 32 CON':;
-
-SECTION_NUMBER 1
- '@PCI CARD.SCHEMATIC1(SCH_1):INS67046@LIBRARY1.PCI 32 CONNECTORA.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins67046@library1.\pci 32 connectora.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page2_ins67046@library1.\pci 32 connectora.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='A';
-
-SECTION_NUMBER 2
- '@PCI CARD.SCHEMATIC1(SCH_1):INS67259@LIBRARY1.PCI 32 CONNECTORB.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins67259@library1.\pci 32 connectorb.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page2_ins67259@library1.\pci 32 connectorb.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='B';
-
-SECTION_NUMBER 3
- '@PCI CARD.SCHEMATIC1(SCH_1):INS67460@LIBRARY1.PCI 32 CONNECTORC.NORMAL(CHIPS)':
- C_PATH='@\pci card\.schematic1(sch_1):ins67460@library1.\pci 32 connectorc.normal\(chips)',
- P_PATH='@pci card.schematic1(sch_1):page2_ins67460@library1.\pci 32 connectorc.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='C';
-
-PART_NAME
  J2 'HEADER 3X2/SM_HEADER3X2_HEADER':;
 
 SECTION_NUMBER 1
@@ -188,6 +164,26 @@ SECTION_NUMBER 5
  P_PATH='@pci card.schematic1(sch_1):page9_ins111961@library1.\mini dimm 1gb smarte.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='E';
+
+PART_NAME
+ J5 'PCI 32 BOTTOM EDGE_PCI_32_EDGE_':;
+
+SECTION_NUMBER 1
+ '@PCI CARD.SCHEMATIC1(SCH_1):INS314527@LIBRARY1.PCI 32 BOTTOM EDGE.NORMAL(CHIPS)':
+ C_PATH='@\pci card\.schematic1(sch_1):ins314527@library1.\pci 32 bottom edge.normal\(chips)',
+ P_PATH='@pci card.schematic1(sch_1):page2_ins314527@library1.\pci 32 bottom edge.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'PCI 32 TOP EDGE_PCI_32_EDGE_TOP':;
+
+SECTION_NUMBER 1
+ '@PCI CARD.SCHEMATIC1(SCH_1):INS314929@LIBRARY1.PCI 32 TOP EDGE.NORMAL(CHIPS)':
+ C_PATH='@\pci card\.schematic1(sch_1):ins314929@library1.\pci 32 top edge.normal\(chips)',
+ P_PATH='@pci card.schematic1(sch_1):page2_ins314929@library1.\pci 32 top edge.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
 
 PART_NAME
  R1 'R_0805_0805_SMD_100_0805':;

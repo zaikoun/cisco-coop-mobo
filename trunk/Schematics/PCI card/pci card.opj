@@ -30,27 +30,28 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\pci card.dsn")
-      (Path "Design Resources"
-         "C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\pci card.dsn"
-         "SCHEMATIC1")
+      (Path "Design Resources" ".\pci card.dsn")
+      (Path "Design Resources" ".\pci card.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library"
-         "C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\library1.olb")
-      (Path "Design Resources" "Library" ".\capacitor.olb")
-      (Path "Design Resources" "Library" ".\resistor.olb")
       (Path "Outputs")
-      (Select "Design Resources"
-         "C:\Users\sskalick\Documents\Motherboard\Schematics\PCI card\pci card.dsn"
-         "SCHEMATIC1" "02 PCI Connector"))
+      (Select "Design Resources" ".\pci card.dsn" "SCHEMATIC1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 -3 283 -1 513"))
+        (Placement "44 2 3 -1 -1 -4 -30 -3 283 -1 513"))
       (Tab 0)))
   (PartMRUSelector
+    ("PCI 32 Top Edge"
+      (FullPartName "PCI 32 Top Edge.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\PCI CARD\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("PCI 32 Bottom Edge"
+      (FullPartName "PCI 32 Bottom Edge.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\PCI CARD\LIBRARY1.OLB")
+      (DeviceIndex "0"))
     (84.5k_1/10W
       (FullPartName "84.5k_1/10W.Normal")
       (LibraryName
@@ -160,14 +161,7 @@
       (FullPartName "XC4VLX80_FF1148D.Normal")
       (LibraryName
          "C:\USERS\SSKALICK\DOCUMENTS\MOTHERBOARD\SCHEMATICS\PCI CARD\LIBRARY1.OLB")
-      (DeviceIndex "3"))
-    (OFFPAGELEFT-L
-      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (OFFPAGERIGHT-R
-      (LibraryName
-         "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\MOTHERBOARD\LIBRARY1.OLB")
-      (DeviceIndex "0")))
-  (MPSSessionName "sskalick")
+      (DeviceIndex "3")))
+  (MPSSessionName "Sam Skalicky")
   (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.3\tools\capture\library")
   (ISPCBBASICLICENSE "false"))
