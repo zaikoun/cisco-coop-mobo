@@ -2129,4 +2129,21 @@ window pcb
 \i (00:28:25) zoom in -2.1322 1.5923
 \i (00:28:25) trapsize 2983
 \i (00:28:26) delete 
-\i (00:28:28) pick
+\i (00:28:28) pick grid 12.5441 5.2912
+\t (00:28:28) last pick:  12.5440  5.2900
+\t (00:28:28) Shape "Package Geometry/Place_Bound_Bottom"
+\i (00:28:29) pick grid 12.1265 15.9107
+\t (00:28:29) last pick:  12.1260  15.9100
+\i (00:28:29) prepopup 10.2770 15.6720
+\i (00:28:30) done 
+\i (00:28:30) generaledit 
+\i (00:28:34) property edit 
+\t (00:28:34) Adjust find filter then select an element or group of elements.
+\i (00:28:35) pick grid 9.1435 4.6350
+\t (00:28:35) last pick:  9.1440  4.6400
+\i (00:28:38) save 
+\f (00:28:38) C:/Documents and Settings/Sam Skalicky/My Documents/Motherboard/cisco-coop-mobo/Schematics/Footprints/pci_32_edge_bottom.dra: File Exists. Overwrite? 
+\i (00:28:39) fillin yes 
+\t (00:28:40) Symbol 'pci_32_edge_bottom.psm' created.
+\i (00:28:40) generaledit 
+\i (00:49:08) exit 
