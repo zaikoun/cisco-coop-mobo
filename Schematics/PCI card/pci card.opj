@@ -117,8 +117,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -4 -30 0 1233 0 258")
-        (Scroll "0 729")
-        (Zoom "124")
+        (Scroll "-231 0")
+        (Zoom "43")
         (Occurrence "/"))
       (Path
          "C:\DOCUMENTS AND SETTINGS\SAM SKALICKY\MY DOCUMENTS\MOTHERBOARD\CISCO-COOP-MOBO\SCHEMATICS\PCI CARD\PCI CARD.DSN")
